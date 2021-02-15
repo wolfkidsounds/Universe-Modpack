@@ -1,0 +1,57 @@
+IGNORE_CONFIG_FILE: false
+
+activeBendingSettings: !!com.crowsofwar.avatar.common.config.ConfigClient$ActiveBendingSettings
+  shouldBendingMenuRender: true
+bendingCycleAlpha: 0.75
+chiBarAlpha: 0.5
+chiBarSettings: !!com.crowsofwar.avatar.common.config.ConfigClient$ChiBarSettings
+  shouldChiNumbersRender: true
+  shouldChibarRender: true
+displayGetBendingMessage: true
+nameConflicts:
+  airblade: false
+  fire_jump: false
+  wall: false
+  water_cannon: false
+  water_skate: false
+  inferno_punch: false
+  mine_blocks: false
+  slipstream: false
+  sandstorm: false
+  ravine: false
+  water_arc: false
+  wave: false
+  fireball: false
+  cleanse: false
+  water_bubble: false
+  air_burst: false
+  sand_prison: false
+  cloudburst: false
+  air_jump: false
+  flamethrower: false
+  lightning_spear: false
+  lightning_raze: false
+  air_gust: false
+  lightning_arc: false
+  boulder_ring: false
+  light_fire: false
+  restore: false
+  explosion: false
+  lightning_redirect: false
+  earthspike: false
+  air_bubble: false
+  ice_prison: false
+  fire_arc: false
+  ice_burst: false
+  purify: false
+  explosive_pillar: false
+  pickup_block: false
+nameKeymappings:
+  mine_blocks: null
+radialMenuAlpha: 0.75
+shaderSettings: !!com.crowsofwar.avatar.common.config.ConfigClient$ShaderSettings
+  useCleanseShaders: false
+  usePurifyShaders: false
+  useRestoreShaders: false
+  useSlipstreamShaders: false
+useCustomParticles: true
