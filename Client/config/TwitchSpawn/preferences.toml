@@ -32,7 +32,7 @@ chatGlobalCooldown=60000
 # "enabled" to fully enable
 # "circle_only" to show the circle only, without the logo
 # "disabled" to fully disable
-indicatorDisplay="enabled"
+indicatorDisplay="circle_only"
 
 # Attempt to auto-start the mod when the server/world is starting
 # Connection issues will be resulted in mod to stop. However, you can still start it manually.
