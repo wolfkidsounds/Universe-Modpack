@@ -1,0 +1,60 @@
+IGNORE_CONFIG_FILE: false
+
+activeBendingSettings:
+  shouldBendingMenuRender: true
+bendingCycleAlpha: 0.75
+chiBarAlpha: 0.5
+chiBarSettings:
+  shouldChiNumbersRender: true
+  shouldChibarRender: true
+displayGetBendingMessage: true
+nameConflicts:
+  water_cannon: false
+  pickup_block: false
+  wave: false
+  ice_prison: false
+  air_jump: false
+  water_bubble: false
+  airblade: false
+  mine_blocks: false
+  inferno_punch: false
+  restore: false
+  lightning_raze: false
+  air_burst: false
+  explosive_pillar: false
+  wall: false
+  air_gust: false
+  purify: false
+  air_bubble: false
+  cloudburst: false
+  sandstorm: false
+  sand_prison: false
+  fire_jump: false
+  water_skate: false
+  lightning_redirect: false
+  flamethrower: false
+  ravine: false
+  earthspike: false
+  ice_burst: false
+  light_fire: false
+  boulder_ring: false
+  lightning_spear: false
+  explosion: false
+  water_arc: false
+  cleanse: false
+  lightning_arc: false
+  slipstream: false
+  fire_arc: false
+  fireball: false
+nameKeymappings:
+  water_skate: 46
+  water_arc: 19
+  cleanse: 29
+  water_bubble: 33
+radialMenuAlpha: 0.75
+shaderSettings:
+  useCleanseShaders: false
+  usePurifyShaders: false
+  useRestoreShaders: false
+  useSlipstreamShaders: false
+useCustomParticles: true
