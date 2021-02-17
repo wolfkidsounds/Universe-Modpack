@@ -38,7 +38,6 @@ quark:white
 quark:resilience
 quark:curse
 quark:danger_sight
-twilightforest:frosted
 tconstruct:carry
 tconstruct:enderference
 tconstruct:insatiable
@@ -58,3 +57,4 @@ netherex:crying
 netherex:fire_burning
 netherex:soul_sucked
 tektopia:village_bless
+enderzoo:enderzoo.floatingpotion

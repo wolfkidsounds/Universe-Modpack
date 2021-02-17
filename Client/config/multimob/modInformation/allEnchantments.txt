@@ -35,12 +35,13 @@ railcraft:smack
 bibliocraft:bibliocraft.deathcompassench
 bibliocraft:bibliocraft.readingench
 endercore:xpboost
-endercore:autosmelt
-enderio:soulbound
-enderio:witherweapon
 enderio:witherarrow
 enderio:repellent
+enderio:soulbound
 enderio:shimmer
+enderio:witherweapon
+enderzoo:witherarrow
+enderzoo:witherweapon
 aquaculture:appealing
 aquaculture:magnetic
 aquaculture:long_cast
