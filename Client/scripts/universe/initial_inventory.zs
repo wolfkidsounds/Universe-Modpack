@@ -1,6 +1,8 @@
 import mods.initialinventory.InvHandler;
 import crafttweaker.item.IItemStack;
 
+//version 3.5
+
 //
 //Example
 //
