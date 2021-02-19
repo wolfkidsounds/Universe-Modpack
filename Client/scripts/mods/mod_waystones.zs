@@ -1,5 +1,7 @@
 import crafttweaker.item.IItemStack;
 
+//version v3.6
+
 //
 //Example
 //
