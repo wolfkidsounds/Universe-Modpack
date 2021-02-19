@@ -1,17 +1,13 @@
 import mods.initialinventory.InvHandler;
 import crafttweaker.item.IItemStack;
 
-//version 3.5
-
+//version 3.6
 //
 //Example
 //
-
-//mods.initialinventory.InvHandler.addStartingItem(String key, IItemStack item, Optional int index);
-//string key: name or integer (start times)
-//index: integer defining the item slot
-//mods.initialinventory.InvHandler.addStartingItem(<minecraft:apple>);
-//mods.initialinventory.InvHandler.addStartingItem(<minecraft:golden_apple>, 5);
+//                                                      <item>,                     index
+//  mods.initialinventory.InvHandler.addStartingItem(   <minecraft:golden_apple>,   5);
+//-----------------------------------------------------------------------------------------------
 
 //InitialInventory
     //AvatarScroll
