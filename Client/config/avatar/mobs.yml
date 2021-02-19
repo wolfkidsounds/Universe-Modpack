@@ -4,7 +4,7 @@
 # by outdated config files. By doing this, you will no longer recieve any new
 # config defaults...
 
-IGNORE_CONFIG_FILE: true
+IGNORE_CONFIG_FILE: false
 
 bisonBreedMaxMinutes: 120.0
 bisonBreedMinMinutes: 60.0
@@ -31,32 +31,32 @@ bisonMinDomestication: 500
 bisonOwnableTameness: 900
 bisonRideOneSecondTameness: 3
 bisonRiderTameness: 800
-maxNumberOfBenders: 3
+maxNumberOfBenders: 1
 scrollDropChance:
-  zombie_pigman: 15.0
+  zombie_pigman: 1.0
   chicken: 1.0
-  stray: 3.0
-  wither_skeleton: 15.0
-  elder_guardian: 20.0
-  magma_cube: 10.0
-  polar_bear: 5.0
-  skeleton: 1.5
-  bat: 7.5
-  husk: 3.0
-  blaze: 30.0
+  stray: 1.0
+  wither_skeleton: 1.0
+  elder_guardian: 1.0
+  magma_cube: 1.0
+  polar_bear: 1.0
+  skeleton: 1.0
+  bat: 1.0
+  husk: 1.0
+  blaze: 1.0
   mooshroom: 1.0
-  cave_spider: 2.5
-  silverfish: 5.0
-  zombie: 1.5
-  witch: 5.0
-  squid: 2.0
-  guardian: 10.0
-  ghast: 30.0
-  parrot: 5.0
-  spider: 2.0
-  sheep: 0.25
-  creeper: 0.75
-  enderman: 10.0
+  cave_spider: 1.0
+  silverfish: 1.0
+  zombie: 1.0
+  witch: 1.0
+  squid: 1.0
+  guardian: 1.0
+  ghast: 1.0
+  parrot: 1.0
+  spider: 1.0
+  sheep: 1.0
+  creeper: 1.0
+  enderman: 1.0
 scrollTradeItems:
   minecraft:gold_ingot: 1
   minecraft:emerald: 1
