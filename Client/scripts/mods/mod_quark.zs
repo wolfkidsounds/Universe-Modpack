@@ -1,12 +1,13 @@
 import crafttweaker.item.IItemStack;
 
+//version v3.6
+
 //
 //Example
 //
-
-//removeAndHide(IIngredient output, @optional boolean NBT-Match)
-//mods.jei.JEI.removeAndHide(<minecraft:iron_leggings>);
-//mods.jei.JEI.removeAndHide(<ore:planks>, false);
+//removeAndHide(IIngredient output)
+//  mods.jei.JEI.removeAndHide(<minecraft:iron_leggings>);
+//---------------------------------------------------------
 
 //RecipeRemoval
     //Backpack

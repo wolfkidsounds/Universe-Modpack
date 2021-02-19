@@ -107,7 +107,7 @@ dimensionExclude attributes:
     <dimensionExclude name="Twilight Forest"/>
   </entry>
 
-  <entry id="FallenKnight" mobName="fallenknight" rate="30" minGroupSize="1" maxGroupSize="4">
+  <entry id="FallenKnight" mobName="fallenknight" rate="10" minGroupSize="1" maxGroupSize="4">
     <biomeFilter type="any">
       <biome type="PLAINS" />
       <biome type="NETHER" exclude="true" />
