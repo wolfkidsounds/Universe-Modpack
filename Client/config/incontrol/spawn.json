@@ -1,1 +1,12 @@
-[]
+[ 
+    {
+        "dimension": 0,
+        "mob": "avatarmod:ostrichhorse",
+        "mincount": {
+          "amount": 50,
+          "hostile": false,
+          "perplayer": true
+        },
+        "result": "deny"
+      }
+]
