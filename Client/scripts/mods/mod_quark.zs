@@ -8,7 +8,3 @@ import crafttweaker.item.IItemStack;
 //removeAndHide(IIngredient output)
 //  mods.jei.JEI.removeAndHide(<minecraft:iron_leggings>);
 //---------------------------------------------------------
-
-//RecipeRemoval
-    //Backpack
-        mods.jei.JEI.removeAndHide(<quark:backpack>);
