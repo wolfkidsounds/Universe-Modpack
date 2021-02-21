@@ -40,7 +40,7 @@ import crafttweaker.oredict.IOreDictEntry;
             {oreChestWood.remove(item);}
     }
 
-//itere through list to add all items
+//iterate through list to add all items
     for item in chestList {
         oreChestWood.add(item);
     }
