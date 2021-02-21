@@ -2,7 +2,7 @@
   "version": "1.1.5:beta:0",
   "main": {
     "external_config": true,
-    "debug_mode": false,
+    "debug_mode": true,
     "custom_localization": false
   },
   "tweaks": {
