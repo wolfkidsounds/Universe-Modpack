@@ -14,3 +14,6 @@ val removeRecipe = [
 
     for item in removeRecipe {recipes.remove(item);}
 
+//removeFurnaceRecipes
+        furnace.remove(<am:copper_ingot> * 2);
+        furnace.remove(<am:silver_ingot> * 2);
