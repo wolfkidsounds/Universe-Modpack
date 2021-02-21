@@ -15,12 +15,17 @@ import crafttweaker.item.IItemStack;
 
 //removeRecipes
     recipes.remove(<harvestcraft:watertrap>);
+    recipes.remove(<harvestcraft:freshmilkitem> * 8);
 //----------------------------------------------------------------
 
 
 //addRecipes
-    recipes.addShaped("harvestcraft_watertrap", <harvestcraft:watertrap>,
- [[<ore:stickWood>,<minecraft:fishing_rod>,<ore:stickWood>],
-  [<ore:string>,<ore:chestWood>,<ore:string>],
-  [<ore:stickWood>,<ore:string>,<ore:stickWood>]]);
+    //waterFishTrap
+        recipes.addShaped("harvestcraft_watertrap", <harvestcraft:watertrap>,
+     [[<ore:stickWood>,<minecraft:fishing_rod>,<ore:stickWood>],
+      [<ore:string>,<ore:chestWood>,<ore:string>],
+      [<ore:stickWood>,<ore:string>,<ore:stickWood>]]);
+    
+    //OreDictedMilk
+        recipes.addShapeless(<harvestcraft:freshmilkitem> * 8, [<ore:listAllmilk>]);
 //----------------------------------------------------------------
