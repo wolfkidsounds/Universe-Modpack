@@ -8,5 +8,16 @@
           "perplayer": true
         },
         "result": "deny"
+      },
+      {
+        "dimension": 0,
+        "mob": "avatarmod:otterpenguin",
+        "biometype": "COLD",
+        "mincount": {
+          "amount": 50,
+          "hostile": false,
+          "perplayer": true
+        },
+        "result": "deny"
       }
 ]
