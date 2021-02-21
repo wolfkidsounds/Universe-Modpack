@@ -1,12 +1,12 @@
 {
   "discord": {
-    "token": "",
+    "token": "ODEzMDY0ODg2Mjc1NjcwMTA2.YDJ3rg.VnwC9dycxkxAOgALy2IEi_DnPLw",
     "ignoresBots": true,
     "allowLinking": true,
     "ignoresUsers": [],
     "channels": {
       "generic": {
-        "commandPrefix": "!",
+        "commandPrefix": "!mc",
         "canExecuteCommands": false,
         "stripMinecraftCodes": true,
         "allowDMCommands": false,
@@ -16,7 +16,8 @@
         },
         "commands": []
       },
-      "channels": {}
+      "channels": {"813090089218867231": {
+	  }
     }
   },
   "minecraft": {
@@ -26,18 +27,18 @@
         "relaySayCommand": true,
         "relayMeCommand": true,
         "canMentionEveryone": false,
-        "canMentionHere": false,
+        "canMentionHere": true,
         "messageIgnoreRegex": [],
         "relayServerStart": true,
         "relayServerStop": true,
         "relayServerCrash": true,
-        "chatPrefix": "",
+        "chatPrefix": "Minecraft said: ",
         "canMentionUsers": true,
         "canMentionRoles": true,
-        "discordChannel": [],
-        "relayAchievements": true,
+        "discordChannel": [813090089218867231],
+        "relayAchievements": false,
         "relayChat": true,
-        "relayCommands": true,
+        "relayCommands": false,
         "relayPlayerJoin": true,
         "relayPlayerLeave": true,
         "relayPlayerDeath": true,
@@ -74,7 +75,7 @@
       "dimensions": {}
     },
     "integrations": {
-      "dynmapEnabled": true
+      "dynmapEnabled": false
     }
   },
   "imc": {
@@ -82,4 +83,5 @@
     "mode": "whitelist",
     "list": []
   }
+}
 }
