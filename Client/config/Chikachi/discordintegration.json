@@ -1,7 +1,7 @@
 {
   "discord": {
     "token": "ODEzMDY0ODg2Mjc1NjcwMTA2.YDJ3rg.VnwC9dycxkxAOgALy2IEi_DnPLw",
-    "ignoresBots": true,
+    "ignoresBots": false,
     "allowLinking": true,
     "ignoresUsers": [],
     "channels": {
@@ -16,8 +16,9 @@
         },
         "commands": []
       },
-      "channels": {"813090089218867231": {
-	  }
+      "channels": {
+        "813090089218867231": {
+        }
     }
   },
   "minecraft": {
@@ -26,7 +27,7 @@
         "ignoreFakePlayerChat": true,
         "relaySayCommand": true,
         "relayMeCommand": true,
-        "canMentionEveryone": false,
+        "canMentionEveryone": true,
         "canMentionHere": true,
         "messageIgnoreRegex": [],
         "relayServerStart": true,
