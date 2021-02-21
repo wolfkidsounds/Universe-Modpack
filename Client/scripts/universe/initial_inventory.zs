@@ -15,3 +15,5 @@ import crafttweaker.item.IItemStack;
         mods.initialinventory.InvHandler.addStartingItem(<avatarmod:scroll>, 2);
         mods.initialinventory.InvHandler.addStartingItem(<avatarmod:scroll>, 3);
         mods.initialinventory.InvHandler.addStartingItem(<antiqueatlas:empty_antique_atlas>, 4);
+        mods.initialinventory.InvHandler.addStartingItem(<harvestcraft:applejuiceitem>*24, 5);
+        
