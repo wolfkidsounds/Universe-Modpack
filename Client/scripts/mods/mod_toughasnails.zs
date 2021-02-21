@@ -38,7 +38,20 @@ val removeAndHide = [
         <toughasnails:thermometer>,
         <toughasnails:ice_cube>,
         <toughasnails:magma_shard>,
-        <toughasnails:jelled_slime>
+        <toughasnails:jelled_slime>,
+        <toughasnails:campfire>,
+        <toughasnails:purified_water_bottle>,
+        <toughasnails:fruit_juice>,
+        <toughasnails:fruit_juice:1>,
+        <toughasnails:fruit_juice:2>,
+        <toughasnails:fruit_juice:3>,
+        <toughasnails:fruit_juice:4>,
+        <toughasnails:fruit_juice:5>,
+        <toughasnails:fruit_juice:6>,
+        <toughasnails:fruit_juice:7>,
+        <toughasnails:fruit_juice:8>,
+        <toughasnails:fruit_juice:9>,
+        <toughasnails:charcoal_filter>
 ] as IItemStack[];
 
     for item in removeAndHide {mods.jei.JEI.removeAndHide(item);}
