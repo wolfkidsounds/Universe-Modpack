@@ -96,4 +96,3 @@
 //  mods.ltt.LootTable.removeGlobalItem(String itemId);
 //  mods.ltt.LootTable.removeGlobalItem("minecraft:iron_ingot");
 //---------------------------------------------------------------------------------------------
-
