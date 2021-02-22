@@ -16,6 +16,7 @@ import crafttweaker.item.IItemStack;
 //removeRecipes
     recipes.remove(<harvestcraft:watertrap>);
     recipes.remove(<harvestcraft:freshmilkitem> * 8);
+    recipes.remove(<harvestcraft:garliccoinitem>);
 //----------------------------------------------------------------
 
 
