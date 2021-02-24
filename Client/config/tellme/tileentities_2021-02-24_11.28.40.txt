@@ -1,0 +1,692 @@
++---------------------------------------------------------------------------------------------------------+-------------------------------------------------------+----------+
+| Class                                                                                                   | Registry name                                         | Ticking? |
++---------------------------------------------------------------------------------------------------------+-------------------------------------------------------+----------+
+| codechicken.enderstorage.tile.TileEnderChest                                                            | minecraft:ender chest                                 |      yes |
+| codechicken.enderstorage.tile.TileEnderTank                                                             | minecraft:ender tank                                  |      yes |
+| codechicken.multipart.handler.MultipartSaveLoad$TileNBTContainer                                        | ccmp:saved_multipart                                  |      yes |
+| com.blakebr0.mysticalagriculture.tileentity.TileEntitySeedReprocessor                                   | minecraft:ma_seed_reprocessor                         |      yes |
+| com.blakebr0.mysticalagriculture.tileentity.TileEntityTinkeringTable                                    | minecraft:ma.tinkering_table                          |        - |
+| com.blakebr0.mysticalagriculture.tileentity.reprocessor.TileInferiumReprocessor                         | mysticalagriculture:inferium_reprocessor              |      yes |
+| com.blakebr0.mysticalagriculture.tileentity.reprocessor.TileIntermediumReprocessor                      | mysticalagriculture:intermedium_reprocessor           |      yes |
+| com.blakebr0.mysticalagriculture.tileentity.reprocessor.TilePrudentiumReprocessor                       | mysticalagriculture:prudentium_reprocessor            |      yes |
+| com.blakebr0.mysticalagriculture.tileentity.reprocessor.TileSuperiumReprocessor                         | mysticalagriculture:superium_reprocessor              |      yes |
+| com.blakebr0.mysticalagriculture.tileentity.reprocessor.TileSupremiumReprocessor                        | mysticalagriculture:supremium_reprocessor             |      yes |
+| com.blakebr0.mysticalagriculture.tileentity.reprocessor.TileUltimateReprocessor                         | mysticalagriculture:ultimate_reprocessor              |      yes |
+| com.infinityraider.agricraft.tiles.TileEntityCrop                                                       | agricraft:tile.crop                                   |        - |
+| com.infinityraider.agricraft.tiles.TileEntityPeripheral                                                 | agricraft:tile.peripheral                             |      yes |
+| com.infinityraider.agricraft.tiles.analyzer.TileEntitySeedAnalyzer                                      | agricraft:tile.seed_analyzer                          |      yes |
+| com.infinityraider.agricraft.tiles.decoration.TileEntityGrate                                           | agricraft:tile.grate                                  |        - |
+| com.infinityraider.agricraft.tiles.irrigation.TileEntityChannel                                         | agricraft:tile.water_channel_normal                   |      yes |
+| com.infinityraider.agricraft.tiles.irrigation.TileEntityChannelFull                                     | agricraft:tile.water_channel_full                     |      yes |
+| com.infinityraider.agricraft.tiles.irrigation.TileEntityChannelValve                                    | agricraft:tile.water_channel_valve                    |      yes |
+| com.infinityraider.agricraft.tiles.irrigation.TileEntitySprinkler                                       | agricraft:tile.sprinkler                              |      yes |
+| com.infinityraider.agricraft.tiles.irrigation.TileEntityTank                                            | agricraft:tile.water_tank                             |      yes |
+| com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityController                                   | storagedrawers:controller                             |        - |
+| com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityDrawersComp                                  | storagedrawers:compdrawers                            |        - |
+| com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityDrawersStandard$Legacy                       | storagedrawers:basicdrawers                           |        - |
+| com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityDrawersStandard$Slot1                        | storagedrawers:basicdrawers.1                         |        - |
+| com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityDrawersStandard$Slot2                        | storagedrawers:basicdrawers.2                         |        - |
+| com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityDrawersStandard$Slot4                        | storagedrawers:basicdrawers.4                         |        - |
+| com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityFramingTable                                 | storagedrawers:framingtable                           |        - |
+| com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityKeyButton                                    | storagedrawers:keybutton                              |        - |
+| com.jaquadro.minecraft.storagedrawers.block.tile.TileEntitySlave                                        | storagedrawers:controllerslave                        |        - |
+| com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityTrim                                         | storagedrawers:trim                                   |        - |
+| com.mjr.extraplanets.tileEntities.blocks.TileEntityBasicDecontaminationUnitFake                         | minecraft:extraplanetsbasic decontamination unit fake |      yes |
+| com.mjr.extraplanets.tileEntities.blocks.TileEntityPoweredChargingPad                                   | minecraft:powered charging pad full                   |      yes |
+| com.mjr.extraplanets.tileEntities.blocks.TileEntityPoweredChargingPadSingle                             | minecraft:powered charging pad                        |      yes |
+| com.mjr.extraplanets.tileEntities.blocks.TileEntityRocketChargingPad                                    | minecraft:rocket charging pad full                    |      yes |
+| com.mjr.extraplanets.tileEntities.blocks.TileEntityRocketChargingPadSingle                              | minecraft:rocket charging pad                         |      yes |
+| com.mjr.extraplanets.tileEntities.blocks.TileEntityTier2LandingPad                                      | minecraft:tier 2 landing pad full                     |      yes |
+| com.mjr.extraplanets.tileEntities.blocks.TileEntityTier2LandingPadSingle                                | minecraft:tier 2 landing pad                          |      yes |
+| com.mjr.extraplanets.tileEntities.blocks.TileEntityTier3LandingPad                                      | minecraft:tier 3 landing pad full                     |      yes |
+| com.mjr.extraplanets.tileEntities.blocks.TileEntityTier3LandingPadSingle                                | minecraft:tier 3 landing pad                          |      yes |
+| com.mjr.extraplanets.tileEntities.dungeonSpawners.TileEntityDungeonSpawnerEris                          | minecraft:extraplanetseris dungeon spawner            |      yes |
+| com.mjr.extraplanets.tileEntities.dungeonSpawners.TileEntityDungeonSpawnerJupiter                       | minecraft:extraplanetsjuptier dungeon spawner         |      yes |
+| com.mjr.extraplanets.tileEntities.dungeonSpawners.TileEntityDungeonSpawnerMercury                       | minecraft:extraplanetsmercury dungeon spawner         |      yes |
+| com.mjr.extraplanets.tileEntities.dungeonSpawners.TileEntityDungeonSpawnerNeptune                       | minecraft:extraplanetsneptune dungeon spawner         |      yes |
+| com.mjr.extraplanets.tileEntities.dungeonSpawners.TileEntityDungeonSpawnerPluto                         | minecraft:extraplanetspluto dungeon spawner           |      yes |
+| com.mjr.extraplanets.tileEntities.dungeonSpawners.TileEntityDungeonSpawnerSaturn                        | minecraft:extraplanetssaturn dungeon spawner          |      yes |
+| com.mjr.extraplanets.tileEntities.dungeonSpawners.TileEntityDungeonSpawnerUranus                        | minecraft:extraplanetsuranus dungeon spawner          |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityAdvancedFuelLoader                                 | minecraft:extraplanetsadvancedfuelloader              |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityAdvancedOxygenCompressor                           | minecraft:extraplanetsadvanced oxygen compressor      |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityAdvancedOxygenDecompressor                         | minecraft:extraplanetsadvanced oxygen decompressor    |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityAdvancedRefinery                                   | minecraft:extraplanetsadvancedrefinery                |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityBasicChemicalInjector                              | minecraft:extraplanetsbasic chemical injector         |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityBasicCrystallizer                                  | minecraft:extraplanetsbasic crystallizer              |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityBasicDecontaminationUnit                           | minecraft:extraplanetsbasic decontamination unit      |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityBasicDecrystallizer                                | minecraft:extraplanetsbasic decrystallizer            |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityBasicDensifier                                     | minecraft:extraplanetsbasic densifier                 |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityBasicPurifier                                      | minecraft:extraplanetsbasic purifier                  |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityBasicSmasher                                       | minecraft:extraplanetsbasic smasher                   |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityBasicSolarEvaporationChamber                       | minecraft:extraplanetsbasic solar evaporation chamber |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntitySolar                                              | minecraft:extraplanetssolar panel                     |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityUltimateFuelLoader                                 | minecraft:extraplanetsultimatefuelloader              |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityUltimateOxygenCompressor                           | minecraft:extraplanetsultimate oxygen compressor      |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityUltimateOxygenDecompressor                         | minecraft:extraplanetsultimate oxygen decompressor    |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityUltimateRefinery                                   | minecraft:extraplanetsultimaterefinery                |      yes |
+| com.mjr.extraplanets.tileEntities.machines.TileEntityVehicleChanger                                     | minecraft:extraplanetsvehiclechanger                  |      yes |
+| com.mjr.extraplanets.tileEntities.treasureChests.TileEntityT10TreasureChest                             | minecraft:extraplanetstier 10 treasure chest          |      yes |
+| com.mjr.extraplanets.tileEntities.treasureChests.TileEntityT4TreasureChest                              | minecraft:extraplanetstier 4 treasure chest           |      yes |
+| com.mjr.extraplanets.tileEntities.treasureChests.TileEntityT5TreasureChest                              | minecraft:extraplanetstier 5 treasure chest           |      yes |
+| com.mjr.extraplanets.tileEntities.treasureChests.TileEntityT6TreasureChest                              | minecraft:extraplanetstier 6 treasure chest           |      yes |
+| com.mjr.extraplanets.tileEntities.treasureChests.TileEntityT7TreasureChest                              | minecraft:extraplanetstier 7 treasure chest           |      yes |
+| com.mjr.extraplanets.tileEntities.treasureChests.TileEntityT8TreasureChest                              | minecraft:extraplanetstier 8 treasure chest           |      yes |
+| com.mjr.extraplanets.tileEntities.treasureChests.TileEntityT9TreasureChest                              | minecraft:extraplanetstier 9 treasure chest           |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityBath                                                      | minecraft:cfmbath                                     |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityBedsideCabinet                                            | minecraft:cfmbedsidecabinet                           |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityBin                                                       | minecraft:cfmbin                                      |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityBlender                                                   | minecraft:cfmblender                                  |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityCabinet                                                   | minecraft:cfmcabinet                                  |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityCabinetKitchen                                            | minecraft:cfmcabinetkitchen                           |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityCeilingFan                                                | minecraft:cfmceilingfan                               |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityChoppingBoard                                             | minecraft:cfmchoppingboard                            |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityCoffeeTable                                               | cfm:coffee_table                                      |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityColoured                                                  | minecraft:cfmcouch                                    |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityComputer                                                  | minecraft:cfmcomputer                                 |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityCookieJar                                                 | minecraft:cfmcookiejar                                |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityCrate                                                     | minecraft:cfmcrate                                    |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityCup                                                       | minecraft:cfmcup                                      |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityDeskCabinet                                               | minecraft:cfmdeskcabinet                              |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityDigitalClock                                              | minecraft:cfmdigitalclock                             |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityDishwasher                                                | minecraft:cfmdishwasher                               |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityDoorMat                                                   | minecraft:cfmdoormat                                  |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityEsky                                                      | minecraft:cfmeski                                     |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityFreezer                                                   | minecraft:cfmfreezer                                  |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityFridge                                                    | minecraft:cfmfridge                                   |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityGrill                                                     | minecraft:cfmgrill                                    |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityKitchenCounter                                            | minecraft:cfmkitchencounter                           |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityKitchenCounterDrawer                                      | minecraft:cfmkitchencounterdrawer                     |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityLightSwitch                                               | minecraft:cfmlightswitch                              |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityMailBox                                                   | minecraft:cfmmailbox                                  |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityMicrowave                                                 | minecraft:cfmmicrowave                                |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityMirror                                                    | minecraft:cfmmirror                                   |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityModernSlidingDoor                                         | minecraft:cfmmodernslidingdoor                        |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityOven                                                      | minecraft:cfmoven                                     |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityPhotoFrame                                                | cfm:photo_frame                                       |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityPlate                                                     | minecraft:cfmplate                                    |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityPresent                                                   | minecraft:cfmpresent                                  |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityPrinter                                                   | minecraft:cfmprinter                                  |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityShowerHead                                                | minecraft:cfmshowerhead                               |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityStereo                                                    | minecraft:cfmstereo                                   |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityTV                                                        | minecraft:cfmtv                                       |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityTVStand                                                   | cfm:tv_stand                                          |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityToaster                                                   | minecraft:cfmtoaster                                  |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityTree                                                      | minecraft:cfmtree                                     |      yes |
+| com.mrcrayfish.furniture.tileentity.TileEntityWallCabinet                                               | minecraft:cfmwallcabinet                              |        - |
+| com.mrcrayfish.furniture.tileentity.TileEntityWashingMachine                                            | minecraft:cfmwashingmachine                           |      yes |
+| com.pam.brewcraft.tileentities.TileEntityDistiller                                                      | minecraft:distiller                                   |      yes |
+| com.pam.harvestcraft.tileentities.TileEntityApiary                                                      | minecraft:pamapiary                                   |      yes |
+| com.pam.harvestcraft.tileentities.TileEntityGrinder                                                     | minecraft:pamgrinder                                  |      yes |
+| com.pam.harvestcraft.tileentities.TileEntityGroundTrap                                                  | minecraft:pamgroundtrap                               |      yes |
+| com.pam.harvestcraft.tileentities.TileEntityMarket                                                      | minecraft:pammarket                                   |        - |
+| com.pam.harvestcraft.tileentities.TileEntityPresser                                                     | minecraft:pampresser                                  |      yes |
+| com.pam.harvestcraft.tileentities.TileEntityShippingBin                                                 | minecraft:pamshippingbin                              |        - |
+| com.pam.harvestcraft.tileentities.TileEntityWaterFilter                                                 | minecraft:pamwaterfilter                              |      yes |
+| com.pam.harvestcraft.tileentities.TileEntityWaterTrap                                                   | minecraft:pamwatertrap                                |      yes |
+| com.progwml6.natura.nether.block.furnace.tile.TileEntityNetherrackFurnace                               | minecraft:natura.netherrack_furnace                   |      yes |
+| com.raptor.sdu.tileentity.TileEntityDrawersUnlimited$Slot1                                              | storagedrawersunlimited:basicdrawers.1                |        - |
+| com.raptor.sdu.tileentity.TileEntityDrawersUnlimited$Slot2                                              | storagedrawersunlimited:basicdrawers.2                |        - |
+| com.raptor.sdu.tileentity.TileEntityDrawersUnlimited$Slot4                                              | storagedrawersunlimited:basicdrawers.4                |        - |
+| com.teammetallurgy.atum.blocks.beacon.tileentity.TileEntityHeartOfRa                                    | atum:heart_of_ra                                      |        - |
+| com.teammetallurgy.atum.blocks.beacon.tileentity.TileEntityRadiantBeacon                                | atum:radiant_beacon                                   |      yes |
+| com.teammetallurgy.atum.blocks.machines.tileentity.TileEntityKiln                                       | atum:kiln                                             |      yes |
+| com.teammetallurgy.atum.blocks.machines.tileentity.TileEntityQuern                                      | atum:quern                                            |      yes |
+| com.teammetallurgy.atum.blocks.machines.tileentity.TileEntitySpinningWheel                              | atum:spinning_wheel                                   |        - |
+| com.teammetallurgy.atum.blocks.stone.limestone.chest.tileentity.TileEntityChestSpawner                  | atum:cursed_chest                                     |      yes |
+| com.teammetallurgy.atum.blocks.stone.limestone.chest.tileentity.TileEntityLimestoneChest                | atum:limestone_chest                                  |      yes |
+| com.teammetallurgy.atum.blocks.stone.limestone.chest.tileentity.TileEntitySarcophagus                   | atum:sarcophagus                                      |      yes |
+| com.teammetallurgy.atum.blocks.stone.limestone.tileentity.furnace.TileEntityLimestoneFurnace            | atum:limestone_furnace                                |      yes |
+| com.teammetallurgy.atum.blocks.trap.tileentity.TileEntityArrowTrap                                      | atum:arrow_trap                                       |      yes |
+| com.teammetallurgy.atum.blocks.trap.tileentity.TileEntityBurningTrap                                    | atum:burning_trap                                     |      yes |
+| com.teammetallurgy.atum.blocks.trap.tileentity.TileEntityPoisonTrap                                     | atum:poison_trap                                      |      yes |
+| com.teammetallurgy.atum.blocks.trap.tileentity.TileEntitySmokeTrap                                      | atum:smoke_trap                                       |      yes |
+| com.teammetallurgy.atum.blocks.trap.tileentity.TileEntityTarTrap                                        | atum:tar_trap                                         |      yes |
+| com.teammetallurgy.atum.blocks.wood.tileentity.crate.TileEntityCrate                                    | atum:crate                                            |      yes |
+| cpw.mods.ironchest.common.tileentity.chest.TileEntityCopperChest                                        | minecraft:ironchest.copper                            |      yes |
+| cpw.mods.ironchest.common.tileentity.chest.TileEntityCrystalChest                                       | minecraft:ironchest.crystal                           |      yes |
+| cpw.mods.ironchest.common.tileentity.chest.TileEntityDiamondChest                                       | minecraft:ironchest.diamond                           |      yes |
+| cpw.mods.ironchest.common.tileentity.chest.TileEntityDirtChest                                          | minecraft:ironchest.dirtchest9000                     |      yes |
+| cpw.mods.ironchest.common.tileentity.chest.TileEntityGoldChest                                          | minecraft:ironchest.gold                              |      yes |
+| cpw.mods.ironchest.common.tileentity.chest.TileEntityIronChest                                          | minecraft:ironchest.iron                              |      yes |
+| cpw.mods.ironchest.common.tileentity.chest.TileEntityObsidianChest                                      | minecraft:ironchest.obsidian                          |      yes |
+| cpw.mods.ironchest.common.tileentity.chest.TileEntitySilverChest                                        | minecraft:ironchest.silver                            |      yes |
+| cpw.mods.ironchest.common.tileentity.shulker.TileEntityCopperShulkerBox                                 | minecraft:ironshulkerbox.copper                       |      yes |
+| cpw.mods.ironchest.common.tileentity.shulker.TileEntityCrystalShulkerBox                                | minecraft:ironshulkerbox.crystal                      |      yes |
+| cpw.mods.ironchest.common.tileentity.shulker.TileEntityDiamondShulkerBox                                | minecraft:ironshulkerbox.diamond                      |      yes |
+| cpw.mods.ironchest.common.tileentity.shulker.TileEntityGoldShulkerBox                                   | minecraft:ironshulkerbox.gold                         |      yes |
+| cpw.mods.ironchest.common.tileentity.shulker.TileEntityIronShulkerBox                                   | minecraft:ironshulkerbox.iron                         |      yes |
+| cpw.mods.ironchest.common.tileentity.shulker.TileEntityObsidianShulkerBox                               | minecraft:ironshulkerbox.obsidian                     |      yes |
+| cpw.mods.ironchest.common.tileentity.shulker.TileEntitySilverShulkerBox                                 | minecraft:ironshulkerbox.silver                       |      yes |
+| crazypants.enderio.base.block.painted.TileEntityPaintedBlock                                            | enderio:tile_entity_painted_block                     |      yes |
+| crazypants.enderio.base.block.painted.TileEntityTwicePaintedBlock                                       | enderio:tile_entity_twice_painted_block               |      yes |
+| crazypants.enderio.base.block.painted.TilePaintedPressurePlate                                          | enderio:tile_painted_pressure_plate                   |      yes |
+| crazypants.enderio.base.block.skull.TileEndermanSkull                                                   | enderio:tile_enderman_skull                           |      yes |
+| crazypants.enderio.conduits.conduit.TileConduitBundle                                                   | enderio:tile_conduit_bundle                           |      yes |
+| crazypants.enderio.invpanel.chest.TileInventoryChest$Big                                                | enderio:tile_inventory_chest_big                      |      yes |
+| crazypants.enderio.invpanel.chest.TileInventoryChest$Enormous                                           | enderio:tile_inventory_chest_enormous                 |      yes |
+| crazypants.enderio.invpanel.chest.TileInventoryChest$Huge                                               | enderio:tile_inventory_chest_huge                     |      yes |
+| crazypants.enderio.invpanel.chest.TileInventoryChest$Large                                              | enderio:tile_inventory_chest_large                    |      yes |
+| crazypants.enderio.invpanel.chest.TileInventoryChest$Medium                                             | enderio:tile_inventory_chest_medium                   |      yes |
+| crazypants.enderio.invpanel.chest.TileInventoryChest$Small                                              | enderio:tile_inventory_chest_small                    |      yes |
+| crazypants.enderio.invpanel.chest.TileInventoryChest$Tiny                                               | enderio:tile_inventory_chest_tiny                     |      yes |
+| crazypants.enderio.invpanel.chest.TileInventoryChest$Warehouse                                          | enderio:tile_inventory_chest_warehouse                |      yes |
+| crazypants.enderio.invpanel.chest.TileInventoryChest$Warehouse13                                        | enderio:tile_inventory_chest_warehouse13              |      yes |
+| crazypants.enderio.invpanel.invpanel.TileInventoryPanel                                                 | enderio:tile_inventory_panel                          |      yes |
+| crazypants.enderio.invpanel.sensor.TileInventoryPanelSensor                                             | enderio:tile_inventory_panel_sensor                   |      yes |
+| crazypants.enderio.machines.machine.alloy.TileAlloySmelter                                              | enderio:tile_alloy_smelter                            |      yes |
+| crazypants.enderio.machines.machine.alloy.TileAlloySmelter$Enhanced                                     | enderio:tile_alloy_smelter_enhanced                   |      yes |
+| crazypants.enderio.machines.machine.alloy.TileAlloySmelter$Furnace                                      | enderio:tile_alloy_smelter_furnace                    |      yes |
+| crazypants.enderio.machines.machine.alloy.TileAlloySmelter$Simple                                       | enderio:tile_alloy_smelter_simple                     |      yes |
+| crazypants.enderio.machines.machine.buffer.TileBuffer                                                   | enderio:tile_buffer_abstract                          |      yes |
+| crazypants.enderio.machines.machine.buffer.TileBuffer$TileBufferCreative                                | enderio:tile_buffer_creative                          |      yes |
+| crazypants.enderio.machines.machine.buffer.TileBuffer$TileBufferItem                                    | enderio:tile_buffer_item                              |      yes |
+| crazypants.enderio.machines.machine.buffer.TileBuffer$TileBufferOmni                                    | enderio:tile_buffer_omni                              |      yes |
+| crazypants.enderio.machines.machine.buffer.TileBuffer$TileBufferPower                                   | enderio:tile_buffer_power                             |      yes |
+| crazypants.enderio.machines.machine.crafter.TileCrafter                                                 | enderio:tile_crafter                                  |      yes |
+| crazypants.enderio.machines.machine.crafter.TileCrafter$Simple                                          | enderio:tile_simple_crafter                           |      yes |
+| crazypants.enderio.machines.machine.enchanter.TileEnchanter                                             | enderio:tile_enchanter                                |      yes |
+| crazypants.enderio.machines.machine.farm.TileFarmStation                                                | enderio:tile_farm_station                             |      yes |
+| crazypants.enderio.machines.machine.generator.combustion.TileCombustionGenerator                        | enderio:tile_combustion_generator                     |      yes |
+| crazypants.enderio.machines.machine.generator.combustion.TileCombustionGenerator$Enhanced               | enderio:tile_combustion_generator_enhanced            |      yes |
+| crazypants.enderio.machines.machine.generator.lava.TileLavaGenerator                                    | enderio:tile_lava_generator                           |      yes |
+| crazypants.enderio.machines.machine.generator.stirling.TileStirlingGenerator                            | enderio:tile_stirling_generator                       |      yes |
+| crazypants.enderio.machines.machine.generator.stirling.TileStirlingGenerator$Simple                     | enderio:tile_stirling_generator_simple                |      yes |
+| crazypants.enderio.machines.machine.generator.zombie.TileZombieGenerator                                | enderio:tile_zombie_generator                         |      yes |
+| crazypants.enderio.machines.machine.generator.zombie.TileZombieGenerator$TileEnderGenerator             | enderio:tile_ender_generator                          |      yes |
+| crazypants.enderio.machines.machine.generator.zombie.TileZombieGenerator$TileFrankenZombieGenerator     | enderio:tile_franken_zombie_generator                 |      yes |
+| crazypants.enderio.machines.machine.ihopper.TileImpulseHopper                                           | enderio:tile_impulse_hopper                           |      yes |
+| crazypants.enderio.machines.machine.killera.TileKillerJoe                                               | enderio:tile_killer_joe                               |      yes |
+| crazypants.enderio.machines.machine.light.TileElectricLight                                             | enderio:tile_electric_light                           |      yes |
+| crazypants.enderio.machines.machine.light.TileLightNode                                                 | enderio:tile_light_node                               |      yes |
+| crazypants.enderio.machines.machine.niard.TileNiard                                                     | enderio:tile_niard                                    |      yes |
+| crazypants.enderio.machines.machine.obelisk.attractor.TileAttractor                                     | enderio:tile_attractor                                |      yes |
+| crazypants.enderio.machines.machine.obelisk.aversion.TileAversionObelisk                                | enderio:tile_aversion_obelisk                         |      yes |
+| crazypants.enderio.machines.machine.obelisk.inhibitor.TileInhibitorObelisk                              | enderio:tile_inhibitor_obelisk                        |      yes |
+| crazypants.enderio.machines.machine.obelisk.relocator.TileRelocatorObelisk                              | enderio:tile_relocator_obelisk                        |      yes |
+| crazypants.enderio.machines.machine.obelisk.weather.TileWeatherObelisk                                  | enderio:tile_weather_obelisk                          |      yes |
+| crazypants.enderio.machines.machine.obelisk.xp.TileExperienceObelisk                                    | enderio:tile_experience_obelisk                       |      yes |
+| crazypants.enderio.machines.machine.painter.TileEntityPainter                                           | enderio:tile_entity_painter                           |      yes |
+| crazypants.enderio.machines.machine.reservoir.TileReservoirBase$TileOmniReservoir                       | enderio:tile_omni_reservoir                           |      yes |
+| crazypants.enderio.machines.machine.reservoir.TileReservoirBase$TileReservoir                           | enderio:tile_reservoir                                |      yes |
+| crazypants.enderio.machines.machine.sagmill.TileSagMill$Enhanced                                        | enderio:tile_sag_mill_enhanced                        |      yes |
+| crazypants.enderio.machines.machine.sagmill.TileSagMill$Normal                                          | enderio:tile_sag_mill                                 |      yes |
+| crazypants.enderio.machines.machine.sagmill.TileSagMill$Simple                                          | enderio:tile_sag_mill_simple                          |      yes |
+| crazypants.enderio.machines.machine.slicensplice.TileSliceAndSplice                                     | enderio:tile_slice_and_splice                         |      yes |
+| crazypants.enderio.machines.machine.solar.TileSolarPanel                                                | enderio:tile_solar_panel                              |      yes |
+| crazypants.enderio.machines.machine.soul.TileSoulBinder                                                 | enderio:tile_soul_binder                              |      yes |
+| crazypants.enderio.machines.machine.spawner.TilePoweredSpawner                                          | enderio:tile_powered_spawner                          |      yes |
+| crazypants.enderio.machines.machine.spawner.creative.TileCreativeSpawner                                | enderio:tile_creative_spawner                         |      yes |
+| crazypants.enderio.machines.machine.tank.TileTank                                                       | enderio:tile_tank                                     |      yes |
+| crazypants.enderio.machines.machine.teleport.anchor.TileTravelAnchor                                    | enderio:tile_travel_anchor                            |      yes |
+| crazypants.enderio.machines.machine.teleport.telepad.TileDialingDevice                                  | enderio:tile_dialing_device                           |      yes |
+| crazypants.enderio.machines.machine.teleport.telepad.TileTelePad                                        | enderio:tile_tele_pad                                 |      yes |
+| crazypants.enderio.machines.machine.transceiver.TileTransceiver                                         | enderio:tile_transceiver                              |      yes |
+| crazypants.enderio.machines.machine.vacuum.chest.TileVacuumChest                                        | enderio:tile_vacuum_chest                             |      yes |
+| crazypants.enderio.machines.machine.vacuum.xp.TileXPVacuum                                              | enderio:tile_x_p_vacuum                               |      yes |
+| crazypants.enderio.machines.machine.vat.TileVat                                                         | enderio:tile_vat                                      |      yes |
+| crazypants.enderio.machines.machine.vat.TileVat$Enhanced                                                | enderio:tile_vat_enhanced                             |      yes |
+| crazypants.enderio.machines.machine.wired.TileWiredCharger                                              | enderio:tile_wired_charger                            |      yes |
+| crazypants.enderio.machines.machine.wired.TileWiredCharger$Enhanced                                     | enderio:tile_wired_charger_enhanced                   |      yes |
+| crazypants.enderio.machines.machine.wired.TileWiredCharger$Simple                                       | enderio:tile_wired_charger_simple                     |      yes |
+| crazypants.enderio.machines.machine.wireless.TileWirelessCharger                                        | enderio:tile_wireless_charger                         |      yes |
+| crazypants.enderio.powertools.machine.capbank.TileCapBank                                               | enderio:tile_cap_bank                                 |      yes |
+| crazypants.enderio.powertools.machine.gauge.TileGauge                                                   | enderio:tile_gauge                                    |      yes |
+| crazypants.enderio.powertools.machine.monitor.TilePowerMonitor                                          | enderio:tile_power_monitor                            |      yes |
+| de.johni0702.minecraft.betterportals.impl.mekanism.common.tile.TileEntityBetterTeleporter               | mekanism:mekanism_teleporter                          |      yes |
+| de.johni0702.minecraft.betterportals.impl.vanilla.common.blocks.TileEntityBetterEndPortal               | minecraft:end_portal                                  |        - |
+| ejektaflex.bountiful.block.TileEntityBountyBoard                                                        | bountiful:bountyboard                                 |      yes |
+| epicsquid.blockcraftery.tile.TileEditableBlock                                                          | blockcraftery:tile_editable_block                     |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorAccessPort                      | bigreactors:tileentityreactoraccessport               |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorComputerPort                    | bigreactors:tileentityreactorcomputerport             |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorControlRod                      | bigreactors:tileentityreactorcontrolrod               |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorController                      | bigreactors:tileentityreactorcontroller               |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorCoolantPort                     | bigreactors:tileentityreactorcoolantport              |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorFuelRod                         | bigreactors:tileentityreactorfuelrod                  |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorGlass                           | bigreactors:tileentityreactorglass                    |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorPart                            | bigreactors:tileentityreactorpart                     |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorPowerTapRedstoneFlux            | bigreactors:tileentityreactorpowertapredstoneflux     |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorPowerTapTesla                   | bigreactors:tileentityreactorpowertaptesla            |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorRedNetPort                      | bigreactors:tileentityreactorrednetport               |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityReactorRedstonePort                    | bigreactors:tileentityreactorredstoneport             |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityTurbineComputerPort                    | bigreactors:tileentityturbinecomputerport             |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityTurbineController                      | bigreactors:tileentityturbinecontroller               |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityTurbineFluidPort                       | bigreactors:tileentityturbinefluidport                |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityTurbinePart                            | bigreactors:tileentityturbinepart                     |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityTurbinePartGlass                       | bigreactors:tileentityturbinepartglass                |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityTurbinePowerTapRedstoneFlux            | bigreactors:tileentityturbinepowertapredstoneflux     |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityTurbinePowerTapTesla                   | bigreactors:tileentityturbinepowertaptesla            |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityTurbineRotorBearing                    | bigreactors:tileentityturbinerotorbearing             |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityTurbineRotorBlade                      | bigreactors:tileentityturbinerotorblade               |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.TileEntityTurbineRotorShaft                      | bigreactors:tileentityturbinerotorshaft               |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.creative.TileEntityReactorCreativeCoolantPort    | bigreactors:tileentityreactorcreativecoolantport      |        - |
+| erogenousbeef.bigreactors.common.multiblock.tileentity.creative.TileEntityTurbineCreativeSteamGenerator | bigreactors:tileentityturbinecreativesteamgenerator   |        - |
+| growthcraft.bees.common.tileentity.TileEntityBeeBox                                                     | growthcraft_bees:bee_box                              |      yes |
+| growthcraft.cellar.common.tileentity.TileEntityBrewKettle                                               | growthcraft_cellar:brew_kettle                        |      yes |
+| growthcraft.cellar.common.tileentity.TileEntityCultureJar                                               | growthcraft_cellar:culture_jar                        |      yes |
+| growthcraft.cellar.common.tileentity.TileEntityFermentBarrel                                            | growthcraft_cellar:ferment_barrel                     |      yes |
+| growthcraft.cellar.common.tileentity.TileEntityFruitPress                                               | growthcraft_cellar:fruit_press                        |      yes |
+| growthcraft.cellar.common.tileentity.TileEntityFruitPresser                                             | growthcraft_cellar:fruit_presser                      |      yes |
+| growthcraft.fishtrap.common.tileentity.TileEntityFishtrap                                               | growthcraft_fishtrap:fishtrap                         |      yes |
+| growthcraft.milk.common.tileentity.TileEntityButterChurn                                                | growthcraft_milk:churn                                |        - |
+| growthcraft.milk.common.tileentity.TileEntityButterChurnPlunger                                         | growthcraft_milk:churn_plunger                        |      yes |
+| growthcraft.milk.common.tileentity.TileEntityCheeseBlock                                                | growthcraft_milk:cheese_block                         |      yes |
+| growthcraft.milk.common.tileentity.TileEntityCheesePress                                                | growthcraft_milk:cheese_press                         |      yes |
+| growthcraft.milk.common.tileentity.TileEntityCheeseVat                                                  | growthcraft_milk:cheese_vat                           |      yes |
+| growthcraft.milk.common.tileentity.TileEntityHangingCurds                                               | growthcraft_milk:cheese_curds                         |      yes |
+| growthcraft.milk.common.tileentity.TileEntityPancheon                                                   | growthcraft_milk:pancheon                             |      yes |
+| info.jbcs.minecraft.vending.tileentity.TileEntityVendingMachine                                         | minecraft:containervendingmachine                     |        - |
+| info.jbcs.minecraft.vending.tileentity.TileEntityVendingStorageAttachment                               | minecraft:containerstorageattachment                  |      yes |
+| info.u_team.useful_railroads.tilentity.TileEntityRailTeleport                                           | usefulrailroads:rail_teleport_tile                    |      yes |
+| its_meow.betteranimalsplus.common.tileentity.TileEntityHandOfFate                                       | betteranimalsplus:handoffatetileentity                |        - |
+| its_meow.betteranimalsplus.common.tileentity.TileEntityHead                                             | betteranimalsplus:head                                |        - |
+| its_meow.betteranimalsplus.common.tileentity.TileEntityTrillium                                         | betteranimalsplus:trilliumtileentity                  |        - |
+| ivorius.reccomplex.block.TileEntityBlockScript                                                          | minecraft:rcspawnscript                               |        - |
+| ivorius.reccomplex.block.legacy.BlockMazeGenerator$TileEntityMazeGenerator                              | minecraft:rcmazegenerator                             |        - |
+| ivorius.reccomplex.block.legacy.BlockSpawnCommand$TileEntitySpawnCommand                                | minecraft:rcspawncommand                              |        - |
+| ivorius.reccomplex.block.legacy.BlockStructureGenerator$TileEntityStructureGenerator                    | minecraft:rcstructuregenerator                        |        - |
+| jds.bibliocraft.tileentities.BiblioLightTileEntity                                                      | minecraft:bibliolight                                 |        - |
+| jds.bibliocraft.tileentities.TileEntityArmorStand                                                       | minecraft:armorstand                                  |        - |
+| jds.bibliocraft.tileentities.TileEntityBell                                                             | minecraft:bell                                        |      yes |
+| jds.bibliocraft.tileentities.TileEntityBookcase                                                         | minecraft:bookcase                                    |        - |
+| jds.bibliocraft.tileentities.TileEntityCase                                                             | minecraft:case                                        |        - |
+| jds.bibliocraft.tileentities.TileEntityClipboard                                                        | minecraft:clipboard                                   |        - |
+| jds.bibliocraft.tileentities.TileEntityClock                                                            | minecraft:clock                                       |      yes |
+| jds.bibliocraft.tileentities.TileEntityCookieJar                                                        | minecraft:cookiejar                                   |      yes |
+| jds.bibliocraft.tileentities.TileEntityDesk                                                             | minecraft:desk                                        |      yes |
+| jds.bibliocraft.tileentities.TileEntityDinnerPlate                                                      | minecraft:dinnerplate                                 |        - |
+| jds.bibliocraft.tileentities.TileEntityDiscRack                                                         | minecraft:discrack                                    |        - |
+| jds.bibliocraft.tileentities.TileEntityFancySign                                                        | minecraft:fancysign                                   |        - |
+| jds.bibliocraft.tileentities.TileEntityFancyWorkbench                                                   | minecraft:fancyworkbench                              |        - |
+| jds.bibliocraft.tileentities.TileEntityFramedChest                                                      | minecraft:framedchest                                 |      yes |
+| jds.bibliocraft.tileentities.TileEntityFurniturePaneler                                                 | minecraft:furniturepaneler                            |        - |
+| jds.bibliocraft.tileentities.TileEntityLabel                                                            | minecraft:label                                       |        - |
+| jds.bibliocraft.tileentities.TileEntityMapFrame                                                         | minecraft:mapframe                                    |      yes |
+| jds.bibliocraft.tileentities.TileEntityMarkerPole                                                       | minecraft:markerpole                                  |        - |
+| jds.bibliocraft.tileentities.TileEntityPaintPress                                                       | minecraft:paintingpress                               |      yes |
+| jds.bibliocraft.tileentities.TileEntityPaintingBorderless                                               | minecraft:paintingframeborderless                     |        - |
+| jds.bibliocraft.tileentities.TileEntityPaintingFancy                                                    | minecraft:paintingframefancy                          |        - |
+| jds.bibliocraft.tileentities.TileEntityPaintingFlat                                                     | minecraft:paintingframeflat                           |        - |
+| jds.bibliocraft.tileentities.TileEntityPaintingMiddle                                                   | minecraft:paintingframemiddle                         |        - |
+| jds.bibliocraft.tileentities.TileEntityPaintingSimple                                                   | minecraft:paintingframesimple                         |        - |
+| jds.bibliocraft.tileentities.TileEntityPotionShelf                                                      | minecraft:potionshelf                                 |        - |
+| jds.bibliocraft.tileentities.TileEntityPrintPress                                                       | minecraft:printingpress                               |      yes |
+| jds.bibliocraft.tileentities.TileEntitySeat                                                             | minecraft:seat                                        |      yes |
+| jds.bibliocraft.tileentities.TileEntityShelf                                                            | minecraft:shelf                                       |        - |
+| jds.bibliocraft.tileentities.TileEntitySwordPedestal                                                    | minecraft:swordpedestal                               |        - |
+| jds.bibliocraft.tileentities.TileEntityTable                                                            | minecraft:table                                       |      yes |
+| jds.bibliocraft.tileentities.TileEntityToolRack                                                         | minecraft:toolrack                                    |        - |
+| jds.bibliocraft.tileentities.TileEntityTypeMachine                                                      | minecraft:typesettingtable                            |      yes |
+| jds.bibliocraft.tileentities.TileEntityTypewriter                                                       | minecraft:typewriter                                  |      yes |
+| logictechcorp.netherex.tileentity.TileEntityUrnOfSorrow                                                 | netherex:urn_of_sorrow                                |      yes |
+| me.shedaniel.rareice.forge.blocks.entities.RareIceTileEntity                                            | rare-ice:rare_ice                                     |      yes |
+| mekanism.common.tile.TileEntityAdvancedBoundingBlock                                                    | mekanism:advanced_bounding_block                      |        - |
+| mekanism.common.tile.TileEntityAdvancedFactory                                                          | mekanism:advanced_smelting_factory                    |      yes |
+| mekanism.common.tile.TileEntityAmbientAccumulator                                                       | mekanism:ambient_accumulator                          |      yes |
+| mekanism.common.tile.TileEntityBin                                                                      | mekanism:bin                                          |      yes |
+| mekanism.common.tile.TileEntityBoilerCasing                                                             | mekanism:boiler_casing                                |      yes |
+| mekanism.common.tile.TileEntityBoilerValve                                                              | mekanism:boiler_valve                                 |      yes |
+| mekanism.common.tile.TileEntityBoundingBlock                                                            | mekanism:bounding_block                               |        - |
+| mekanism.common.tile.TileEntityCardboardBox                                                             | mekanism:cardboard_box                                |        - |
+| mekanism.common.tile.TileEntityChargepad                                                                | mekanism:chargepad                                    |      yes |
+| mekanism.common.tile.TileEntityChemicalCrystallizer                                                     | mekanism:chemical_crystallizer                        |      yes |
+| mekanism.common.tile.TileEntityChemicalDissolutionChamber                                               | mekanism:chemical_dissolution_chamber                 |      yes |
+| mekanism.common.tile.TileEntityChemicalInfuser                                                          | mekanism:chemical_infuser                             |      yes |
+| mekanism.common.tile.TileEntityChemicalInjectionChamber                                                 | mekanism:chemical_injection_chamber                   |      yes |
+| mekanism.common.tile.TileEntityChemicalOxidizer                                                         | mekanism:chemical_oxidizer                            |      yes |
+| mekanism.common.tile.TileEntityChemicalWasher                                                           | mekanism:chemical_washer                              |      yes |
+| mekanism.common.tile.TileEntityCombiner                                                                 | mekanism:combiner                                     |      yes |
+| mekanism.common.tile.TileEntityCrusher                                                                  | mekanism:crusher                                      |      yes |
+| mekanism.common.tile.TileEntityDigitalMiner                                                             | mekanism:digital_miner                                |      yes |
+| mekanism.common.tile.TileEntityDynamicTank                                                              | mekanism:dynamic_tank                                 |      yes |
+| mekanism.common.tile.TileEntityDynamicValve                                                             | mekanism:dynamic_valve                                |      yes |
+| mekanism.common.tile.TileEntityElectricPump                                                             | mekanism:electric_pump                                |      yes |
+| mekanism.common.tile.TileEntityElectrolyticSeparator                                                    | mekanism:electrolytic_separator                       |      yes |
+| mekanism.common.tile.TileEntityEliteFactory                                                             | mekanism:ultimate_smelting_factory                    |      yes |
+| mekanism.common.tile.TileEntityEnergizedSmelter                                                         | mekanism:energized_smelter                            |      yes |
+| mekanism.common.tile.TileEntityEnergyCube                                                               | mekanism:energy_cube                                  |      yes |
+| mekanism.common.tile.TileEntityEnrichmentChamber                                                        | mekanism:enrichment_chamber                           |      yes |
+| mekanism.common.tile.TileEntityFactory                                                                  | mekanism:smelting_factory                             |      yes |
+| mekanism.common.tile.TileEntityFluidTank                                                                | mekanism:fluid_tank                                   |      yes |
+| mekanism.common.tile.TileEntityFluidicPlenisher                                                         | mekanism:fluidic_plenisher                            |      yes |
+| mekanism.common.tile.TileEntityFormulaicAssemblicator                                                   | mekanism:formulaic_assemblicator                      |      yes |
+| mekanism.common.tile.TileEntityFuelwoodHeater                                                           | mekanism:fuelwood_heater                              |      yes |
+| mekanism.common.tile.TileEntityGasTank                                                                  | mekanism:gas_tank                                     |      yes |
+| mekanism.common.tile.TileEntityGlowPanel                                                                | mekanism:glow_panel                                   |        - |
+| mekanism.common.tile.TileEntityInductionCasing                                                          | mekanism:induction_casing                             |      yes |
+| mekanism.common.tile.TileEntityInductionCell                                                            | mekanism:induction_cell                               |      yes |
+| mekanism.common.tile.TileEntityInductionPort                                                            | mekanism:induction_port                               |      yes |
+| mekanism.common.tile.TileEntityInductionProvider                                                        | mekanism:induction_provider                           |      yes |
+| mekanism.common.tile.TileEntityLaser                                                                    | mekanism:laser                                        |      yes |
+| mekanism.common.tile.TileEntityLaserAmplifier                                                           | mekanism:laser_amplifier                              |      yes |
+| mekanism.common.tile.TileEntityLaserTractorBeam                                                         | mekanism:laser_tractor_beam                           |      yes |
+| mekanism.common.tile.TileEntityLogisticalSorter                                                         | mekanism:logistical_sorter                            |      yes |
+| mekanism.common.tile.TileEntityMetallurgicInfuser                                                       | mekanism:metallurgic_infuser                          |      yes |
+| mekanism.common.tile.TileEntityOredictionificator                                                       | mekanism:oredictionificator                           |      yes |
+| mekanism.common.tile.TileEntityOsmiumCompressor                                                         | mekanism:osmium_compressor                            |      yes |
+| mekanism.common.tile.TileEntityPRC                                                                      | mekanism:pressurized_reaction_chamber                 |      yes |
+| mekanism.common.tile.TileEntityPersonalChest                                                            | mekanism:personal_chest                               |      yes |
+| mekanism.common.tile.TileEntityPrecisionSawmill                                                         | mekanism:precision_sawmill                            |      yes |
+| mekanism.common.tile.TileEntityPressureDisperser                                                        | mekanism:pressure_disperser                           |      yes |
+| mekanism.common.tile.TileEntityPurificationChamber                                                      | mekanism:purification_chamber                         |      yes |
+| mekanism.common.tile.TileEntityQuantumEntangloporter                                                    | mekanism:quantum_entangloporter                       |      yes |
+| mekanism.common.tile.TileEntityResistiveHeater                                                          | mekanism:resistive_heater                             |      yes |
+| mekanism.common.tile.TileEntityRotaryCondensentrator                                                    | mekanism:rotary_condensentrator                       |      yes |
+| mekanism.common.tile.TileEntitySecurityDesk                                                             | mekanism:security_desk                                |      yes |
+| mekanism.common.tile.TileEntitySeismicVibrator                                                          | mekanism:seismic_vibrator                             |      yes |
+| mekanism.common.tile.TileEntitySolarNeutronActivator                                                    | mekanism:solar_neutron_activator                      |      yes |
+| mekanism.common.tile.TileEntityStructuralGlass                                                          | mekanism:structural_glass                             |        - |
+| mekanism.common.tile.TileEntitySuperheatingElement                                                      | mekanism:superheating_element                         |      yes |
+| mekanism.common.tile.TileEntityThermalEvaporationBlock                                                  | mekanism:thermal_evaporation_block                    |      yes |
+| mekanism.common.tile.TileEntityThermalEvaporationController                                             | mekanism:thermal_evaporation_controller               |      yes |
+| mekanism.common.tile.TileEntityThermalEvaporationValve                                                  | mekanism:thermal_evaporation_valve                    |      yes |
+| mekanism.common.tile.transmitter.TileEntityDiversionTransporter                                         | mekanism:diversion_transporter                        |      yes |
+| mekanism.common.tile.transmitter.TileEntityLogisticalTransporter                                        | mekanism:logistical_transporter                       |      yes |
+| mekanism.common.tile.transmitter.TileEntityMechanicalPipe                                               | mekanism:mechanical_pipe                              |      yes |
+| mekanism.common.tile.transmitter.TileEntityPressurizedTube                                              | mekanism:pressurized_tube                             |      yes |
+| mekanism.common.tile.transmitter.TileEntityRestrictiveTransporter                                       | mekanism:restrictive_transporter                      |      yes |
+| mekanism.common.tile.transmitter.TileEntityThermodynamicConductor                                       | mekanism:thermodynamic_conductor                      |      yes |
+| mekanism.common.tile.transmitter.TileEntityUniversalCable                                               | mekanism:universal_cable                              |      yes |
+| mekanism.generators.common.tile.TileEntityAdvancedSolarGenerator                                        | mekanismgenerators:advanced_solar_generator           |      yes |
+| mekanism.generators.common.tile.TileEntityBioGenerator                                                  | mekanismgenerators:bio_generator                      |      yes |
+| mekanism.generators.common.tile.TileEntityGasGenerator                                                  | mekanismgenerators:gas_generator                      |      yes |
+| mekanism.generators.common.tile.TileEntityHeatGenerator                                                 | mekanismgenerators:heat_generator                     |      yes |
+| mekanism.generators.common.tile.TileEntitySolarGenerator                                                | mekanismgenerators:solar_generator                    |      yes |
+| mekanism.generators.common.tile.TileEntityWindGenerator                                                 | mekanismgenerators:wind_turbine                       |      yes |
+| mekanism.generators.common.tile.reactor.TileEntityReactorController                                     | mekanismgenerators:reactor_controller                 |      yes |
+| mekanism.generators.common.tile.reactor.TileEntityReactorFrame                                          | mekanismgenerators:reactor_frame                      |      yes |
+| mekanism.generators.common.tile.reactor.TileEntityReactorGlass                                          | mekanismgenerators:reactor_glass                      |      yes |
+| mekanism.generators.common.tile.reactor.TileEntityReactorLaserFocusMatrix                               | mekanismgenerators:reactor_laser_focus                |      yes |
+| mekanism.generators.common.tile.reactor.TileEntityReactorLogicAdapter                                   | mekanismgenerators:reactor_logic_adapter              |      yes |
+| mekanism.generators.common.tile.reactor.TileEntityReactorPort                                           | mekanismgenerators:reactor_port                       |      yes |
+| mekanism.generators.common.tile.turbine.TileEntityElectromagneticCoil                                   | mekanismgenerators:electromagnetic_coil               |      yes |
+| mekanism.generators.common.tile.turbine.TileEntityRotationalComplex                                     | mekanismgenerators:rotational_complex                 |      yes |
+| mekanism.generators.common.tile.turbine.TileEntitySaturatingCondenser                                   | mekanismgenerators:saturating_condenser               |      yes |
+| mekanism.generators.common.tile.turbine.TileEntityTurbineCasing                                         | mekanismgenerators:turbine_casing                     |      yes |
+| mekanism.generators.common.tile.turbine.TileEntityTurbineRotor                                          | mekanismgenerators:turbine_rod                        |      yes |
+| mekanism.generators.common.tile.turbine.TileEntityTurbineValve                                          | mekanismgenerators:turbine_valve                      |      yes |
+| mekanism.generators.common.tile.turbine.TileEntityTurbineVent                                           | mekanismgenerators:turbine_vent                       |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityAirLock                                                | minecraft:gc air lock frame                           |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityAirLockController                                      | minecraft:gc air lock controller                      |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityAluminumWire                                           | minecraft:gc aluminum wire                            |        - |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityAluminumWireSwitch                                     | minecraft:gc switchable aluminum wire                 |        - |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityArclamp                                                | minecraft:gc arc lamp                                 |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityBuggyFueler                                            | minecraft:gc buggy fueler                             |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityBuggyFuelerSingle                                      | minecraft:gc buggy fueler single                      |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityCargoLoader                                            | minecraft:gc cargo loader                             |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityCargoUnloader                                          | minecraft:gc cargo unloader                           |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityCircuitFabricator                                      | minecraft:gc circuit fabricator                       |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityCoalGenerator                                          | minecraft:gc coal generator                           |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityCrafting                                               | minecraft:gc magnetic crafting table                  |        - |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityDeconstructor                                          | minecraft:gc deconstructor                            |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityDish                                                   | minecraft:gc radio telescope                          |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityDungeonSpawner                                         | minecraft:gc dungeon boss spawner                     |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityElectricFurnace                                        | minecraft:gc electric furnace                         |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityElectricIngotCompressor                                | minecraft:gc electric ingot compressor                |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityEmergencyBox                                           | minecraft:gc emergency post                           |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityEnergyStorageModule                                    | minecraft:gc energy storage module                    |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityFallenMeteor                                           | minecraft:gc fallen meteor                            |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityFluidPipe                                              | minecraft:gc oxygen pipe                              |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityFluidTank                                              | minecraft:gc fluid tank                               |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityFuelLoader                                             | minecraft:gc fuel loader                              |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityIngotCompressor                                        | minecraft:gc ingot compressor                         |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityLandingPad                                             | minecraft:gc landing pad full                         |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityLandingPadSingle                                       | minecraft:gc landing pad                              |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityMulti                                                  | minecraft:gc dummy block                              |        - |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityNasaWorkbench                                          | minecraft:gc nasa workbench                           |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityNull                                                   | minecraft:gc null tile                                |        - |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityOxygenCollector                                        | minecraft:gc air collector                            |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityOxygenCompressor                                       | minecraft:gc air compressor                           |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityOxygenDecompressor                                     | minecraft:gc oxygen decompressor                      |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityOxygenDetector                                         | minecraft:gc oxygen detector                          |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityOxygenDistributor                                      | minecraft:gc air distributor                          |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityOxygenSealer                                           | minecraft:gc air sealer                               |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityOxygenStorageModule                                    | minecraft:gc oxygen storage module                    |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityPainter                                                | minecraft:gc painter                                  |        - |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityPanelLight                                             | minecraft:gc panel lighting                           |        - |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityParaChest                                              | minecraft:gc parachest tile                           |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityPlatform                                               | minecraft:gc platform                                 |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityPlayerDetector                                         | minecraft:gc player detector                          |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityRefinery                                               | minecraft:gc refinery                                 |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityScreen                                                 | minecraft:gc view screen                              |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntitySolar                                                  | minecraft:gc solar panel                              |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntitySpaceStationBase                                       | minecraft:gc space station                            |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityTelemetry                                              | minecraft:gc telemetry unit                           |      yes |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityThruster                                               | minecraft:gc space station thruster                   |        - |
+| micdoodle8.mods.galacticraft.core.tile.TileEntityTreasureChest                                          | minecraft:gc treasure chest                           |      yes |
+| micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityBeamReceiver                              | minecraft:gc beam receiver                            |      yes |
+| micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityBeamReflector                             | minecraft:gc beam reflector                           |      yes |
+| micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityMinerBase                                 | minecraft:gc astro miner base                         |      yes |
+| micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityMinerBaseSingle                           | minecraft:gc astro miner base builder                 |      yes |
+| micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityShortRangeTelepad                         | minecraft:gc short range telepad                      |      yes |
+| micdoodle8.mods.galacticraft.planets.asteroids.tile.TileEntityTelepadFake                               | minecraft:gc fake short range telepad                 |      yes |
+| micdoodle8.mods.galacticraft.planets.mars.tile.TileEntityCryogenicChamber                               | minecraft:gc cryogenic chamber                        |      yes |
+| micdoodle8.mods.galacticraft.planets.mars.tile.TileEntityDungeonSpawnerMars                             | minecraft:gc mars dungeon spawner                     |      yes |
+| micdoodle8.mods.galacticraft.planets.mars.tile.TileEntityElectrolyzer                                   | minecraft:gc water electrolyzer                       |      yes |
+| micdoodle8.mods.galacticraft.planets.mars.tile.TileEntityGasLiquefier                                   | minecraft:gc gas liquefier                            |      yes |
+| micdoodle8.mods.galacticraft.planets.mars.tile.TileEntityLaunchController                               | minecraft:gc launch controller                        |      yes |
+| micdoodle8.mods.galacticraft.planets.mars.tile.TileEntityMethaneSynthesizer                             | minecraft:gc methane synthesizer                      |      yes |
+| micdoodle8.mods.galacticraft.planets.mars.tile.TileEntitySlimelingEgg                                   | minecraft:gc slimeling egg                            |      yes |
+| micdoodle8.mods.galacticraft.planets.mars.tile.TileEntityTerraformer                                    | minecraft:gc planet terraformer                       |      yes |
+| micdoodle8.mods.galacticraft.planets.mars.tile.TileEntityTreasureChestMars                              | minecraft:gc tier 2 treasure chest                    |      yes |
+| micdoodle8.mods.galacticraft.planets.venus.tile.TileEntityCrashedProbe                                  | minecraft:gc crashed probe                            |        - |
+| micdoodle8.mods.galacticraft.planets.venus.tile.TileEntityDungeonSpawnerVenus                           | minecraft:gc venus dungeon spawner                    |      yes |
+| micdoodle8.mods.galacticraft.planets.venus.tile.TileEntityGeothermalGenerator                           | minecraft:gc geothermal generator                     |      yes |
+| micdoodle8.mods.galacticraft.planets.venus.tile.TileEntityLaserTurret                                   | minecraft:gc laser turret                             |      yes |
+| micdoodle8.mods.galacticraft.planets.venus.tile.TileEntitySolarArrayController                          | minecraft:gc solar array controller                   |      yes |
+| micdoodle8.mods.galacticraft.planets.venus.tile.TileEntitySolarArrayModule                              | minecraft:gc solar array module                       |      yes |
+| micdoodle8.mods.galacticraft.planets.venus.tile.TileEntitySpout                                         | minecraft:gc venus spout                              |      yes |
+| micdoodle8.mods.galacticraft.planets.venus.tile.TileEntityTreasureChestVenus                            | minecraft:gc tier 3 treasure chest                    |      yes |
+| mods.railcraft.common.blocks.detector.TileDetector                                                      | railcraft:detector                                    |      yes |
+| mods.railcraft.common.blocks.logbook.TileLogbook                                                        | railcraft:logbook                                     |      yes |
+| mods.railcraft.common.blocks.machine.charge.TileChargeFeederAdmin                                       | railcraft:charge_feeder_admin                         |      yes |
+| mods.railcraft.common.blocks.machine.charge.TileChargeFeederIC2                                         | railcraft:charge_feeder_ic2                           |      yes |
+| mods.railcraft.common.blocks.machine.equipment.TileFeedStation                                          | railcraft:equipment_feed_station                      |      yes |
+| mods.railcraft.common.blocks.machine.equipment.TileRollingMachineManual                                 | railcraft:equipment_rolling_manual                    |      yes |
+| mods.railcraft.common.blocks.machine.equipment.TileRollingMachinePowered                                | railcraft:equipment_rolling_powered                   |      yes |
+| mods.railcraft.common.blocks.machine.equipment.TileSmoker                                               | railcraft:equipment_smoker                            |      yes |
+| mods.railcraft.common.blocks.machine.equipment.TileSteamTrapAuto                                        | railcraft:steam_trap_auto                             |      yes |
+| mods.railcraft.common.blocks.machine.equipment.TileSteamTrapManual                                      | railcraft:steam_trap_manual                           |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileDispenserCart                                      | railcraft:manipulator_dispenser_cart                  |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileDispenserTrain                                     | railcraft:manipulator_dispenser_train                 |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileFluidLoader                                        | railcraft:manipulator_fluid_loader                    |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileFluidUnloader                                      | railcraft:manipulator_fluid_unloader                  |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileIC2Loader                                          | railcraft:manipulator_ic2_loader                      |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileIC2Unloader                                        | railcraft:manipulator_ic2_unloader                    |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileItemLoader                                         | railcraft:manipulator_item_loader                     |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileItemLoaderAdvanced                                 | railcraft:manipulator_item_loader_adv                 |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileItemUnloader                                       | railcraft:manipulator_item_unloader                   |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileItemUnloaderAdvanced                               | railcraft:manipulator_item_unloader_adv               |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileRFLoader                                           | railcraft:manipulator_rf_loader                       |      yes |
+| mods.railcraft.common.blocks.machine.manipulator.TileRFUnloader                                         | railcraft:manipulator_rf_unloader                     |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.actuators.TileActuatorLever                             | railcraft:actuator_lever                              |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.actuators.TileActuatorMotor                             | railcraft:actuator_motor                              |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.actuators.TileActuatorRouting                           | railcraft:actuator_router                             |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.boxes.TileBoxAnalog                                     | railcraft:signal_box_analog                           |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.boxes.TileBoxCapacitor                                  | railcraft:signal_box_capacitor                        |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.boxes.TileBoxController                                 | railcraft:signal_box_controller                       |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.boxes.TileBoxInterlock                                  | railcraft:signal_box_interlock                        |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.boxes.TileBoxReceiver                                   | railcraft:signal_box_receiver                         |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.boxes.TileBoxRelay                                      | railcraft:signal_box_relay                            |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.boxes.TileBoxSequencer                                  | railcraft:signal_box_sequencer                        |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.signals.TileSignalBlock                                 | railcraft:signal_distant                              |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.signals.TileSignalBlockDual                             | railcraft:signal_block_dual                           |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.signals.TileSignalDistant                               | railcraft:signal_block                                |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.signals.TileSignalDistantDual                           | railcraft:signal_distant_dual                         |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.signals.TileSignalToken                                 | railcraft:signal_token                                |      yes |
+| mods.railcraft.common.blocks.machine.wayobjects.signals.TileSignalTokenDual                             | railcraft:signal_token_dual                           |      yes |
+| mods.railcraft.common.blocks.machine.worldspike.TileWorldspike                                          | railcraft:worldspike_standard                         |      yes |
+| mods.railcraft.common.blocks.machine.worldspike.TileWorldspikeAdmin                                     | railcraft:worldspike_admin                            |      yes |
+| mods.railcraft.common.blocks.machine.worldspike.TileWorldspikePassive                                   | railcraft:worldspike_passive                          |      yes |
+| mods.railcraft.common.blocks.machine.worldspike.TileWorldspikePersonal                                  | railcraft:worldspike_personal                         |      yes |
+| mods.railcraft.common.blocks.multi.TileBlastFurnace                                                     | railcraft:blast_furnace                               |      yes |
+| mods.railcraft.common.blocks.multi.TileBoilerFireboxFluid                                               | railcraft:boiler_firebox_fluid                        |      yes |
+| mods.railcraft.common.blocks.multi.TileBoilerFireboxSolid                                               | railcraft:boiler_firebox_solid                        |      yes |
+| mods.railcraft.common.blocks.multi.TileBoilerTankHigh                                                   | railcraft:boiler_tank_pressure_high                   |      yes |
+| mods.railcraft.common.blocks.multi.TileBoilerTankLow                                                    | railcraft:boiler_tank_pressure_low                    |      yes |
+| mods.railcraft.common.blocks.multi.TileCokeOven                                                         | railcraft:coke_oven                                   |      yes |
+| mods.railcraft.common.blocks.multi.TileFluxTransformer                                                  | railcraft:flux_transformer                            |      yes |
+| mods.railcraft.common.blocks.multi.TileRockCrusher                                                      | railcraft:rock_crusher                                |      yes |
+| mods.railcraft.common.blocks.multi.TileSteamOven                                                        | railcraft:steam_oven                                  |      yes |
+| mods.railcraft.common.blocks.multi.TileSteamTurbine                                                     | railcraft:steam_turbine                               |      yes |
+| mods.railcraft.common.blocks.multi.TileTankIronGauge                                                    | railcraft:tank_iron_gauge                             |      yes |
+| mods.railcraft.common.blocks.multi.TileTankIronValve                                                    | railcraft:tank_iron_valve                             |      yes |
+| mods.railcraft.common.blocks.multi.TileTankIronWall                                                     | railcraft:tank_iron_wall                              |      yes |
+| mods.railcraft.common.blocks.multi.TileTankSteelGauge                                                   | railcraft:tank_steel_gauge                            |      yes |
+| mods.railcraft.common.blocks.multi.TileTankSteelValve                                                   | railcraft:tank_steel_valve                            |      yes |
+| mods.railcraft.common.blocks.multi.TileTankSteelWall                                                    | railcraft:tank_steel_wall                             |      yes |
+| mods.railcraft.common.blocks.multi.TileTankWater                                                        | railcraft:water_tank                                  |      yes |
+| mods.railcraft.common.blocks.single.TileAdminSteamProducer                                              | railcraft:admin_steam_producer                        |      yes |
+| mods.railcraft.common.blocks.single.TileChestMetals                                                     | railcraft:chest_metals                                |      yes |
+| mods.railcraft.common.blocks.single.TileChestVoid                                                       | railcraft:chest_void                                  |      yes |
+| mods.railcraft.common.blocks.single.TileEngineSteamHigh                                                 | railcraft:engine_steam_industrial                     |      yes |
+| mods.railcraft.common.blocks.single.TileEngineSteamHobby                                                | railcraft:engine_steam_hobby                          |      yes |
+| mods.railcraft.common.blocks.single.TileEngineSteamLow                                                  | railcraft:engine_steam_commercial                     |      yes |
+| mods.railcraft.common.blocks.single.TileEngravingBench                                                  | railcraft:engraving_bench                             |      yes |
+| mods.railcraft.common.blocks.single.TileForceTrackEmitter                                               | railcraft:force_track_emitter                         |      yes |
+| mods.railcraft.common.blocks.single.TileTradeStation                                                    | railcraft:trade_station                               |      yes |
+| mods.railcraft.common.blocks.tracks.force.TileTrackForce                                                | railcraft:track_force                                 |        - |
+| mods.railcraft.common.blocks.tracks.outfitted.TileTrackOutfitted                                        | railcraft:track.outfitted                             |        - |
+| mods.railcraft.common.blocks.tracks.outfitted.TileTrackOutfittedTicking                                 | railcraft:track.outfitted.ticking                     |      yes |
+| mods.railcraft.common.items.firestone.TileRitual                                                        | railcraft:ritual                                      |      yes |
+| mrriegel.storagenetwork.block.cable.TileCable                                                           | storagenetwork:tilekabel                              |        - |
+| mrriegel.storagenetwork.block.cable.io.TileCableIO                                                      | storagenetwork:tilekabelio                            |        - |
+| mrriegel.storagenetwork.block.cable.link.TileCableLink                                                  | storagenetwork:tilekabellink                          |        - |
+| mrriegel.storagenetwork.block.cable.linksimple.TileCableLinkSimple                                      | storagenetwork:tilesimple                             |        - |
+| mrriegel.storagenetwork.block.cable.processing.TileCableProcess                                         | storagenetwork:tilekabelprocess                       |        - |
+| mrriegel.storagenetwork.block.control.TileControl                                                       | storagenetwork:tilecontrol                            |        - |
+| mrriegel.storagenetwork.block.inventory.TileInventory                                                   | storagenetwork:tileinventory                          |        - |
+| mrriegel.storagenetwork.block.master.TileMaster                                                         | storagenetwork:tilemaster                             |      yes |
+| mrriegel.storagenetwork.block.request.TileRequest                                                       | storagenetwork:tilerequest                            |        - |
+| net.blay09.mods.cookingforblockheads.tile.TileCabinet                                                   | cookingforblockheads:cabinet                          |      yes |
+| net.blay09.mods.cookingforblockheads.tile.TileCookingTable                                              | cookingforblockheads:cooking_table                    |        - |
+| net.blay09.mods.cookingforblockheads.tile.TileCorner                                                    | cookingforblockheads:corner                           |        - |
+| net.blay09.mods.cookingforblockheads.tile.TileCounter                                                   | cookingforblockheads:counter                          |      yes |
+| net.blay09.mods.cookingforblockheads.tile.TileCowJar                                                    | cookingforblockheads:cow_jar                          |      yes |
+| net.blay09.mods.cookingforblockheads.tile.TileCuttingBoard                                              | cookingforblockheads:cutting_board                    |        - |
+| net.blay09.mods.cookingforblockheads.tile.TileFridge                                                    | cookingforblockheads:fridge                           |      yes |
+| net.blay09.mods.cookingforblockheads.tile.TileFruitBasket                                               | cookingforblockheads:fruit_basket                     |        - |
+| net.blay09.mods.cookingforblockheads.tile.TileMilkJar                                                   | cookingforblockheads:milk_jar                         |        - |
+| net.blay09.mods.cookingforblockheads.tile.TileOven                                                      | cookingforblockheads:oven                             |      yes |
+| net.blay09.mods.cookingforblockheads.tile.TileSink                                                      | cookingforblockheads:sink                             |        - |
+| net.blay09.mods.cookingforblockheads.tile.TileSpiceRack                                                 | cookingforblockheads:spice_rack                       |        - |
+| net.blay09.mods.cookingforblockheads.tile.TileToaster                                                   | cookingforblockheads:toaster                          |      yes |
+| net.blay09.mods.cookingforblockheads.tile.TileToolRack                                                  | cookingforblockheads:tool_rack                        |        - |
+| net.blay09.mods.waystones.block.TileWaystone                                                            | waystones:waystone                                    |        - |
+| net.darkhax.eplus.block.tileentity.TileEntityAdvancedTable                                              | minecraft:eplus.advanced.table                        |      yes |
+| net.darkhax.eplus.block.tileentity.TileEntityDecoration                                                 | minecraft:eplus.decorative.book                       |      yes |
+| net.geforcemods.securitycraft.api.CustomizableSCTE                                                      | securitycraft:customizable                            |      yes |
+| net.geforcemods.securitycraft.api.TileEntityOwnable                                                     | securitycraft:ownable                                 |        - |
+| net.geforcemods.securitycraft.api.TileEntitySCTE                                                        | securitycraft:abstract                                |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityAlarm                                                | securitycraft:alarm                                   |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityBlockPocket                                          | securitycraft:block_pocket                            |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityBlockPocketManager                                   | securitycraft:block_pocket_manager                    |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityCageTrap                                             | securitycraft:cage_trap                               |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityClaymore                                             | securitycraft:claymore                                |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityIMS                                                  | securitycraft:ims                                     |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityInventoryScanner                                     | securitycraft:inventory_scanner                       |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityIronFence                                            | securitycraft:iron_fence                              |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityKeycardReader                                        | securitycraft:keycard_reader                          |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityKeypad                                               | securitycraft:keypad                                  |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityKeypadChest                                          | securitycraft:keypad_chest                            |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityKeypadDoor                                           | securitycraft:keypad_door                             |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityKeypadFurnace                                        | securitycraft:keypad_furnace                          |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityLaserBlock                                           | securitycraft:laser_block                             |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityLogger                                               | securitycraft:username_logger                         |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityMotionLight                                          | securitycraft:motion_light                            |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityPortableRadar                                        | securitycraft:portable_radar                          |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityProjector                                            | securitycraft:projector                               |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityProtecto                                             | securitycraft:protecto                                |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityReinforcedHopper                                     | securitycraft:reinforced_hopper                       |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityReinforcedIronBars                                   | securitycraft:reinforced_iron_bars                    |        - |
+| net.geforcemods.securitycraft.tileentity.TileEntityRetinalScanner                                       | securitycraft:retinal_scanner                         |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityScannerDoor                                          | securitycraft:scanner_door                            |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntitySecretSign                                           | securitycraft:secret_sign                             |        - |
+| net.geforcemods.securitycraft.tileentity.TileEntitySecurityCamera                                       | securitycraft:security_camera                         |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityTrackMine                                            | securitycraft:track_mine                              |        - |
+| net.geforcemods.securitycraft.tileentity.TileEntityTrophySystem                                         | securitycraft:trophy_system                           |      yes |
+| net.geforcemods.securitycraft.tileentity.TileEntityWhitelistOnly                                        | securitycraft:reinforced_pressure_plate               |      yes |
+| net.minecraft.block.BlockJukebox$TileEntityJukebox                                                      | minecraft:jukebox                                     |        - |
+| net.minecraft.tileentity.TileEntityBanner                                                               | minecraft:banner                                      |        - |
+| net.minecraft.tileentity.TileEntityBeacon                                                               | minecraft:beacon                                      |      yes |
+| net.minecraft.tileentity.TileEntityBed                                                                  | minecraft:bed                                         |        - |
+| net.minecraft.tileentity.TileEntityBrewingStand                                                         | minecraft:brewing_stand                               |      yes |
+| net.minecraft.tileentity.TileEntityChest                                                                | minecraft:chest                                       |      yes |
+| net.minecraft.tileentity.TileEntityCommandBlock                                                         | minecraft:command_block                               |        - |
+| net.minecraft.tileentity.TileEntityComparator                                                           | minecraft:comparator                                  |        - |
+| net.minecraft.tileentity.TileEntityDaylightDetector                                                     | minecraft:daylight_detector                           |      yes |
+| net.minecraft.tileentity.TileEntityDispenser                                                            | minecraft:dispenser                                   |        - |
+| net.minecraft.tileentity.TileEntityDropper                                                              | minecraft:dropper                                     |        - |
+| net.minecraft.tileentity.TileEntityEnchantmentTable                                                     | minecraft:enchanting_table                            |      yes |
+| net.minecraft.tileentity.TileEntityEndGateway                                                           | minecraft:end_gateway                                 |      yes |
+| net.minecraft.tileentity.TileEntityEnderChest                                                           | minecraft:ender_chest                                 |      yes |
+| net.minecraft.tileentity.TileEntityFlowerPot                                                            | minecraft:flower_pot                                  |        - |
+| net.minecraft.tileentity.TileEntityMobSpawner                                                           | minecraft:mob_spawner                                 |      yes |
+| net.minecraft.tileentity.TileEntityNote                                                                 | minecraft:noteblock                                   |        - |
+| net.minecraft.tileentity.TileEntityPiston                                                               | minecraft:piston                                      |      yes |
+| net.minecraft.tileentity.TileEntityShulkerBox                                                           | minecraft:shulker_box                                 |      yes |
+| net.minecraft.tileentity.TileEntitySign                                                                 | minecraft:sign                                        |        - |
+| net.minecraft.tileentity.TileEntitySkull                                                                | minecraft:skull                                       |      yes |
+| net.minecraft.tileentity.TileEntityStructure                                                            | minecraft:structure_block                             |        - |
+| pl.asie.foamfix.common.TileEntityFasterHopper                                                           | minecraft:hopper                                      |      yes |
+| shadows.fastfurnace.block.TileFastFurnace                                                               | minecraft:furnace                                     |      yes |
+| slimeknights.tconstruct.gadgets.tileentity.TileDryingRack                                               | minecraft:tconstruct.drying_rack                      |      yes |
+| slimeknights.tconstruct.gadgets.tileentity.TileItemRack                                                 | minecraft:tconstruct.item_rack                        |        - |
+| slimeknights.tconstruct.gadgets.tileentity.TileSlimeChannel                                             | minecraft:tconstruct.slime_channel                    |        - |
+| slimeknights.tconstruct.gadgets.tileentity.TileWoodenHopper                                             | minecraft:tconstruct.wooden_hopper                    |      yes |
+| slimeknights.tconstruct.shared.tileentity.TileTable                                                     | minecraft:tconstruct.table                            |        - |
+| slimeknights.tconstruct.smeltery.tileentity.TileCastingBasin                                            | minecraft:tconstruct.casting_basin                    |      yes |
+| slimeknights.tconstruct.smeltery.tileentity.TileCastingTable                                            | minecraft:tconstruct.casting_table                    |      yes |
+| slimeknights.tconstruct.smeltery.tileentity.TileChannel                                                 | minecraft:tconstruct.channel                          |      yes |
+| slimeknights.tconstruct.smeltery.tileentity.TileDrain                                                   | minecraft:tconstruct.smeltery_drain                   |        - |
+| slimeknights.tconstruct.smeltery.tileentity.TileFaucet                                                  | minecraft:tconstruct.faucet                           |      yes |
+| slimeknights.tconstruct.smeltery.tileentity.TileSearedFurnace                                           | minecraft:tconstruct.seared_furnace                   |      yes |
+| slimeknights.tconstruct.smeltery.tileentity.TileSmeltery                                                | minecraft:tconstruct.smeltery_controller              |      yes |
+| slimeknights.tconstruct.smeltery.tileentity.TileSmelteryComponent                                       | minecraft:tconstruct.smeltery_component               |        - |
+| slimeknights.tconstruct.smeltery.tileentity.TileTank                                                    | minecraft:tconstruct.tank                             |        - |
+| slimeknights.tconstruct.smeltery.tileentity.TileTinkerTank                                              | minecraft:tconstruct.tinker_tank                      |      yes |
+| slimeknights.tconstruct.tools.common.tileentity.TileCraftingStation                                     | minecraft:tconstruct.craftingstation                  |        - |
+| slimeknights.tconstruct.tools.common.tileentity.TilePartBuilder                                         | minecraft:tconstruct.partbuilder                      |        - |
+| slimeknights.tconstruct.tools.common.tileentity.TilePartChest                                           | minecraft:tconstruct.partchest                        |        - |
+| slimeknights.tconstruct.tools.common.tileentity.TilePatternChest                                        | minecraft:tconstruct.patternchest                     |        - |
+| slimeknights.tconstruct.tools.common.tileentity.TileStencilTable                                        | minecraft:tconstruct.stenciltable                     |        - |
+| slimeknights.tconstruct.tools.common.tileentity.TileToolForge                                           | minecraft:tconstruct.toolforge                        |        - |
+| slimeknights.tconstruct.tools.common.tileentity.TileToolStation                                         | minecraft:tconstruct.toolstation                      |        - |
+| team.chisel.common.block.TileAutoChisel                                                                 | chisel:auto_chisel                                    |      yes |
+| toughasnails.tileentity.TileEntityTemperatureSpread                                                     | minecraft:temperature_spread                          |      yes |
+| twilightforest.tileentity.TileEntityTFAntibuilder                                                       | twilightforest:tower_reverter                         |      yes |
+| twilightforest.tileentity.TileEntityTFCReactorActive                                                    | twilightforest:carminite_reactor_active               |      yes |
+| twilightforest.tileentity.TileEntityTFCinderFurnace                                                     | twilightforest:cinder_furnace                         |      yes |
+| twilightforest.tileentity.TileEntityTFFlameJet                                                          | twilightforest:flame_jet                              |      yes |
+| twilightforest.tileentity.TileEntityTFGhastTrapActive                                                   | twilightforest:ghast_trap_active                      |      yes |
+| twilightforest.tileentity.TileEntityTFGhastTrapInactive                                                 | twilightforest:ghast_trap_inactive                    |      yes |
+| twilightforest.tileentity.TileEntityTFPoppingJet                                                        | twilightforest:popping_jet                            |      yes |
+| twilightforest.tileentity.TileEntityTFSmoker                                                            | twilightforest:smoker                                 |      yes |
+| twilightforest.tileentity.TileEntityTFTowerBuilder                                                      | twilightforest:tower_builder                          |      yes |
+| twilightforest.tileentity.TileEntityTFTrophy                                                            | twilightforest:trophy                                 |      yes |
+| twilightforest.tileentity.critters.TileEntityTFCicadaTicking                                            | twilightforest:cicada                                 |      yes |
+| twilightforest.tileentity.critters.TileEntityTFFireflyTicking                                           | twilightforest:firefly                                |      yes |
+| twilightforest.tileentity.critters.TileEntityTFMoonwormTicking                                          | twilightforest:moonworm                               |      yes |
+| twilightforest.tileentity.spawner.TileEntityTFAlphaYetiSpawner                                          | twilightforest:alpha_yeti_spawner                     |      yes |
+| twilightforest.tileentity.spawner.TileEntityTFFinalBossSpawner                                          | twilightforest:final_boss_spawner                     |      yes |
+| twilightforest.tileentity.spawner.TileEntityTFHydraSpawner                                              | twilightforest:hydra_spawner                          |      yes |
+| twilightforest.tileentity.spawner.TileEntityTFKnightPhantomsSpawner                                     | twilightforest:knight_phantom_spawner                 |      yes |
+| twilightforest.tileentity.spawner.TileEntityTFLichSpawner                                               | twilightforest:lich_spawner                           |      yes |
+| twilightforest.tileentity.spawner.TileEntityTFMinoshroomSpawner                                         | twilightforest:minoshroom_spawner                     |      yes |
+| twilightforest.tileentity.spawner.TileEntityTFNagaSpawner                                               | twilightforest:naga_spawner                           |      yes |
+| twilightforest.tileentity.spawner.TileEntityTFSnowQueenSpawner                                          | twilightforest:snow_queen_spawner                     |      yes |
+| twilightforest.tileentity.spawner.TileEntityTFTowerBossSpawner                                          | twilightforest:tower_boss_spawner                     |      yes |
+| vazkii.quark.automation.tile.TileChute                                                                  | quark:chute                                           |        - |
+| vazkii.quark.automation.tile.TileEnderWatcher                                                           | quark:ender_watcher                                   |      yes |
+| vazkii.quark.automation.tile.TileInductor                                                               | quark:inductor                                        |        - |
+| vazkii.quark.automation.tile.TileRainDetector                                                           | quark:rain_detector                                   |      yes |
+| vazkii.quark.decoration.tile.TileCustomChest                                                            | quark:quark_chest                                     |      yes |
+| vazkii.quark.oddities.tile.TileMatrixEnchanter                                                          | quark:matrix_enchanter                                |      yes |
+| vazkii.quark.oddities.tile.TileTinyPotato                                                               | quark:tiny_potato                                     |      yes |
+| vazkii.quark.world.tile.TileMonsterBox                                                                  | quark:monster_box                                     |      yes |
+| vazkii.quark.world.tile.TileSmoker                                                                      | quark:smoker                                          |      yes |
+| xt9.deepmoblearning.common.tiles.TileEntityExtractionChamber                                            | deepmoblearning:extraction_chamber                    |      yes |
+| xt9.deepmoblearning.common.tiles.TileEntitySimulationChamber                                            | deepmoblearning:simulation_chamber                    |      yes |
+| xt9.deepmoblearning.common.tiles.TileEntityTrialKeystone                                                | deepmoblearning:trial_keystone                        |      yes |
++---------------------------------------------------------------------------------------------------------+-------------------------------------------------------+----------+
+| Class                                                                                                   | Registry name                                         | Ticking? |
++---------------------------------------------------------------------------------------------------------+-------------------------------------------------------+----------+

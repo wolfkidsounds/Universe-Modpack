@@ -1,0 +1,37 @@
++-------+------------------+------------------+-----------------+------------------+---------------------------------------------------------------------------------+
+|    ID | DimensionType ID | Name             | shouldLoadSpawn | Currently loaded | WorldProvider class                                                             |
++-------+------------------+------------------+-----------------+------------------+---------------------------------------------------------------------------------+
+|     0 |                0 | overworld        |            true |             true | net.minecraft.world.WorldProviderSurface                                        |
+|     1 |                1 | the_end          |           false |            false | net.minecraft.world.WorldProviderEnd                                            |
+|    -6 |               -6 | MINING_WORLD     |           false |            false | aroma1997.world.dimension.WorldProviderMining                                   |
+|    17 |               17 | atum             |           false |            false | com.teammetallurgy.atum.world.WorldProviderAtum                                 |
+|     7 |                7 | twilight_forest  |           false |            false | twilightforest.world.WorldProviderTwilightForest                                |
+|    -1 |               -1 | Nether           |           false |            false | logictechcorp.netherex.world.WorldProviderNetherEx                              |
+|   -30 |              -30 | planet.asteroids |            true |            false | micdoodle8.mods.galacticraft.planets.asteroids.dimension.WorldProviderAsteroids |
+|   -20 |              -20 | planet.Ceres     |            true |            false | com.mjr.extraplanets.planets.Ceres.WorldProviderCeres                           |
+|   -21 |              -21 | planet.Eris      |            true |            false | com.mjr.extraplanets.planets.Eris.WorldProviderEris                             |
+|   -15 |              -15 | planet.Jupiter   |            true |            false | com.mjr.extraplanets.planets.Jupiter.WorldProviderJupiter                       |
+|   -22 |              -22 | planet.kepler22b |            true |            false | com.mjr.extraplanets.planets.Kepler22b.WorldProviderKepler22b                   |
+|   -29 |              -29 | planet.mars      |            true |            false | micdoodle8.mods.galacticraft.planets.mars.dimension.WorldProviderMars           |
+|   -13 |              -13 | planet.Mercury   |            true |            false | com.mjr.extraplanets.planets.Mercury.WorldProviderMercury                       |
+|   -18 |              -18 | planet.Neptune   |            true |            false | com.mjr.extraplanets.planets.Neptune.WorldProviderNeptune                       |
+|   -19 |              -19 | planet.Pluto     |            true |            false | com.mjr.extraplanets.planets.Pluto.WorldProviderPluto                           |
+|   -16 |              -16 | planet.Saturn    |            true |            false | com.mjr.extraplanets.planets.Saturn.WorldProviderSaturn                         |
+|   -17 |              -17 | planet.Uranus    |            true |            false | com.mjr.extraplanets.planets.Uranus.WorldProviderUranus                         |
+|   -31 |              -31 | planet.venus     |            true |            false | micdoodle8.mods.galacticraft.planets.venus.dimension.WorldProviderVenus         |
+| -1505 |            -1505 | moon.callisto    |            true |            false | com.mjr.extraplanets.moons.Callisto.WorldProviderCallisto                       |
+| -1503 |            -1503 | moon.deimos      |            true |            false | com.mjr.extraplanets.moons.Deimos.WorldProviderDeimos                           |
+| -1501 |            -1501 | moon.europa      |            true |            false | com.mjr.extraplanets.moons.Europa.WorldProviderEuropa                           |
+| -1506 |            -1506 | moon.ganymede    |            true |            false | com.mjr.extraplanets.moons.Ganymede.WorldProviderGanymede                       |
+| -1511 |            -1511 | moon.iapetus     |            true |            false | com.mjr.extraplanets.moons.Iapetus.WorldProviderIapetus                         |
+| -1500 |            -1500 | moon.io          |            true |            false | com.mjr.extraplanets.moons.Io.WorldProviderIo                                   |
+|   -28 |              -28 | moon.moon        |            true |            false | micdoodle8.mods.galacticraft.core.dimension.WorldProviderMoon                   |
+| -1509 |            -1509 | moon.oberon      |            true |            false | com.mjr.extraplanets.moons.Oberon.WorldProviderOberon                           |
+| -1502 |            -1502 | moon.phobos      |            true |            false | com.mjr.extraplanets.moons.Phobos.WorldProviderPhobos                           |
+| -1507 |            -1507 | moon.rhea        |            true |            false | com.mjr.extraplanets.moons.Rhea.WorldProviderRhea                               |
+| -1508 |            -1508 | moon.titan       |            true |            false | com.mjr.extraplanets.moons.Titan.WorldProviderTitan                             |
+| -1510 |            -1510 | moon.titania     |            true |            false | com.mjr.extraplanets.moons.Titania.WorldProviderTitania                         |
+| -1504 |            -1504 | moon.triton      |            true |            false | com.mjr.extraplanets.moons.Triton.WorldProviderTriton                           |
++-------+------------------+------------------+-----------------+------------------+---------------------------------------------------------------------------------+
+|    ID | DimensionType ID | Name             | shouldLoadSpawn | Currently loaded | WorldProvider class                                                             |
++-------+------------------+------------------+-----------------+------------------+---------------------------------------------------------------------------------+
