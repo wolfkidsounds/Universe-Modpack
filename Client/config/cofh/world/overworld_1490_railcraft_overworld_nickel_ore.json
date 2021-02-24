@@ -1,7 +1,7 @@
 {
 	"dependencies": "railcraft",
 	"populate": {
-		"nether-nickel": {
+		"railcraft-nickel-ore": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -21,7 +21,7 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					-1
+					0
 				]
 			}
 		}
