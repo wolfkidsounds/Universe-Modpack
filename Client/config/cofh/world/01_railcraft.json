@@ -1,0 +1,68 @@
+{
+
+    "railcraft_zinc": {
+        "distribution": "uniform",
+        "generator": {
+            "block": "railcraft:ore_metal",
+                "metadata": 5,
+            "material": "minecraft:stone",
+            "cluster-size": 8
+        },
+        "cluster-count": 8,
+        "min-height": 0,
+        "max-height": 30,
+        "retrogen": true,
+        "biome": "all",
+        "dimension": {
+            "restriction": "blacklist",
+            "value": [
+                -1,
+                1
+            ]
+        }
+    },
+
+    "railcraft_silver": {
+        "distribution": "uniform",
+        "generator": {
+            "block": "railcraft:ore_metal",
+                "metadata": 3,
+            "material": "minecraft:stone",
+            "cluster-size": 4
+        },
+        "cluster-count": 4,
+        "min-height": 0,
+        "max-height": 20,
+        "retrogen": true,
+        "biome": "all",
+        "dimension": {
+            "restriction": "blacklist",
+            "value": [
+                -1,
+                1
+            ]
+        }
+    },
+
+    "railcraft_nickel": {
+        "distribution": "uniform",
+        "generator": {
+            "block": "railcraft:ore_metal",
+                "metadata": 4,
+            "material": "minecraft:stone",
+            "cluster-size": 8
+        },
+        "cluster-count": 12,
+        "min-height": 0,
+        "max-height": 40,
+        "retrogen": true,
+        "biome": "all",
+        "dimension": {
+            "restriction": "blacklist",
+            "value": [
+                -1,
+                1
+            ]
+        }
+    }
+}
