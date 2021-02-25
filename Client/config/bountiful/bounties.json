@@ -1,5 +1,14 @@
 [
   {
+    "content": "minecraft:stone",
+    "amount": {
+      "min": 16,
+      "max": 128
+    },
+    "unitWorth": 5,
+    "weight": 100
+  },
+  {
     "content": "minecraft:dirt",
     "amount": {
       "min": 16,
@@ -8,9 +17,17 @@
     "unitWorth": 5,
     "weight": 100
   },
- 
   {
     "content": "entity:minecraft:zombie",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 120,
+    "weight": 300
+  },
+  {
+    "content": "entity:minecraft:creeper",
     "amount": {
       "min": 1,
       "max": 8
