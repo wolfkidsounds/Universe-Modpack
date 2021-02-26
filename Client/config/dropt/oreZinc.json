@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "match": {
+        "drops": {
+          "drops": [
+             "ore:oreZinc"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "magneticraft:rocky_chunks:14 *2"
+            ],
+            "matchQuantity": {
+              "drops": [
+                 "ore:oreZinc"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
