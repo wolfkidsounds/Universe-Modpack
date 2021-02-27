@@ -4,7 +4,7 @@
       "match": {
         "drops": {
           "drops": [
-             "ore:oreZinc"
+             "universemod:orezinc"
           ]
         }
       },
@@ -12,11 +12,11 @@
         {
           "item": {
             "items": [
-              "magneticraft:rocky_chunks:14 *2"
+              "railcraft:ore_metal:5"
             ],
             "matchQuantity": {
               "drops": [
-                 "ore:oreZinc"
+                 "universemod:orezinc"
               ]
             }
           }
