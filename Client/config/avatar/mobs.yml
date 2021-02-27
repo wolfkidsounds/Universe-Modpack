@@ -7,7 +7,7 @@
 IGNORE_CONFIG_FILE: true
 
 benderSettings:
-  maxLevel: 7
+  maxLevel: 10
   maxNumberOfBenders: 3
 bisonFoods:
   minecraft:sugar: 2
