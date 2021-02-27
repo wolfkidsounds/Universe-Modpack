@@ -1,0 +1,62 @@
++------------------------------------------+-----------------------------------+---------------+-----------+----+
+| Registry name                            | Name                              | Type          | Rarity    | ID |
++------------------------------------------+-----------------------------------+---------------+-----------+----+
+| aquaculture:appealing                    | enchantment.aquacultureAppealing  | fishingPole   | RARE      | 41 |
+| aquaculture:barbed_hook                  | enchantment.aquacultureBarbedHook | fishingPole   | VERY_RARE | 46 |
+| aquaculture:double_hook                  | enchantment.aquacultureDoubleHook | fishingPole   | VERY_RARE | 45 |
+| aquaculture:heavy_line                   | enchantment.aquacultureHeavyLine  | fishingPole   | UNCOMMON  | 47 |
+| aquaculture:long_cast                    | enchantment.aquacultureLongCast   | fishingPole   | COMMON    | 43 |
+| aquaculture:magnetic                     | enchantment.aquacultureMagnetic   | fishingPole   | RARE      | 42 |
+| aquaculture:short_cast                   | enchantment.aquacultureShortCast  | fishingPole   | COMMON    | 44 |
+| bibliocraft:bibliocraft.deathcompassench | Eternal Compass                   | ALL           | VERY_RARE | 15 |
+| bibliocraft:bibliocraft.readingench      | Reading                           | ARMOR_HEAD    | UNCOMMON  | 23 |
+| endercore:xpboost                        | enchantment.xpboost               | EC_XPBOOST    | UNCOMMON  | 24 |
+| enderio:repellent                        | enchantment.enderio.repellent     | ARMOR         | VERY_RARE | 27 |
+| enderio:shimmer                          | enchantment.enderio.shimmer       | ALL           | VERY_RARE | 29 |
+| enderio:soulbound                        | enchantment.enderio.soulbound     | EC_REALLY_ALL | VERY_RARE | 25 |
+| enderio:witherarrow                      | enchantment.enderio.witherarrow   | BOW           | UNCOMMON  | 26 |
+| enderio:witherweapon                     | enchantment.enderio.witherweapon  | WEAPON        | UNCOMMON  | 28 |
+| enderzoo:witherarrow                     | enchantment.witherArrow           | BOW           | UNCOMMON  | 39 |
+| enderzoo:witherweapon                    | enchantment.witherWeapon          | WEAPON        | UNCOMMON  | 40 |
+| minecraft:aqua_affinity                  | enchantment.waterWorker           | ARMOR_HEAD    | RARE      |  6 |
+| minecraft:bane_of_arthropods             | enchantment.damage.arthropods     | WEAPON        | UNCOMMON  | 18 |
+| minecraft:binding_curse                  | enchantment.binding_curse         | WEARABLE      | VERY_RARE | 10 |
+| minecraft:blast_protection               | enchantment.protect.explosion     | ARMOR         | RARE      |  3 |
+| minecraft:depth_strider                  | enchantment.waterWalker           | ARMOR_FEET    | RARE      |  8 |
+| minecraft:efficiency                     | enchantment.digging               | DIGGER        | COMMON    | 32 |
+| minecraft:feather_falling                | enchantment.protect.fall          | ARMOR_FEET    | UNCOMMON  |  2 |
+| minecraft:fire_aspect                    | enchantment.fire                  | WEAPON        | RARE      | 20 |
+| minecraft:fire_protection                | enchantment.protect.fire          | ARMOR         | UNCOMMON  |  1 |
+| minecraft:flame                          | enchantment.arrowFire             | BOW           | RARE      | 50 |
+| minecraft:fortune                        | enchantment.lootBonusDigger       | DIGGER        | RARE      | 35 |
+| minecraft:frost_walker                   | enchantment.frostWalker           | ARMOR_FEET    | RARE      |  9 |
+| minecraft:infinity                       | enchantment.arrowInfinite         | BOW           | VERY_RARE | 51 |
+| minecraft:knockback                      | enchantment.knockback             | WEAPON        | UNCOMMON  | 19 |
+| minecraft:looting                        | enchantment.lootBonus             | WEAPON        | RARE      | 21 |
+| minecraft:luck_of_the_sea                | enchantment.lootBonusFishing      | FISHING_ROD   | RARE      | 61 |
+| minecraft:lure                           | enchantment.fishingSpeed          | FISHING_ROD   | RARE      | 62 |
+| minecraft:mending                        | enchantment.mending               | BREAKABLE     | RARE      | 70 |
+| minecraft:power                          | enchantment.arrowDamage           | BOW           | COMMON    | 48 |
+| minecraft:projectile_protection          | enchantment.protect.projectile    | ARMOR         | UNCOMMON  |  4 |
+| minecraft:protection                     | enchantment.protect.all           | ARMOR         | COMMON    |  0 |
+| minecraft:punch                          | enchantment.arrowKnockback        | BOW           | RARE      | 49 |
+| minecraft:respiration                    | enchantment.oxygen                | ARMOR_HEAD    | RARE      |  5 |
+| minecraft:sharpness                      | enchantment.damage.all            | WEAPON        | COMMON    | 16 |
+| minecraft:silk_touch                     | enchantment.untouching            | DIGGER        | VERY_RARE | 33 |
+| minecraft:smite                          | enchantment.damage.undead         | WEAPON        | UNCOMMON  | 17 |
+| minecraft:sweeping                       | enchantment.sweeping              | WEAPON        | RARE      | 22 |
+| minecraft:thorns                         | enchantment.thorns                | ARMOR_CHEST   | VERY_RARE |  7 |
+| minecraft:unbreaking                     | enchantment.durability            | BREAKABLE     | UNCOMMON  | 34 |
+| minecraft:vanishing_curse                | enchantment.vanishing_curse       | ALL           | VERY_RARE | 71 |
+| railcraft:destruction                    | enchantment.railcraft.destruction | DIGGER        | VERY_RARE | 13 |
+| railcraft:implosion                      | enchantment.railcraft.implosion   | DIGGER        | RARE      | 12 |
+| railcraft:smack                          | enchantment.railcraft.smack       | DIGGER        | VERY_RARE | 14 |
+| railcraft:wrecking                       | enchantment.railcraft.wrecking    | DIGGER        | RARE      | 11 |
+| toughasnails:cooling                     | enchantment.cooling               | ARMOR         | COMMON    | 31 |
+| toughasnails:warming                     | enchantment.warming               | ARMOR         | COMMON    | 30 |
+| walljump:doublejump                      | enchantment.doublejump            | ARMOR_FEET    | RARE      | 37 |
+| walljump:speedboost                      | enchantment.speedboost            | ARMOR_FEET    | RARE      | 38 |
+| walljump:walljump                        | enchantment.walljump              | ARMOR_FEET    | UNCOMMON  | 36 |
++------------------------------------------+-----------------------------------+---------------+-----------+----+
+| Registry name                            | Name                              | Type          | Rarity    | ID |
++------------------------------------------+-----------------------------------+---------------+-----------+----+

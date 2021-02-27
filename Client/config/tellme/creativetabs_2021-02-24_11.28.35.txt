@@ -1,0 +1,89 @@
++-------+-----------------------------------+------------------------------+----------------------------------------------------------------------------+
+| Index | Name                              | Translated Name              | Icon Item                                                                  |
++-------+-----------------------------------+------------------------------+----------------------------------------------------------------------------+
+|     0 | buildingBlocks                    | Building Blocks              | [minecraft:brick_block@0 - 'Bricks']                                       |
+|     1 | decorations                       | Decoration Blocks            | [minecraft:double_plant@5 - 'Peony']                                       |
+|     2 | redstone                          | Redstone                     | [minecraft:redstone@0 - 'Redstone']                                        |
+|     3 | transportation                    | Transportation               | [minecraft:golden_rail@0 - 'Booster Track']                                |
+|     4 | hotbar                            | Saved Toolbars               | [minecraft:bookshelf@0 - 'Oak Bookshelf']                                  |
+|     5 | search                            | Search Items                 | [minecraft:compass@0 - 'Compass']                                          |
+|     6 | misc                              | Miscellaneous                | [minecraft:lava_bucket@0 - 'Lava Bucket']                                  |
+|     7 | food                              | Foodstuffs                   | [minecraft:apple@0 - 'Apple']                                              |
+|     8 | tools                             | Tools                        | [minecraft:iron_axe@0 - 'Iron Axe']                                        |
+|     9 | combat                            | Combat                       | [minecraft:golden_sword@0 - 'Golden Sword']                                |
+|    10 | brewing                           | Brewing                      | [minecraft:potion@0 - 'Water Bottle']                                      |
+|    11 | inventory                         | Survival Inventory           | [minecraft:chest@0 - 'Oak Chest']                                          |
+|    12 | tabSecurityCraft.technical        | SecurityCraft: Technical     | [securitycraft:username_logger@0 - 'Username Logger']                      |
+|    13 | tabSecurityCraft.explosives       | SecurityCraft: Explosives    | [securitycraft:mine@0 - 'Mine']                                            |
+|    14 | tabSecurityCraft.decoration       | SecurityCraft: Decoration    | [securitycraft:reinforced_stairs_oak@0 - 'Reinforced Oak Stairs']          |
+|    15 | aroma1997sdimension:creativeTabDW | Aroma1997s Dimensional World | [aroma1997sdimension:miningmultitool@0 - 'Mining Multitool']               |
+|    16 | waystones                         | Waystones                    | [waystones:waystone@0 - 'Waystone']                                        |
+|    17 | atum                              | Atum                         | [atum:scarab@0 - 'Scarab']                                                 |
+|    18 | watertribearmory                  | Water Tribe Armory           | [am:battle_club@0 - 'Battle Club']                                         |
+|    19 | firenationarmory                  | Fire Nation Armory           | [am:dao_broadsword@0 - 'Dao Broadsword']                                   |
+|    20 | earthkingdomarmory                | Earth Kingdom Armory         | [am:hammer@0 - 'Hammer']                                                   |
+|    21 | airnomadarmory                    | Air Nomad Armory             | [am:staff@0 - 'Staff']                                                     |
+|    22 | blockcraftery                     | Blockcraftery                | [blockcraftery:editable_block@0 - 'Framed Block']                          |
+|    23 | cookingforblockheads              | Cooking for Blockheads       | [cookingforblockheads:recipe_book@1 - 'Cooking for Blockheads I']          |
+|    24 | deepmoblearning                   | Deep Mob Learning            |                                                                            |
+|    25 | eplus                             | Enchanting Plus              | [eplus:advanced_table@0 - 'Advanced Enchantment Table']                    |
+|    26 | SpaceBlocksTab                    | Extra Planets Blocks         | [extraplanets:advanced_refinery@0 - 'Advanced Refinery']                   |
+|    27 | SpaceItemsTab                     | Extra Planets Items          | [extraplanets:item_tier4_rocket@0 - 'Tier 4 Rocket']                       |
+|    28 | bigreactors                       | Extreme Reactors             | [bigreactors:oreyellorite@0 - 'Yellorite Ore']                             |
+|    29 | tabFoodExpansion                  | Food Expansion               | [foodexpansion:itemchocolatebar@0 - 'Chocolate Bar']                       |
+|    30 | tabFurniture                      | MrCrayfish's Furniture Mod   | [cfm:chair_oak@0 - 'Oak Chair']                                            |
+|    31 | tabMekanism                       | Mekanism                     | [mekanism:atomicalloy@0 - 'Atomic Alloy']                                  |
+|    32 | Growthcraft                       | Growthcraft                  | [growthcraft:crowbar@0 - 'White Crowbar']                                  |
+|    33 | ironbackpacks                     | Iron Backpacks               | [ironbackpacks:backpack@0 - 'Iron Backpack']                               |
+|    34 | mysticalagriculture               | Mystical Agriculture         | [mysticalagriculture:crafting@4 - 'Supremium Essence']                     |
+|    35 | netherex                          | NetherEx                     | [minecraft:netherrack@0 - 'Netherrack']                                    |
+|    36 | tabBrewcraft                      | BrewCraft                    | [brewcraft:rennalgolditem@0 - 'Rennal Gold']                               |
+|    37 | harvestcraft                      | HarvestCraft                 | [harvestcraft:toastsandwichitem@0 - 'Toast Sandwich']                      |
+|    38 | Probe                             | The One Probe                | [theoneprobe:probe@0 - 'The One Probe']                                    |
+|    39 | Better Animals+                   | Better Animals Plus          | [betteranimalsplus:antler@0 - 'Antler']                                    |
+|    40 | Aquaculture                       | Aquaculture                  | [aquaculture:iron_fishing_rod@0 - 'Iron Fishing Rod']                      |
+|    41 | avatar.items                      | Avatar Items                 | [avatarmod:scroll@0 - 'Scroll']                                            |
+|    42 | BiblioCraft                       | BiblioCraft                  | [bibliocraft:bookcase@0 - 'Oak Bookcase']                                  |
+|    43 | BiblioCraftLights                 | BiblioCraft Lighting         | [bibliocraft:lanterngold@0 - 'Fancy Lantern']                              |
+|    44 | tabBiomesOPlenty                  | Biomes O' Plenty             | [biomesoplenty:earth@0 - 'Earth']                                          |
+|    45 | TinkerGeneral                     | Tinkers' General Items       | [tconstruct:edible@1 - 'Slimeball']                                        |
+|    46 | TinkerTools                       | Tinkers' Tools               | [tconstruct:pickaxe@0 - 'material._internal_render2.name Pickaxe']         |
+|    47 | TinkerToolParts                   | Tinkers' Toolparts           | [tconstruct:pick_head@0 - 'material._internal_render3.name Pickaxe Head']  |
+|    48 | TinkerSmeltery                    | Tinkers' Smeltery            | [tconstruct:seared_tank@0 - 'Seared Tank']                                 |
+|    49 | TinkerWorld                       | Tinkers' World               | [tconstruct:slime_sapling@0 - 'Blue Slime Sapling']                        |
+|    50 | TinkerGadgets                     | Tinkers' Gadgets             | [tconstruct:slimesling@0 - 'Slimesling']                                   |
+|    51 | galacticraft_blocks               | Galacticraft Blocks          | [galacticraftcore:machine2@0 - 'Electric Compressor']                      |
+|    52 | galacticraft_items                | Galacticraft Items           | [galacticraftplanets:astro_miner@0 - 'Astro Miner']                        |
+|    53 | enderzoo                          | Ender Zoo                    | [enderzoo:enderzooicon@0 - 'item.enderZooIcon.name']                       |
+|    54 | microblockcbe                     | MicroBlock CBE               | [microblockcbe:microblock@1 - 'Stone Cover']                               |
+|    55 | mowziesmobs.creativeTab           | Mowzie's Mobs                | [mowziesmobs:logo@0 - 'item.logo.name']                                    |
+|    56 | tabPrimitiveMobs                  | PrimitiveMobs                | [primitivemobs:camouflage_dye@0 - 'Camouflage Dye']                        |
+|    57 | railcraft.general                 | Railcraft                    | [railcraft:tool_crowbar_steel@0 - 'Steel Crowbar']                         |
+|    58 | railcraft.track                   | Railcraft Outfitted Tracks   | [minecraft:detector_rail@0 - 'Detector Track']                             |
+|    59 | railcraft.structure               | Railcraft Decorative Blocks  | [railcraft:reinforced_concrete@8 - 'Reinforced Concrete']                  |
+|    60 | structureTools                    | Structure Tools              | [reccomplex:block_selector@0 - 'Block Selector']                           |
+|    61 | inventoryGenerators               | Loot                         | [reccomplex:inventory_generation_tag@0 - 'Loot Generation Tag']            |
+|    62 | storagedrawers                    | Storage Drawers              | [storagedrawers:basicdrawers@1 - 'Basic Drawers 1x2']                      |
+|    63 | storagedrawersunlimited           | Storage Drawers Unlimited    | [storagedrawersunlimited:basicdrawers_natura_bloodwood@0 - 'Basic Drawer'] |
+|    64 | tabToughAsNails                   | Tough As Nails               | [toughasnails:tan_icon@0 - 'item.tan_icon.name']                           |
+|    65 | usefulrailroads:tab               | Useful Railroads             | [usefulrailroads:rail_highspeed@0 - 'High Speed Rail (5 Blocks/Tick)']     |
+|    66 | chiselCreativeTab                 | Chisel                       | [chisel:chisel_iron@0 - 'Chisel']                                          |
+|    67 | enderio.machines                  | EnderIO Machines             | [enderio:item_enderface@3 - 'Enderface']                                   |
+|    68 | enderio.items                     | EnderIO Items                | [enderio:item_enderface@1 - 'Enderface']                                   |
+|    69 | enderio.materials                 | EnderIO Materials            | [enderio:item_enderface@2 - 'Enderface']                                   |
+|    70 | enderio.main                      | EnderIO Blocks               | [enderio:item_enderface@0 - 'Enderface']                                   |
+|    71 | enderio.mobs                      | EnderIO Souls                | [enderio:item_enderface@4 - 'Enderface']                                   |
+|    72 | enderio.conduits                  | EnderIO Conduits             | [enderio:item_enderface@5 - 'Enderface']                                   |
+|    73 | enderio.invpanel                  | EnderIO Inventory Panel      | [enderio:item_enderface@6 - 'Enderface']                                   |
+|    74 | twilightForest                    | Twilight Forest              | [twilightforest:miniature_structure@0 - 'Miniature Twilight Portal [NYI]'] |
+|    75 | ironchest                         | Iron Chests                  | [ironchest:iron_chest@0 - 'Iron Chest']                                    |
+|    76 | NaturaGeneral                     | Natura's General Items       | [natura:materials@3 - 'Cotton']                                            |
+|    77 | NaturaWorld                       | Natura's World Items         | [natura:colored_grass@0 - 'Topiary Grass']                                 |
+|    78 | NaturaDecorative                  | Natura's Decorative Items    | [natura:overworld_doors@3 - 'Redwood Door']                                |
+|    79 | netherendingores                  | Netherending Ores            | [netherendingores:creative_tab@0 - 'Creative Tab Block']                   |
+|    80 | agricraft                         | AgriCraft                    | [agricraft:debugger@0 - 'Debugger']                                        |
+|    81 | agricraft_seeds                   | AgriCraft Seeds              | [agricraft:agri_seed@0 - 'Carrot Seeds']                                   |
+|    82 | storagenetwork                    | Simple Storage Network       | [storagenetwork:request@0 - 'Storage Request Table']                       |
++-------+-----------------------------------+------------------------------+----------------------------------------------------------------------------+
+| Index | Name                              | Translated Name              | Icon Item                                                                  |
++-------+-----------------------------------+------------------------------+----------------------------------------------------------------------------+

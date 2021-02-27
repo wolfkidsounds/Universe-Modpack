@@ -2,6 +2,7 @@
     {
         "dimension": 0,
         "mob": "avatarmod:ostrichhorse",
+        "biometype": "HOT",
         "mincount": {
           "amount": 50,
           "hostile": false,

@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -103,7 +103,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -111,6 +110,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:0
 key_avatar.Bend:0
 key_avatar.BendingCycleLeft:0
 key_avatar.BendingCycleRight:0
@@ -130,6 +130,9 @@ key_key.moreoverlays.chunkbounds.desc:67
 key_keybind.railcraft.cart.bed:0
 key_key.toastcontrol.clear:0
 key_walljump.key.walljump:42
+key_Strip World:211
+key_Dress World:210
+key_Inspect Block:199
 key_key.cameraZoomIn:0
 key_key.cameraZoomOut:0
 key_key.cameraEmitRedstone:0
