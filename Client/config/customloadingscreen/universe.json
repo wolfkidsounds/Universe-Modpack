@@ -1,0 +1,190 @@
+{
+    "variables": {
+        "image_interval": "3.0",
+        "transition_duration": "0.5",
+        "max_scroll_count": "screen_height / (2 * 12)",
+        "scroll_text": "status + (is_reloading ? '' : (' - ' + sub_status))"
+    },
+    "renders": [
+        {
+            "image": {
+                "parent": "builtin/slideshow",
+                "image": "config:background.png",
+                "frame": "(time - transition_duration) / image_interval",
+                "position_type": "CENTER",
+                "offset_pos": "CENTER",
+                "colour": "0xFF_FF_FF_FF",
+                "position": {
+                    "x": "0",
+                    "y": "0",
+                    "width": "screen_width",
+                    "height": "screen_height"
+                },
+                "texture": {
+                    "x": "0",
+                    "y": "0",
+                    "width": "1",
+                    "height": "1"
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "sample/bottom_bar",
+                "position_type": "BOTTOM_LEFT",
+                "offset_pos": "BOTTOM_LEFT",
+                "colour": "0xFF_00_00_00",
+                "position": {
+                    "width": "screen_width",
+                    "y": "-6"
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "sample/bottom_bar",
+                "position_type": "BOTTOM_LEFT",
+                "offset_pos": "BOTTOM_LEFT",
+                "colour": "0xFF_70_3B_A8",
+                "position": {
+                    "y": "-6"
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "text": "status",
+                "position_type": "BOTTOM_LEFT",
+                "offset_pos": "BOTTOM_LEFT",
+                "position": { "x": 10, "y": -16 }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "text": "(floor(percentage * 100)) + '%'",
+                "position_type": "BOTTOM_RIGHT",
+                "offset_pos": "BOTTOM_RIGHT",
+                "position": { "x": -10, "y": -16 }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "image": "textures/font/ascii.png",
+                "position_type": "TOP_LEFT",
+                "offset_pos": "TOP_LEFT",
+                "text": "'Memory Alotted     :'", 
+                "position": {
+                    "x": 10, "y": 10
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "image": "textures/font/ascii.png",
+                "position_type": "TOP_LEFT",
+                "offset_pos": "TOP_LEFT",
+                "text": "memory_total() + ' MiB'", 
+                "position": {
+                    "x": 140, "y": 10
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "image": "textures/font/ascii.png",
+                "position_type": "TOP_LEFT",
+                "offset_pos": "TOP_LEFT",
+                "text": "'Memory Utilized     :   -'",
+                "position": {
+                    "x": 10, "y": 22
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "image": "textures/font/ascii.png",
+                "position_type": "TOP_LEFT",
+                "offset_pos": "TOP_LEFT",
+                "text": "memory_used() + ' MiB'",
+                "position": {
+                    "x": 140, "y": 22
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "image": "textures/font/ascii.png",
+                "position_type": "TOP_LEFT",
+                "offset_pos": "TOP_LEFT",
+                "text": "'Memory Unutilized  :'", 
+                "position": {
+                    "x": 10, "y": 34
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "image": "textures/font/ascii.png",
+                "position_type": "TOP_LEFT",
+                "offset_pos": "TOP_LEFT",
+                "text": "memory_free() + ' MiB'",
+                "position": {
+                    "x": 140, "y": 34
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "image": "textures/font/ascii.png",
+                "position_type": "TOP_LEFT",
+                "offset_pos": "TOP_LEFT",
+                "text": "'[ ' + floor(time * 10) / 10.0 + ' Seconds Elapsed ]'",
+                "position": {
+                    "x": 10, "y": 46
+                }
+            }
+        }
+    ],
+    "functions": [
+
+    ],
+    "factories": [
+        {
+            "parent": "builtin/change",
+            "change": "scroll_text",
+            "variables": {
+                "factory_age" : "factory_count - factory_index"
+            },
+            "kept_variables": {
+                "factory_status": "scroll_text"
+            },
+            "to_create": {
+                "should_render": "factory_age < max_scroll_count",
+                "image": {
+                    "parent": "builtin/text",
+                    "image": "textures/font/ascii.png",
+                    "position_type": "CENTER",
+                    "offset_pos": "CENTER",
+                    "text": "factory_status + (factory_age == 1 ? ( is_reloading ? ' - ' + sub_status : '') : '')",
+                    "position": {
+                        "x": "0",
+                        "y": "(factory_index - factory_count) * 12 + 50"
+                      },
+                      "colour": "0xFF_00_00_00 | (0x01_01_01 * (0xFF - 0xFF * factory_age / max_scroll_count).max(0x20))"
+                }
+            }
+        }
+    ],
+    "actions": [
+
+    ]
+}
