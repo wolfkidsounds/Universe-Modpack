@@ -39,7 +39,7 @@ airbladeSettings:
   damage: 3.5
   push: 0.5
 allowAirBubbleElytra: false
-allowMultiAirbendingWalljump: false
+allowMultiAirbendingWalljump: true
 bendableBlocksNames:
 - aroma1997sdimension:miningore
 - bigreactors:yellorium
@@ -404,7 +404,7 @@ earthspikeSettings:
 enableAutoModCompat: true
 explosionSettings:
   damage: 6.0
-  damageBlocks: false
+  damageBlocks: true
   explosionSize: 1.0
   fireTime: 2
   push: 1.0
@@ -418,7 +418,7 @@ fireShotSetttings:
   push: 0.5
 fireballSettings:
   damage: 3.5
-  damageBlocks: false
+  damageBlocks: true
   explosionSize: 1.0
   fireTime: 6
   push: 1.25
@@ -479,6 +479,42 @@ ravineSettings:
 sandBlocksNames:
 - minecraft:sand
 - minecraft:gravel
+- quark:sandstone_new
+- quark:sandstone_new:1
+- quark:sandstone_new:2
+- quark:sandstone_new:3
+- quark:sandstone_new:4
+- quark:sandstone_new:5
+- quark:sandstone_bricks_stairs
+- quark:soul_sandstone_bricks_stairs
+- quark:red_sandstone_bricks_stairs
+- minecraft:sand
+- minecraft:sand:1
+- minecraft:sandstone
+- minecraft:sandstone:1
+- minecraft:sandstone:2
+- minecraft:stone_slab:1
+- minecraft:soul_sand>
+- minecraft:sandstone_stairs
+- minecraft:red_sandstone
+- minecraft:red_sandstone:1
+- minecraft:red_sandstone:2
+- minecraft:red_sandstone_stairs
+- minecraft:stone_slab2
+- atum:sand
+- atum:sand_layer
+- biomesoplenty:grass:3
+- biomesoplenty:dirt:9
+- biomesoplenty:dirt:1
+- biomesoplenty:white_sandstone
+- biomesoplenty:white_sandstone:1
+- biomesoplenty:white_sandstone:2
+- biomesoplenty:white_sandstone_stairs
+- biomesoplenty:dried_sand
+- biomesoplenty:other_slab:1
+- extraplanets:orange_sand
+- extraplanets:orange_sandstone
+- biomesoplenty:white_sand
 shiftActivateFireDevour: true
 sleepChiRegen: 99999.0
 wallJumpDelay: 10
