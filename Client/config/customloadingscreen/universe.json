@@ -75,7 +75,7 @@
                 "image": "textures/font/ascii.png",
                 "position_type": "TOP_LEFT",
                 "offset_pos": "TOP_LEFT",
-                "text": "'Memory Alotted     :'", 
+                "text": "'Memory Allocated   :'",
                 "position": {
                     "x": 10, "y": 10
                 }
