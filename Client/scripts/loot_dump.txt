@@ -1,0 +1,2643 @@
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/labyrinth_dead_end/labyrinth_dead_end
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/wraith
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name               | Item ID                  | Weight |
+|-----------|--------------------------|--------------------------|--------|
+| dust      | minecraft:glowstone_dust | minecraft:glowstone_dust | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:chests/mimic_treasure
+[12:55:34] [Server thread/INFO]: 
+| Pool Name      | Entry Name                | Item ID                   | Weight |
+|----------------|---------------------------|---------------------------|--------|
+| mimic_ores     | minecraft:coal            | minecraft:coal            | 30     |
+| mimic_ores     | minecraft:iron_ingot      | minecraft:iron_ingot      | 20     |
+| mimic_ores     | minecraft:gold_ingot      | minecraft:gold_ingot      | 10     |
+| mimic_ores     | minecraft:redstone        | minecraft:redstone        | 15     |
+| mimic_ores     | minecraft:emerald         | minecraft:emerald         | 2      |
+| mimic_ores     | minecraft:diamond         | minecraft:diamond         | 2      |
+| mimic_supplies | minecraft:bread           | minecraft:bread           | 20     |
+| mimic_supplies | minecraft:wheat           | minecraft:wheat           | 10     |
+| mimic_supplies | minecraft:stick           | minecraft:stick           | 20     |
+| mimic_supplies | minecraft:bucket          | minecraft:bucket          | 10     |
+| mimic_supplies | minecraft:stone_pickaxe   | minecraft:stone_pickaxe   | 15     |
+| mimic_supplies | minecraft:iron_pickaxe    | minecraft:iron_pickaxe    | 10     |
+| mimic_supplies | minecraft:iron_helmet     | minecraft:iron_helmet     | 10     |
+| mimic_supplies | minecraft:iron_leggings   | minecraft:iron_leggings   | 10     |
+| mimic_supplies | minecraft:iron_chestplate | minecraft:iron_chestplate | 10     |
+| mimic_supplies | minecraft:iron_boots      | minecraft:iron_boots      | 10     |
+| mimic_supplies | minecraft:melon           | minecraft:melon           | 15     |
+| mimic_supplies | minecraft:arrow           | minecraft:arrow           | 20     |
+| mimic_supplies | minecraft:bow             | minecraft:bow             | 10     |
+| mimic_treasure | minecraft:name_tag        | minecraft:name_tag        | 5      |
+| mimic_treasure | minecraft:book            | minecraft:book            | 5      |
+| mimic_treasure | minecraft:melon_seeds     | minecraft:melon_seeds     | 10     |
+| mimic_treasure | minecraft:pumpkin_seeds   | minecraft:pumpkin_seeds   | 10     |
+| mimic_treasure | minecraft:beetroot_seeds  | minecraft:beetroot_seeds  | 10     |
+| mimic_treasure | minecraft:golden_apple    | minecraft:golden_apple    | 5      |
+| mimic_treasure | minecraft:ender_eye       | minecraft:ender_eye       | 5      |
+| mimic_treasure | minecraft:saddle          | minecraft:saddle          | 5      |
+| mimic_treasure | primitivemobs:mimic_orb   | primitivemobs:mimic_orb   | 10     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## deepmoblearning:loot_hoarder
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| main      | minecraft:diamond_ore      | minecraft:diamond_ore      | 1      |
+| main      | minecraft:emerald_ore      | minecraft:emerald_ore      | 1      |
+| main      | minecraft:ender_pearl      | minecraft:ender_pearl      | 1      |
+| main      | minecraft:prismarine_shard | minecraft:prismarine_shard | 1      |
+| main      | minecraft:gold_ingot       | minecraft:gold_ingot       | 2      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/special/filch_lizard_steal
+[12:55:34] [Server thread/INFO]: 
+| Pool Name        | Entry Name            | Item ID               | Weight |
+|------------------|-----------------------|-----------------------|--------|
+| filch_lizard_001 | minecraft:gold_ingot  | minecraft:gold_ingot  | 1      |
+| filch_lizard_002 | minecraft:iron_ingot  | minecraft:iron_ingot  | 1      |
+| filch_lizard_003 | minecraft:dye         | minecraft:dye         | 1      |
+| filch_lizard_004 | minecraft:diamond     | minecraft:diamond     | 1      |
+| filch_lizard_005 | minecraft:emerald     | minecraft:emerald     | 1      |
+| filch_lizard_006 | minecraft:ender_pearl | minecraft:ender_pearl | 1      |
+| filch_lizard_007 | minecraft:flint       | minecraft:flint       | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/zombie_horse
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:wolf_red
+[12:55:34] [Server thread/INFO]: 
+| Pool Name  | Entry Name                      | Item ID                         | Weight |
+|------------|---------------------------------|---------------------------------|--------|
+| wolf_black | betteranimalsplus:wolf_pelt_red | betteranimalsplus:wolf_pelt_red | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/death_tome
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                     | Item ID                        | Weight |
+|-----------|--------------------------------|--------------------------------|--------|
+| paper     | minecraft:paper                | minecraft:paper                | 1      |
+| book      | minecraft:writable_book        | minecraft:writable_book        | 2      |
+| book      | minecraft:book                 | minecraft:book                 | 19     |
+| map_focus | twilightforest:magic_map_focus | twilightforest:magic_map_focus | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/donkey
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/coolmar_spider
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                   | Item ID                      | Weight |
+|----------------------------|------------------------------|------------------------------|--------|
+| coolmar_spider_loot_pool   | minecraft:bone               | minecraft:bone               | 1      |
+| coolmar_spider_loot_pool_1 | netherex:coolmar_spider_fang | netherex:coolmar_spider_fang | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/yellow
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/purple
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/helmet_crab
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| shards    | twilightforest:armor_shard | twilightforest:armor_shard | 1      |
+| fish      | minecraft:fish             | minecraft:fish             | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/vindication_illager
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:emerald | minecraft:emerald | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/shulker
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name              | Item ID                 | Weight |
+|-----------|-------------------------|-------------------------|--------|
+| main      | minecraft:shulker_shell | minecraft:shulker_shell | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## railcraft:chests/simple_dungeon
+[12:55:34] [Server thread/INFO]: 
+| Pool Name         | Entry Name                       | Item ID                          | Weight |
+|-------------------|----------------------------------|----------------------------------|--------|
+| railcraft_general | railcraft:tool_sword_steel       | railcraft:tool_sword_steel       | 1      |
+| railcraft_general | railcraft:tool_axe_steel         | railcraft:tool_axe_steel         | 1      |
+| railcraft_general | railcraft:tool_pickaxe_steel     | railcraft:tool_pickaxe_steel     | 1      |
+| railcraft_general | railcraft:armor_helmet_steel     | railcraft:armor_helmet_steel     | 1      |
+| railcraft_general | railcraft:armor_leggings_steel   | railcraft:armor_leggings_steel   | 1      |
+| railcraft_general | railcraft:armor_chestplate_steel | railcraft:armor_chestplate_steel | 1      |
+| railcraft_general | railcraft:ingot                  | railcraft:ingot                  | 2      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/abandoned_mineshaft
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                       | Item ID                          | Weight |
+|----------------------------|----------------------------------|----------------------------------|--------|
+| main                       | minecraft:golden_apple           | minecraft:golden_apple           | 20     |
+| main                       | minecraft:golden_apple#0         | minecraft:golden_apple           | 1      |
+| main                       | minecraft:name_tag               | minecraft:name_tag               | 30     |
+| main                       | minecraft:book                   | minecraft:book                   | 10     |
+| main                       | minecraft:iron_pickaxe           | minecraft:iron_pickaxe           | 5      |
+| pool1                      | minecraft:iron_ingot             | minecraft:iron_ingot             | 10     |
+| pool1                      | minecraft:gold_ingot             | minecraft:gold_ingot             | 5      |
+| pool1                      | minecraft:redstone               | minecraft:redstone               | 5      |
+| pool1                      | minecraft:dye                    | minecraft:dye                    | 5      |
+| pool1                      | minecraft:diamond                | minecraft:diamond                | 3      |
+| pool1                      | minecraft:coal                   | minecraft:coal                   | 10     |
+| pool1                      | minecraft:bread                  | minecraft:bread                  | 15     |
+| pool1                      | minecraft:melon_seeds            | minecraft:melon_seeds            | 10     |
+| pool1                      | minecraft:pumpkin_seeds          | minecraft:pumpkin_seeds          | 10     |
+| pool1                      | minecraft:beetroot_seeds         | minecraft:beetroot_seeds         | 10     |
+| pool2                      | minecraft:rail                   | minecraft:rail                   | 20     |
+| pool2                      | minecraft:golden_rail            | minecraft:golden_rail            | 5      |
+| pool2                      | minecraft:detector_rail          | minecraft:detector_rail          | 5      |
+| pool2                      | minecraft:activator_rail         | minecraft:activator_rail         | 5      |
+| pool2                      | minecraft:torch                  | minecraft:torch                  | 15     |
+| custom_avatar_loot_pools   | custom_0                         | avatarmod:bison_armor            | 20     |
+| custom_avatar_loot_pools   | custom_1                         | avatarmod:bison_armor            | 10     |
+| custom_avatar_loot_pools   | custom_2                         | avatarmod:bison_armor            | 10     |
+| custom_avatar_loot_pools   | custom_3                         | avatarmod:bison_armor            | 5      |
+| custom_avatar_loot_pools   | custom_4                         | avatarmod:water_pouch            | 30     |
+| custom_avatar_loot_pools_2 | custom_0                         | avatarmod:scroll                 | 20     |
+| custom_avatar_loot_pools_2 | custom_1                         | avatarmod:scroll                 | 5      |
+| custom_avatar_loot_pools_2 | custom_2                         | avatarmod:scroll                 | 5      |
+| custom_avatar_loot_pools_2 | custom_3                         | avatarmod:scroll                 | 5      |
+| custom_avatar_loot_pools_2 | custom_4                         | avatarmod:scroll                 | 5      |
+| custom_avatar_loot_pools_3 | custom_0                         | avatarmod:ostrich_equip          | 10     |
+| custom_avatar_loot_pools_3 | custom_1                         | avatarmod:ostrich_equip          | 10     |
+| custom_avatar_loot_pools_3 | custom_2                         | avatarmod:ostrich_equip          | 15     |
+| railcraft_tools            | railcraft:tool_crowbar_iron      | railcraft:tool_crowbar_iron      | 5      |
+| railcraft_tools            | railcraft:tool_spike_maul_iron   | railcraft:tool_spike_maul_iron   | 5      |
+| railcraft_tools            | railcraft:armor_overalls         | railcraft:armor_overalls         | 5      |
+| railcraft_resources        | minecraft:coal                   | minecraft:coal                   | 5      |
+| railcraft_resources        | railcraft:plate                  | railcraft:plate                  | 2      |
+| railcraft_resources        | railcraft:gear                   | railcraft:gear                   | 1      |
+| railcraft_resources        | railcraft:ingot                  | railcraft:ingot                  | 4      |
+| railcraft_resources        | railcraft:fluid_bottle_creosote  | railcraft:fluid_bottle_creosote  | 2      |
+| railcraft_carts            | minecraft:minecart               | minecraft:minecart               | 5      |
+| railcraft_carts            | minecraft:chest_minecart         | minecraft:chest_minecart         | 5      |
+| railcraft_carts            | minecraft:hopper_minecart        | minecraft:hopper_minecart        | 1      |
+| railcraft_carts            | minecraft:tnt_minecart           | minecraft:tnt_minecart           | 1      |
+| railcraft_carts            | railcraft:cart_cargo             | railcraft:cart_cargo             | 5      |
+| railcraft_carts            | railcraft:cart_tank              | railcraft:cart_tank              | 1      |
+| railcraft_carts            | railcraft:cart_work              | railcraft:cart_work              | 1      |
+| railcraft_carts            | railcraft:locomotive_steam_solid | railcraft:locomotive_steam_solid | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## quark:entities/stoneling_carry
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                    | Item ID                       | Weight |
+|-----------|-------------------------------|-------------------------------|--------|
+| main      | minecraft:diamond             | minecraft:diamond             | 100    |
+| main      | minecraft:ender_pearl         | minecraft:ender_pearl         | 200    |
+| main      | minecraft:redstone            | minecraft:redstone            | 300    |
+| main      | minecraft:gold_ingot          | minecraft:gold_ingot          | 300    |
+| main      | minecraft:iron_ingot          | minecraft:iron_ingot          | 300    |
+| main      | minecraft:emerald             | minecraft:emerald             | 200    |
+| main      | minecraft:coal                | minecraft:coal                | 300    |
+| main      | zombie_head                   | minecraft:skull               | 250    |
+| main      | creeper_head                  | minecraft:skull               | 250    |
+| main      | minecraft:dye                 | minecraft:dye                 | 200    |
+| main      | minecraft:golden_apple        | minecraft:golden_apple        | 50     |
+| main      | minecraft:saddle              | minecraft:saddle              | 50     |
+| main      | minecraft:iron_horse_armor    | minecraft:iron_horse_armor    | 50     |
+| main      | minecraft:golden_horse_armor  | minecraft:golden_horse_armor  | 40     |
+| main      | minecraft:diamond_horse_armor | minecraft:diamond_horse_armor | 30     |
+| main      | minecraft:name_tag            | minecraft:name_tag            | 100    |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:gameplay/fishing/treasure
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name            | Item ID               | Weight |
+|-----------|-----------------------|-----------------------|--------|
+| main      | minecraft:waterlily   | minecraft:waterlily   | 1      |
+| main      | minecraft:name_tag    | minecraft:name_tag    | 1      |
+| main      | minecraft:saddle      | minecraft:saddle      | 1      |
+| main      | minecraft:bow         | minecraft:bow         | 1      |
+| main      | minecraft:fishing_rod | minecraft:fishing_rod | 1      |
+| main      | minecraft:book        | minecraft:book        | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/nethermite
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/enderman
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name            | Item ID               | Weight |
+|-----------|-----------------------|-----------------------|--------|
+| main      | minecraft:ender_pearl | minecraft:ender_pearl | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/husk
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 1      |
+| pool1     | minecraft:iron_ingot   | minecraft:iron_ingot   | 1      |
+| pool1     | minecraft:carrot       | minecraft:carrot       | 1      |
+| pool1     | minecraft:potato       | minecraft:potato       | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/chameleon
+[12:55:34] [Server thread/INFO]: 
+| Pool Name            | Entry Name                   | Item ID                      | Weight |
+|----------------------|------------------------------|------------------------------|--------|
+| chameleon_drops      | primitivemobs:camouflage_dye | primitivemobs:camouflage_dye | 1      |
+| chameleon_rare_drops | minecraft:spider_eye         | minecraft:spider_eye         | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:nautilus
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| nautilus  | minecraft:fish | minecraft:fish | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:wolf_snowy
+[12:55:34] [Server thread/INFO]: 
+| Pool Name  | Entry Name                        | Item ID                           | Weight |
+|------------|-----------------------------------|-----------------------------------|--------|
+| wolf_snowy | betteranimalsplus:wolf_pelt_snowy | betteranimalsplus:wolf_pelt_snowy | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/labyrinth_room/labyrinth_room
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/mother_spider
+[12:55:34] [Server thread/INFO]: 
+| Pool Name              | Entry Name               | Item ID                  | Weight |
+|------------------------|--------------------------|--------------------------|--------|
+| motherspider_drops     | minecraft:string         | minecraft:string         | 1      |
+| motherspider_eye_drops | minecraft:spider_eye     | minecraft:spider_eye     | 1      |
+| motherspider_egg_drops | primitivemobs:spider_egg | primitivemobs:spider_egg | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/tiny_bird
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/bat
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/troll_garden/troll_garden
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/red
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/tree_cache/tree_cache
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/orange
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/igloo_chest
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name             | Item ID                 | Weight |
+|----------------------------|------------------------|-------------------------|--------|
+| main                       | minecraft:apple        | minecraft:apple         | 15     |
+| main                       | minecraft:coal         | minecraft:coal          | 15     |
+| main                       | minecraft:gold_nugget  | minecraft:gold_nugget   | 10     |
+| main                       | minecraft:stone_axe    | minecraft:stone_axe     | 2      |
+| main                       | minecraft:rotten_flesh | minecraft:rotten_flesh  | 10     |
+| main                       | minecraft:emerald      | minecraft:emerald       | 1      |
+| main                       | minecraft:wheat        | minecraft:wheat         | 10     |
+| pool1                      | minecraft:golden_apple | minecraft:golden_apple  | 1      |
+| custom_avatar_loot_pools   | custom_0               | avatarmod:scroll        | 20     |
+| custom_avatar_loot_pools   | custom_1               | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools   | custom_2               | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools   | custom_3               | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools   | custom_4               | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools_2 | custom_0               | avatarmod:ostrich_equip | 15     |
+| custom_avatar_loot_pools_2 | custom_1               | avatarmod:ostrich_equip | 15     |
+| custom_avatar_loot_pools_2 | custom_2               | avatarmod:ostrich_equip | 20     |
+| custom_avatar_loot_pools_3 | custom_0               | avatarmod:scroll        | 100    |
+| custom_avatar_loot_pools_4 | custom_0               | avatarmod:scroll        | 40     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:bear_black
+[12:55:34] [Server thread/INFO]: 
+| Pool Name       | Entry Name                        | Item ID                           | Weight |
+|-----------------|-----------------------------------|-----------------------------------|--------|
+| bear-black-fish | minecraft:fish                    | minecraft:fish                    | 1      |
+| bear-black-skin | betteranimalsplus:bear_skin_black | betteranimalsplus:bear_skin_black | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/wight
+[12:55:34] [Server thread/INFO]: 
+| Pool Name       | Entry Name            | Item ID               | Weight |
+|-----------------|-----------------------|-----------------------|--------|
+| wight_loot_pool | netherex:rime_crystal | netherex:rime_crystal | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/mimic
+[12:55:34] [Server thread/INFO]: 
+| Pool Name        | Entry Name              | Item ID                 | Weight |
+|------------------|-------------------------|-------------------------|--------|
+| mimic_drops      | minecraft:chest         | minecraft:chest         | 1      |
+| mimic_rare_drops | primitivemobs:mimic_orb | primitivemobs:mimic_orb | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/penguin
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/void_eye
+[12:55:34] [Server thread/INFO]: 
+| Pool Name            | Entry Name          | Item ID             | Weight |
+|----------------------|---------------------|---------------------|--------|
+| void_eyes_drops      | minecraft:coal      | minecraft:coal      | 1      |
+| void_eyes_rare_drops | minecraft:ender_eye | minecraft:ender_eye | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/quest_ram
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/wolf
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/mogus/white_mogus
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/vex
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/harpy
+[12:55:34] [Server thread/INFO]: 
+| Pool Name        | Entry Name           | Item ID              | Weight |
+|------------------|----------------------|----------------------|--------|
+| harpy_drops      | minecraft:feather    | minecraft:feather    | 1      |
+| harpy_rare_drops | minecraft:gold_ingot | minecraft:gold_ingot | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/yellow
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/pigtificate/pigtificate_hunter
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/spore_creeper
+[12:55:34] [Server thread/INFO]: 
+| Pool Name               | Entry Name     | Item ID        | Weight |
+|-------------------------|----------------|----------------|--------|
+| spore_creeper_loot_pool | netherex:spore | netherex:spore | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## enderio:chests/igloo_chest
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name               | Item ID                         | Weight |
+|-----------|--------------------------|---------------------------------|--------|
+| Ender IO  | PolarBearSoulVial        | enderio:item_soul_vial          | 1      |
+| Ender IO  | enderio:item_soul_vial:0 | enderio:item_soul_vial          | 1      |
+| Ender IO  | item_basic_capacitor5    | enderio:item_basic_capacitor    | 1      |
+| Ender IO  | dsu                      | enderio:item_dark_steel_upgrade | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/snow_queen
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                | Item ID                   | Weight |
+|-----------|---------------------------|---------------------------|--------|
+| bow       | twilightforest:triple_bow | twilightforest:triple_bow | 1      |
+| bow       | twilightforest:seeker_bow | twilightforest:seeker_bow | 1      |
+| ice       | minecraft:packed_ice      | minecraft:packed_ice      | 1      |
+| snowballs | minecraft:snowball        | minecraft:snowball        | 1      |
+| trophy    | twilightforest:trophy     | twilightforest:trophy     | 1      |
+| shader    | twilightforest:ice_bomb   | twilightforest:ice_bomb   | 1      |
+| shader    | twilightforest:ice_bomb   | twilightforest:ice_bomb   | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/blue
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/ocelot
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:moose
+[12:55:34] [Server thread/INFO]: 
+| Pool Name     | Entry Name                   | Item ID                      | Weight |
+|---------------|------------------------------|------------------------------|--------|
+| moose-venison | betteranimalsplus:venisonraw | betteranimalsplus:venisonraw | 2      |
+| moose-antler  | betteranimalsplus:antler     | betteranimalsplus:antler     | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/graveyard/graveyard
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/endermite
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/hill_2/hill_2
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/stronghold_boss/stronghold_boss
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                       | Item ID                          | Weight |
+|-----------|----------------------------------|----------------------------------|--------|
+| shader    | twilightforest:knightmetal_ingot | twilightforest:knightmetal_ingot | 1      |
+| shader    | twilightforest:knightmetal_ingot | twilightforest:knightmetal_ingot | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/ember
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/villager
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/frost
+[12:55:34] [Server thread/INFO]: 
+| Pool Name       | Entry Name         | Item ID            | Weight |
+|-----------------|--------------------|--------------------|--------|
+| frost_loot_pool | netherex:frost_rod | netherex:frost_rod | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/lime
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## quark:entities/foxhound
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| leather   | minecraft:leather      | minecraft:leather      | 1      |
+| blaze     | minecraft:blaze_powder | minecraft:blaze_powder | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/tower_library/tower_library
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/tower_golem
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                | Item ID                   | Weight |
+|-----------|---------------------------|---------------------------|--------|
+| iron      | minecraft:iron_ingot      | minecraft:iron_ingot      | 1      |
+| wood      | twilightforest:tower_wood | twilightforest:tower_wood | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/gray
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/support_creeper
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                | Item ID                   | Weight |
+|----------------------------|---------------------------|---------------------------|--------|
+| support_creeper_drops      | minecraft:gunpowder       | minecraft:gunpowder       | 1      |
+| support_creeper_rare_drops | minecraft:cookie          | minecraft:cookie          | 1      |
+| creeper_egg_drops          | primitivemobs:mysteryegg2 | primitivemobs:mysteryegg2 | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:gameplay/fishing
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/aurora_boss/aurora_boss
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:turkey
+[12:55:34] [Server thread/INFO]: 
+| Pool Name      | Entry Name                       | Item ID                          | Weight |
+|----------------|----------------------------------|----------------------------------|--------|
+| turkey-feather | minecraft:feather                | minecraft:feather                | 1      |
+| turkey-meat    | betteranimalsplus:turkey_leg_raw | betteranimalsplus:turkey_leg_raw | 7      |
+| turkey-meat    | betteranimalsplus:turkey_raw     | betteranimalsplus:turkey_raw     | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/goblin_knight
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| shards    | twilightforest:armor_shard | twilightforest:armor_shard | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/green
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/tower_termite
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                   | Item ID                      | Weight |
+|-----------|------------------------------|------------------------------|--------|
+| essence   | twilightforest:borer_essence | twilightforest:borer_essence | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## natura:entities/imp
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name       | Item ID          | Weight |
+|-----------|------------------|------------------|--------|
+| imp       | natura:edibles   | natura:edibles   | 1      |
+| imp       | natura:materials | natura:materials | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/mushroom_cow
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+| pool1     | minecraft:beef    | minecraft:beef    | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/ender_dragon
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## railcraft:chests/village_blacksmith
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/pigtificate/pigtificate_chief
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/giant_miner
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                   | Item ID                      | Weight |
+|-----------|------------------------------|------------------------------|--------|
+| pick      | twilightforest:giant_pickaxe | twilightforest:giant_pickaxe | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:bear_kermode
+[12:55:34] [Server thread/INFO]: 
+| Pool Name         | Entry Name                          | Item ID                             | Weight |
+|-------------------|-------------------------------------|-------------------------------------|--------|
+| bear-kermode-fish | minecraft:fish                      | minecraft:fish                      | 1      |
+| bear-kermode-skin | betteranimalsplus:bear_skin_kermode | betteranimalsplus:bear_skin_kermode | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/wither_skeleton
+[12:55:34] [Server thread/INFO]: 
+| Pool Name             | Entry Name           | Item ID              | Weight |
+|-----------------------|----------------------|----------------------|--------|
+| wither_bone_loot_pool | netherex:wither_bone | netherex:wither_bone | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/woodland_mansion
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                | Entry Name                     | Item ID                        | Weight |
+|--------------------------|--------------------------------|--------------------------------|--------|
+| main                     | minecraft:lead                 | minecraft:lead                 | 20     |
+| main                     | minecraft:golden_apple         | minecraft:golden_apple         | 15     |
+| main                     | minecraft:golden_apple#0       | minecraft:golden_apple         | 2      |
+| main                     | minecraft:record_13            | minecraft:record_13            | 15     |
+| main                     | minecraft:record_cat           | minecraft:record_cat           | 15     |
+| main                     | minecraft:name_tag             | minecraft:name_tag             | 20     |
+| main                     | minecraft:chainmail_chestplate | minecraft:chainmail_chestplate | 10     |
+| main                     | minecraft:diamond_hoe          | minecraft:diamond_hoe          | 15     |
+| main                     | minecraft:diamond_chestplate   | minecraft:diamond_chestplate   | 5      |
+| main                     | minecraft:book                 | minecraft:book                 | 10     |
+| pool1                    | minecraft:iron_ingot           | minecraft:iron_ingot           | 10     |
+| pool1                    | minecraft:gold_ingot           | minecraft:gold_ingot           | 5      |
+| pool1                    | minecraft:bread                | minecraft:bread                | 20     |
+| pool1                    | minecraft:wheat                | minecraft:wheat                | 20     |
+| pool1                    | minecraft:bucket               | minecraft:bucket               | 10     |
+| pool1                    | minecraft:redstone             | minecraft:redstone             | 15     |
+| pool1                    | minecraft:coal                 | minecraft:coal                 | 15     |
+| pool1                    | minecraft:melon_seeds          | minecraft:melon_seeds          | 10     |
+| pool1                    | minecraft:pumpkin_seeds        | minecraft:pumpkin_seeds        | 10     |
+| pool1                    | minecraft:beetroot_seeds       | minecraft:beetroot_seeds       | 10     |
+| pool2                    | minecraft:bone                 | minecraft:bone                 | 10     |
+| pool2                    | minecraft:gunpowder            | minecraft:gunpowder            | 10     |
+| pool2                    | minecraft:rotten_flesh         | minecraft:rotten_flesh         | 10     |
+| pool2                    | minecraft:string               | minecraft:string               | 10     |
+| custom_avatar_loot_pools | custom_0                       | avatarmod:scroll               | 100    |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/pigtificate/pigtificate_enchanter
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/pigtificate/pigtificate_gatherer
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/basement/basement
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/purple
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/blazing_juggernaut
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                     | Entry Name             | Item ID                | Weight |
+|-------------------------------|------------------------|------------------------|--------|
+| blazing_juggernaut_drops      | minecraft:blaze_powder | minecraft:blaze_powder | 1      |
+| blazing_juggernaut_rare_drops | minecraft:blaze_rod    | minecraft:blaze_rod    | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/cyan
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/stray
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:arrow        | minecraft:arrow        | 1      |
+| pool1     | minecraft:bone         | minecraft:bone         | 1      |
+| pool2     | minecraft:tipped_arrow | minecraft:tipped_arrow | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/pigtificate/pigtificate_nincompoop
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/ice_shooter
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name         | Item ID            | Weight |
+|-----------|--------------------|--------------------|--------|
+| snowballs | minecraft:snowball | minecraft:snowball | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## enderio:chests/end_city_treasure
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                    | Item ID                         | Weight |
+|-----------|-------------------------------|---------------------------------|--------|
+| Ender IO  | ShulkerSoulVial               | enderio:item_soul_vial          | 1      |
+| Ender IO  | enderio:item_soul_vial:0      | enderio:item_soul_vial          | 1      |
+| Ender IO  | enderio:item_material:12      | enderio:item_material           | 1      |
+| Ender IO  | enderio:item_material:13      | enderio:item_material           | 1      |
+| Ender IO  | item_basic_capacitor13        | enderio:item_basic_capacitor    | 1      |
+| Ender IO  | enderio:item_dark_steel_bow:0 | enderio:item_dark_steel_bow     | 1      |
+| Ender IO  | dsu                           | enderio:item_dark_steel_upgrade | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/maze_slime
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                        | Item ID                           | Weight |
+|-----------|-----------------------------------|-----------------------------------|--------|
+| charm     | twilightforest:charm_of_keeping_1 | twilightforest:charm_of_keeping_1 | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/black
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/stronghold_corridor
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                    | Item ID                       | Weight |
+|----------------------------|-------------------------------|-------------------------------|--------|
+| main                       | minecraft:ender_pearl         | minecraft:ender_pearl         | 10     |
+| main                       | minecraft:diamond             | minecraft:diamond             | 3      |
+| main                       | minecraft:iron_ingot          | minecraft:iron_ingot          | 10     |
+| main                       | minecraft:gold_ingot          | minecraft:gold_ingot          | 5      |
+| main                       | minecraft:redstone            | minecraft:redstone            | 5      |
+| main                       | minecraft:bread               | minecraft:bread               | 15     |
+| main                       | minecraft:apple               | minecraft:apple               | 15     |
+| main                       | minecraft:iron_pickaxe        | minecraft:iron_pickaxe        | 5      |
+| main                       | minecraft:iron_sword          | minecraft:iron_sword          | 5      |
+| main                       | minecraft:iron_chestplate     | minecraft:iron_chestplate     | 5      |
+| main                       | minecraft:iron_helmet         | minecraft:iron_helmet         | 5      |
+| main                       | minecraft:iron_leggings       | minecraft:iron_leggings       | 5      |
+| main                       | minecraft:iron_boots          | minecraft:iron_boots          | 5      |
+| main                       | minecraft:golden_apple        | minecraft:golden_apple        | 1      |
+| main                       | minecraft:saddle              | minecraft:saddle              | 1      |
+| main                       | minecraft:iron_horse_armor    | minecraft:iron_horse_armor    | 1      |
+| main                       | minecraft:golden_horse_armor  | minecraft:golden_horse_armor  | 1      |
+| main                       | minecraft:diamond_horse_armor | minecraft:diamond_horse_armor | 1      |
+| main                       | minecraft:book                | minecraft:book                | 1      |
+| main                       | quark:treasure_map            | minecraft:filled_map          | 10     |
+| custom_avatar_loot_pools   | custom_0                      | avatarmod:bison_whistle       | 20     |
+| custom_avatar_loot_pools   | custom_1                      | avatarmod:bison_saddle        | 20     |
+| custom_avatar_loot_pools   | custom_2                      | avatarmod:bison_saddle        | 10     |
+| custom_avatar_loot_pools   | custom_3                      | avatarmod:bison_saddle        | 10     |
+| custom_avatar_loot_pools   | custom_4                      | avatarmod:bison_saddle        | 5      |
+| custom_avatar_loot_pools   | custom_5                      | avatarmod:water_pouch         | 30     |
+| custom_avatar_loot_pools_2 | custom_0                      | avatarmod:scroll              | 20     |
+| custom_avatar_loot_pools_2 | custom_1                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_2                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_3                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_4                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_5                      | avatarmod:scroll              | 10     |
+| custom_avatar_loot_pools_3 | custom_0                      | avatarmod:ostrich_equip       | 10     |
+| custom_avatar_loot_pools_3 | custom_1                      | avatarmod:ostrich_equip       | 10     |
+| custom_avatar_loot_pools_3 | custom_2                      | avatarmod:ostrich_equip       | 15     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/festive_creeper
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                | Item ID                   | Weight |
+|----------------------------|---------------------------|---------------------------|--------|
+| festive_creeper_drops      | minecraft:gunpowder       | minecraft:gunpowder       | 1      |
+| festive_creeper_rare_drops | minecraft:tnt             | minecraft:tnt             | 1      |
+| creeper_egg_drops          | primitivemobs:mysteryegg1 | primitivemobs:mysteryegg1 | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:hirschgeist
+[12:55:34] [Server thread/INFO]: 
+| Pool Name   | Entry Name                           | Item ID                              | Weight |
+|-------------|--------------------------------------|--------------------------------------|--------|
+| hirschgeist | betteranimalsplus:hirschgeistskull_1 | betteranimalsplus:hirschgeistskull_1 | 200    |
+| hirschgeist | minecraft:bone                       | minecraft:bone                       | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/goblin
+[12:55:34] [Server thread/INFO]: 
+| Pool Name         | Entry Name           | Item ID              | Weight |
+|-------------------|----------------------|----------------------|--------|
+| goblin_drops      | minecraft:iron_ingot | minecraft:iron_ingot | 1      |
+| goblin_rare_drops | minecraft:emerald    | minecraft:emerald    | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/light_blue
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/flame_spewer
+[12:55:34] [Server thread/INFO]: 
+| Pool Name               | Entry Name          | Item ID             | Weight |
+|-------------------------|---------------------|---------------------|--------|
+| flame_spewer_drops      | minecraft:gunpowder | minecraft:gunpowder | 1      |
+| flame_spewer_rare_drops | minecraft:diamond   | minecraft:diamond   | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/aurora_room/aurora_room
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:eely
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                     | Item ID                        | Weight |
+|-----------|--------------------------------|--------------------------------|--------|
+| eel-meat  | betteranimalsplus:eel_meat_raw | betteranimalsplus:eel_meat_raw | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/llama
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/pigtificate/pigtificate_armorsmith
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/guardian
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                    | Item ID                       | Weight |
+|-----------|-------------------------------|-------------------------------|--------|
+| main      | minecraft:prismarine_shard    | minecraft:prismarine_shard    | 1      |
+| pool1     | minecraft:fish                | minecraft:fish                | 2      |
+| pool1     | minecraft:prismarine_crystals | minecraft:prismarine_crystals | 2      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/nether_bridge
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                    | Item ID                       | Weight |
+|----------------------------|-------------------------------|-------------------------------|--------|
+| main                       | minecraft:diamond             | minecraft:diamond             | 5      |
+| main                       | minecraft:iron_ingot          | minecraft:iron_ingot          | 5      |
+| main                       | minecraft:gold_ingot          | minecraft:gold_ingot          | 15     |
+| main                       | minecraft:golden_sword        | minecraft:golden_sword        | 5      |
+| main                       | minecraft:golden_chestplate   | minecraft:golden_chestplate   | 5      |
+| main                       | minecraft:flint_and_steel     | minecraft:flint_and_steel     | 5      |
+| main                       | minecraft:nether_wart         | minecraft:nether_wart         | 5      |
+| main                       | minecraft:saddle              | minecraft:saddle              | 10     |
+| main                       | minecraft:golden_horse_armor  | minecraft:golden_horse_armor  | 8      |
+| main                       | minecraft:iron_horse_armor    | minecraft:iron_horse_armor    | 5      |
+| main                       | minecraft:diamond_horse_armor | minecraft:diamond_horse_armor | 3      |
+| main                       | minecraft:obsidian            | minecraft:obsidian            | 2      |
+| main                       | quark:rune                    | quark:rune                    | 15     |
+| custom_avatar_loot_pools   | custom_0                      | avatarmod:bison_whistle       | 20     |
+| custom_avatar_loot_pools   | custom_1                      | avatarmod:bison_saddle        | 20     |
+| custom_avatar_loot_pools   | custom_2                      | avatarmod:bison_saddle        | 10     |
+| custom_avatar_loot_pools   | custom_3                      | avatarmod:bison_saddle        | 10     |
+| custom_avatar_loot_pools   | custom_4                      | avatarmod:bison_saddle        | 5      |
+| custom_avatar_loot_pools   | custom_5                      | avatarmod:water_pouch         | 30     |
+| custom_avatar_loot_pools_2 | custom_0                      | avatarmod:scroll              | 20     |
+| custom_avatar_loot_pools_2 | custom_1                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_2                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_3                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_4                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_5                      | avatarmod:scroll              | 10     |
+| custom_avatar_loot_pools_3 | custom_0                      | avatarmod:ostrich_equip       | 10     |
+| custom_avatar_loot_pools_3 | custom_1                      | avatarmod:ostrich_equip       | 10     |
+| custom_avatar_loot_pools_3 | custom_2                      | avatarmod:ostrich_equip       | 15     |
+| custom_avatar_loot_pools_4 | custom_0                      | avatarmod:scroll              | 40     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:songbird
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| songbird  | minecraft:feather | minecraft:feather | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/spore
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/salamander/black_salamander
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                     | Item ID                        | Weight |
+|----------------------------|--------------------------------|--------------------------------|--------|
+| black_salamander_loot_pool | netherex:black_salamander_hide | netherex:black_salamander_hide | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/ice_exploder
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name         | Item ID            | Weight |
+|-----------|--------------------|--------------------|--------|
+| snowballs | minecraft:snowball | minecraft:snowball | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:pheasant
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                    | Item ID                       | Weight |
+|-----------|-------------------------------|-------------------------------|--------|
+| pheasant  | betteranimalsplus:pheasantraw | betteranimalsplus:pheasantraw | 4      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/rocket_creeper
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                 | Entry Name                | Item ID                   | Weight |
+|---------------------------|---------------------------|---------------------------|--------|
+| rocket_creeper_drops      | minecraft:gunpowder       | minecraft:gunpowder       | 1      |
+| rocket_creeper_rare_drops | minecraft:firework_charge | minecraft:firework_charge | 1      |
+| creeper_egg_drops         | primitivemobs:mysteryegg3 | primitivemobs:mysteryegg3 | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/skeleton_druid
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                  | Item ID                     | Weight |
+|-----------|-----------------------------|-----------------------------|--------|
+| berries   | twilightforest:torchberries | twilightforest:torchberries | 1      |
+| bones     | minecraft:bone              | minecraft:bone              | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/witch
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name               | Item ID                  | Weight |
+|-----------|--------------------------|--------------------------|--------|
+| main      | minecraft:glowstone_dust | minecraft:glowstone_dust | 1      |
+| main      | minecraft:sugar          | minecraft:sugar          | 1      |
+| main      | minecraft:redstone       | minecraft:redstone       | 1      |
+| main      | minecraft:spider_eye     | minecraft:spider_eye     | 1      |
+| main      | minecraft:glass_bottle   | minecraft:glass_bottle   | 1      |
+| main      | minecraft:gunpowder      | minecraft:gunpowder      | 1      |
+| main      | minecraft:stick          | minecraft:stick          | 2      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/silver
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## galacticraftcore:crashed_probe
+[12:55:34] [Server thread/INFO]: 
+| Pool Name     | Entry Name                               | Item ID                                  | Weight |
+|---------------|------------------------------------------|------------------------------------------|--------|
+| crashed_probe | galacticraftplanets:item_basic_mars      | galacticraftplanets:item_basic_mars      | 5      |
+| crashed_probe | galacticraftcore:heavy_plating           | galacticraftcore:heavy_plating           | 5      |
+| crashed_probe | minecraft:iron_ingot                     | minecraft:iron_ingot                     | 5      |
+| crashed_probe | galacticraftplanets:item_basic_asteroids | galacticraftplanets:item_basic_asteroids | 10     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/special/filch_lizard_spawn
+[12:55:34] [Server thread/INFO]: 
+| Pool Name             | Entry Name            | Item ID               | Weight |
+|-----------------------|-----------------------|-----------------------|--------|
+| filchlizard_spawnitem | minecraft:gold_ingot  | minecraft:gold_ingot  | 3      |
+| filchlizard_spawnitem | minecraft:iron_ingot  | minecraft:iron_ingot  | 6      |
+| filchlizard_spawnitem | minecraft:dye         | minecraft:dye         | 4      |
+| filchlizard_spawnitem | minecraft:diamond     | minecraft:diamond     | 1      |
+| filchlizard_spawnitem | minecraft:emerald     | minecraft:emerald     | 1      |
+| filchlizard_spawnitem | minecraft:ender_pearl | minecraft:ender_pearl | 2      |
+| filchlizard_spawnitem | minecraft:flint       | minecraft:flint       | 8      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/pink
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/skeleton_horse
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:bone | minecraft:bone | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:empty
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/naga
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                | Item ID                   | Weight |
+|-----------|---------------------------|---------------------------|--------|
+| scales    | twilightforest:naga_scale | twilightforest:naga_scale | 1      |
+| trophy    | twilightforest:trophy     | twilightforest:trophy     | 1      |
+| shader    | twilightforest:naga_scale | twilightforest:naga_scale | 1      |
+| shader    | twilightforest:naga_scale | twilightforest:naga_scale | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/ghast/ghastling
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/armored_giant
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| sword     | twilightforest:giant_sword | twilightforest:giant_sword | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## railcraft:chests/stronghold_crossing
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:lammergeier
+[12:55:34] [Server thread/INFO]: 
+| Pool Name   | Entry Name        | Item ID           | Weight |
+|-------------|-------------------|-------------------|--------|
+| lammergeier | minecraft:feather | minecraft:feather | 1      |
+| lammergeier | minecraft:bone    | minecraft:bone    | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/lime
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/blaze
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name          | Item ID             | Weight |
+|-----------|---------------------|---------------------|--------|
+| main      | minecraft:blaze_rod | minecraft:blaze_rod | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/spinout
+[12:55:34] [Server thread/INFO]: 
+| Pool Name         | Entry Name       | Item ID          | Weight |
+|-------------------|------------------|------------------|--------|
+| spinout_loot_pool | minecraft:quartz | minecraft:quartz | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/mini_ghast
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## enderio:chests/village_blacksmith
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                      | Item ID                         | Weight |
+|-----------|---------------------------------|---------------------------------|--------|
+| Ender IO  | enderio:item_alloy_ingot:0      | enderio:item_alloy_ingot        | 1      |
+| Ender IO  | enderio:item_alloy_ingot:3      | enderio:item_alloy_ingot        | 1      |
+| Ender IO  | enderio:item_alloy_ingot:6      | enderio:item_alloy_ingot        | 1      |
+| Ender IO  | enderio:item_alloy_ingot:5      | enderio:item_alloy_ingot        | 1      |
+| Ender IO  | enderio:item_alloy_ingot:2      | enderio:item_alloy_ingot        | 1      |
+| Ender IO  | enderio:item_material:9         | enderio:item_material           | 1      |
+| Ender IO  | enderio:item_material:10        | enderio:item_material           | 1      |
+| Ender IO  | enderio:item_material:11        | enderio:item_material           | 1      |
+| Ender IO  | enderio:item_material:12        | enderio:item_material           | 1      |
+| Ender IO  | enderio:item_material:13        | enderio:item_material           | 1      |
+| Ender IO  | enderio:item_dark_steel_boots:0 | enderio:item_dark_steel_boots   | 1      |
+| Ender IO  | item_basic_capacitor11          | enderio:item_basic_capacitor    | 1      |
+| Ender IO  | dsu                             | enderio:item_dark_steel_upgrade | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## tektopia:village_storage
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name         | Item ID            | Weight |
+|-----------|--------------------|--------------------|--------|
+| emerald   | minecraft:emerald  | minecraft:emerald  | 10     |
+| tags      | minecraft:name_tag | minecraft:name_tag | 10     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/lily_lurker
+[12:55:34] [Server thread/INFO]: 
+| Pool Name             | Entry Name           | Item ID              | Weight |
+|-----------------------|----------------------|----------------------|--------|
+| lilylurker_drops      | minecraft:waterlily  | minecraft:waterlily  | 1      |
+| lilylurker_rare_drops | minecraft:slime_ball | minecraft:slime_ball | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/silver
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/tower_room/tower_room
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/magenta
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:whale
+[12:55:34] [Server thread/INFO]: 
+| Pool Name     | Entry Name                | Item ID                   | Weight |
+|---------------|---------------------------|---------------------------|--------|
+| whale-blubber | betteranimalsplus:blubber | betteranimalsplus:blubber | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/aurora_cache/aurora_cache
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/zombie_pigman
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 1      |
+| pool1     | minecraft:gold_nugget  | minecraft:gold_nugget  | 1      |
+| pool2     | minecraft:gold_ingot   | minecraft:gold_ingot   | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## growthcraft_grapes:loot_table_simple_dungeon
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name               | Item ID                  | Weight |
+|-----------|--------------------------|--------------------------|--------|
+| grapes    | growthcraft_grapes:grape | growthcraft_grapes:grape | 10     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/snow_guardian
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name         | Item ID            | Weight |
+|-----------|--------------------|--------------------|--------|
+| snowballs | minecraft:snowball | minecraft:snowball | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/village_blacksmith
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name           | Item ID                 | Weight |
+|----------------------------|----------------------|-------------------------|--------|
+| main                       | minecraft:iron_ingot | minecraft:iron_ingot    | 10     |
+| main                       | minecraft:gold_ingot | minecraft:gold_ingot    | 5      |
+| main                       | minecraft:bread      | minecraft:bread         | 15     |
+| main                       | minecraft:apple      | minecraft:apple         | 15     |
+| main                       | minecraft:sapling    | minecraft:sapling       | 5      |
+| main                       | minecraft:saddle     | minecraft:saddle        | 3      |
+| custom_avatar_loot_pools   | custom_0             | avatarmod:scroll        | 20     |
+| custom_avatar_loot_pools   | custom_1             | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools   | custom_2             | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools   | custom_3             | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools   | custom_4             | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools_2 | custom_0             | avatarmod:ostrich_equip | 15     |
+| custom_avatar_loot_pools_2 | custom_1             | avatarmod:ostrich_equip | 15     |
+| custom_avatar_loot_pools_2 | custom_2             | avatarmod:ostrich_equip | 20     |
+| growthcraft                | growthcraft.item.bee | growthcraft_bees:bee    | 10     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/brown
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/hill_1/hill_1
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/ghast/ghast
+[12:55:34] [Server thread/INFO]: 
+| Pool Name            | Entry Name              | Item ID                 | Weight |
+|----------------------|-------------------------|-------------------------|--------|
+| ghast_meat_loot_pool | netherex:ghast_meat_raw | netherex:ghast_meat_raw | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/ghast/ghast_queen
+[12:55:34] [Server thread/INFO]: 
+| Pool Name             | Entry Name                | Item ID                   | Weight |
+|-----------------------|---------------------------|---------------------------|--------|
+| ghast_queen_loot_pool | netherex:ghast_queen_tear | netherex:ghast_queen_tear | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/boar
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name         | Item ID            | Weight |
+|-----------|--------------------|--------------------|--------|
+| vanilla   | minecraft:porkchop | minecraft:porkchop | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/block_goblin
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| shards    | twilightforest:armor_shard | twilightforest:armor_shard | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/magma_cube
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name            | Item ID               | Weight |
+|-----------|-----------------------|-----------------------|--------|
+| main      | minecraft:magma_cream | minecraft:magma_cream | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/slime
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| main      | minecraft:slime_ball | minecraft:slime_ball | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/redcap
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| coal      | minecraft:coal | minecraft:coal | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/darktower_cache/darktower_cache
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## deepmoblearning:glitch
+[12:55:34] [Server thread/INFO]: 
+| Pool Name       | Entry Name                   | Item ID                      | Weight |
+|-----------------|------------------------------|------------------------------|--------|
+| deepmoblearning | deepmoblearning:glitch_heart | deepmoblearning:glitch_heart | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/evocation_illager
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| main      | minecraft:totem_of_undying | minecraft:totem_of_undying | 1      |
+| pool1     | minecraft:emerald          | minecraft:emerald          | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/minotaur
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                    | Item ID                       | Weight |
+|-----------|-------------------------------|-------------------------------|--------|
+| meat      | twilightforest:raw_meef       | twilightforest:raw_meef       | 1      |
+| map_focus | twilightforest:maze_map_focus | twilightforest:maze_map_focus | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/skeleton
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:arrow | minecraft:arrow | 1      |
+| pool1     | minecraft:bone  | minecraft:bone  | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:wolf_brown
+[12:55:34] [Server thread/INFO]: 
+| Pool Name  | Entry Name                        | Item ID                           | Weight |
+|------------|-----------------------------------|-----------------------------------|--------|
+| wolf_black | betteranimalsplus:wolf_pelt_brown | betteranimalsplus:wolf_pelt_brown | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/hill_3/hill_3
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/raven
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                   | Item ID                      | Weight |
+|-----------|------------------------------|------------------------------|--------|
+| leather   | twilightforest:raven_feather | twilightforest:raven_feather | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/mule
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## enderio:chests/simple_dungeon
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                      | Item ID                       | Weight |
+|-----------|---------------------------------|-------------------------------|--------|
+| Ender IO  | enderio:item_alloy_ingot:6      | enderio:item_alloy_ingot      | 1      |
+| Ender IO  | enderio:item_conduit_probe:0    | enderio:item_conduit_probe    | 1      |
+| Ender IO  | minecraft:quartz:0              | minecraft:quartz              | 1      |
+| Ender IO  | minecraft:nether_wart:0         | minecraft:nether_wart         | 1      |
+| Ender IO  | minecraft:ender_pearl:0         | minecraft:ender_pearl         | 1      |
+| Ender IO  | enderio:item_dark_steel_boots:0 | enderio:item_dark_steel_boots | 1      |
+| Ender IO  | enderio:item_material:9         | enderio:item_material         | 1      |
+| Ender IO  | item_basic_capacitor1           | enderio:item_basic_capacitor  | 1      |
+| Ender IO  | item_basic_capacitor2           | enderio:item_basic_capacitor  | 1      |
+| Ender IO  | item_basic_capacitor3           | enderio:item_basic_capacitor  | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## railcraft:chests/stronghold_corridor
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/troll
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| beans     | twilightforest:magic_beans | twilightforest:magic_beans | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/spider
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| main      | minecraft:string     | minecraft:string     | 1      |
+| pool1     | minecraft:spider_eye | minecraft:spider_eye | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/spawn_bonus_chest
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name               | Item ID                  | Weight |
+|----------------------------|--------------------------|--------------------------|--------|
+| main                       | minecraft:stone_axe      | minecraft:stone_axe      | 1      |
+| main                       | minecraft:wooden_axe     | minecraft:wooden_axe     | 3      |
+| main                       | biomesoplenty:pear       | biomesoplenty:pear       | 4      |
+| main                       | biomesoplenty:peach      | biomesoplenty:peach      | 4      |
+| main                       | biomesoplenty:persimmon  | biomesoplenty:persimmon  | 4      |
+| main                       | toughasnails:canteen     | toughasnails:canteen     | 10     |
+| pool1                      | minecraft:stone_pickaxe  | minecraft:stone_pickaxe  | 1      |
+| pool1                      | minecraft:wooden_pickaxe | minecraft:wooden_pickaxe | 3      |
+| pool2                      | minecraft:apple          | minecraft:apple          | 5      |
+| pool2                      | minecraft:bread          | minecraft:bread          | 3      |
+| pool2                      | minecraft:fish           | minecraft:fish           | 3      |
+| pool3                      | minecraft:stick          | minecraft:stick          | 10     |
+| pool3                      | minecraft:planks         | minecraft:planks         | 10     |
+| pool3                      | minecraft:log            | minecraft:log            | 10     |
+| pool3                      | minecraft:log2           | minecraft:log2           | 10     |
+| custom_avatar_loot_pools   | custom_0                 | avatarmod:scroll         | 1      |
+| custom_avatar_loot_pools_2 | custom_0                 | avatarmod:scroll         | 1      |
+| custom_avatar_loot_pools_3 | custom_0                 | avatarmod:scroll         | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/red
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/salamander/orange_salamander
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                   | Entry Name                      | Item ID                         | Weight |
+|-----------------------------|---------------------------------|---------------------------------|--------|
+| orange_salamander_loot_pool | netherex:orange_salamander_hide | netherex:orange_salamander_hide | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/jungle_temple_dispenser
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:arrow | minecraft:arrow | 30     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/pink
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/white
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## enderio:chests/jungle_temple
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                  | Item ID                      | Weight |
+|-----------|-----------------------------|------------------------------|--------|
+| Ender IO  | enderio:item_travel_staff:0 | enderio:item_travel_staff    | 1      |
+| Ender IO  | item_basic_capacitor8       | enderio:item_basic_capacitor | 1      |
+| Ender IO  | item_basic_capacitor9       | enderio:item_basic_capacitor | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:walrus
+[12:55:34] [Server thread/INFO]: 
+| Pool Name      | Entry Name                | Item ID                   | Weight |
+|----------------|---------------------------|---------------------------|--------|
+| walrus-blubber | betteranimalsplus:blubber | betteranimalsplus:blubber | 1      |
+| walrus-leather | minecraft:leather         | minecraft:leather         | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/simple_dungeon
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                           | Item ID                          | Weight |
+|----------------------------|--------------------------------------|----------------------------------|--------|
+| main                       | minecraft:saddle                     | minecraft:saddle                 | 20     |
+| main                       | minecraft:golden_apple               | minecraft:golden_apple           | 15     |
+| main                       | minecraft:golden_apple#0             | minecraft:golden_apple           | 2      |
+| main                       | minecraft:record_13                  | minecraft:record_13              | 15     |
+| main                       | minecraft:record_cat                 | minecraft:record_cat             | 15     |
+| main                       | minecraft:name_tag                   | minecraft:name_tag               | 20     |
+| main                       | minecraft:golden_horse_armor         | minecraft:golden_horse_armor     | 10     |
+| main                       | minecraft:iron_horse_armor           | minecraft:iron_horse_armor       | 15     |
+| main                       | minecraft:diamond_horse_armor        | minecraft:diamond_horse_armor    | 5      |
+| main                       | minecraft:book                       | minecraft:book                   | 10     |
+| main                       | quark:rune                           | quark:rune                       | 20     |
+| main                       | quark:ancient_tome                   | quark:ancient_tome               | 8      |
+| main                       | harvestcraft.item.gigapickleseeditem | harvestcraft:gigapickleseeditem  | 10     |
+| pool1                      | minecraft:iron_ingot                 | minecraft:iron_ingot             | 10     |
+| pool1                      | minecraft:gold_ingot                 | minecraft:gold_ingot             | 5      |
+| pool1                      | minecraft:bread                      | minecraft:bread                  | 20     |
+| pool1                      | minecraft:wheat                      | minecraft:wheat                  | 20     |
+| pool1                      | minecraft:bucket                     | minecraft:bucket                 | 10     |
+| pool1                      | minecraft:redstone                   | minecraft:redstone               | 15     |
+| pool1                      | minecraft:coal                       | minecraft:coal                   | 15     |
+| pool1                      | minecraft:melon_seeds                | minecraft:melon_seeds            | 10     |
+| pool1                      | minecraft:pumpkin_seeds              | minecraft:pumpkin_seeds          | 10     |
+| pool1                      | minecraft:beetroot_seeds             | minecraft:beetroot_seeds         | 10     |
+| pool2                      | minecraft:bone                       | minecraft:bone                   | 10     |
+| pool2                      | minecraft:gunpowder                  | minecraft:gunpowder              | 10     |
+| pool2                      | minecraft:rotten_flesh               | minecraft:rotten_flesh           | 10     |
+| pool2                      | minecraft:string                     | minecraft:string                 | 10     |
+| custom_avatar_loot_pools   | custom_0                             | avatarmod:bison_armor            | 20     |
+| custom_avatar_loot_pools   | custom_1                             | avatarmod:bison_armor            | 10     |
+| custom_avatar_loot_pools   | custom_2                             | avatarmod:bison_armor            | 10     |
+| custom_avatar_loot_pools   | custom_3                             | avatarmod:bison_armor            | 5      |
+| custom_avatar_loot_pools   | custom_4                             | avatarmod:water_pouch            | 30     |
+| custom_avatar_loot_pools_2 | custom_0                             | avatarmod:scroll                 | 20     |
+| custom_avatar_loot_pools_2 | custom_1                             | avatarmod:scroll                 | 5      |
+| custom_avatar_loot_pools_2 | custom_2                             | avatarmod:scroll                 | 5      |
+| custom_avatar_loot_pools_2 | custom_3                             | avatarmod:scroll                 | 5      |
+| custom_avatar_loot_pools_2 | custom_4                             | avatarmod:scroll                 | 5      |
+| custom_avatar_loot_pools_3 | custom_0                             | avatarmod:ostrich_equip          | 10     |
+| custom_avatar_loot_pools_3 | custom_1                             | avatarmod:ostrich_equip          | 10     |
+| custom_avatar_loot_pools_3 | custom_2                             | avatarmod:ostrich_equip          | 15     |
+| railcraft_general          | railcraft:tool_sword_steel           | railcraft:tool_sword_steel       | 1      |
+| railcraft_general          | railcraft:tool_axe_steel             | railcraft:tool_axe_steel         | 1      |
+| railcraft_general          | railcraft:tool_pickaxe_steel         | railcraft:tool_pickaxe_steel     | 1      |
+| railcraft_general          | railcraft:armor_helmet_steel         | railcraft:armor_helmet_steel     | 1      |
+| railcraft_general          | railcraft:armor_leggings_steel       | railcraft:armor_leggings_steel   | 1      |
+| railcraft_general          | railcraft:armor_chestplate_steel     | railcraft:armor_chestplate_steel | 1      |
+| railcraft_general          | railcraft:ingot                      | railcraft:ingot                  | 2      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/zombie_villager
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 1      |
+| pool1     | minecraft:iron_ingot   | minecraft:iron_ingot   | 1      |
+| pool1     | minecraft:carrot       | minecraft:carrot       | 1      |
+| pool1     | minecraft:potato       | minecraft:potato       | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/wither_skeleton
+[12:55:34] [Server thread/INFO]: 
+| Pool Name     | Entry Name      | Item ID              | Weight |
+|---------------|-----------------|----------------------|--------|
+| main          | minecraft:coal  | minecraft:coal       | 1      |
+| pool1         | minecraft:bone  | minecraft:bone       | 1      |
+| pool2         | minecraft:skull | minecraft:skull      | 1      |
+| necrotic_bone | necrotic_bone   | tconstruct:materials | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/elder_guardian
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                    | Item ID                       | Weight |
+|-----------|-------------------------------|-------------------------------|--------|
+| main      | minecraft:prismarine_shard    | minecraft:prismarine_shard    | 1      |
+| pool1     | minecraft:fish                | minecraft:fish                | 3      |
+| pool1     | minecraft:prismarine_crystals | minecraft:prismarine_crystals | 2      |
+| pool2     | minecraft:sponge              | minecraft:sponge              | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/death_tome_hurt
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name      | Item ID         | Weight |
+|-----------|-----------------|-----------------|--------|
+| main      | minecraft:paper | minecraft:paper | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/winter_wolf
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                | Item ID                   | Weight |
+|-----------|---------------------------|---------------------------|--------|
+| fur       | twilightforest:arctic_fur | twilightforest:arctic_fur | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/light_blue
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/yeti_alpha
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name               | Item ID                  | Weight |
+|-----------|--------------------------|--------------------------|--------|
+| fur       | twilightforest:alpha_fur | twilightforest:alpha_fur | 1      |
+| icebombs  | twilightforest:ice_bomb  | twilightforest:ice_bomb  | 1      |
+| shader    | twilightforest:ice_bomb  | twilightforest:ice_bomb  | 1      |
+| shader    | twilightforest:ice_bomb  | twilightforest:ice_bomb  | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## tconstruct:entities/blueslime
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| blueslime | tconstruct:edible | tconstruct:edible | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/magenta
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:gameplay/fishing/fish
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                           | Item ID                         | Weight |
+|-----------|--------------------------------------|---------------------------------|--------|
+| main      | minecraft:fish                       | minecraft:fish                  | 60     |
+| main      | minecraft:fish#0                     | minecraft:fish                  | 25     |
+| main      | minecraft:fish#1                     | minecraft:fish                  | 2      |
+| main      | minecraft:fish#2                     | minecraft:fish                  | 13     |
+| main      | harvestcraft.item.anchovyrawitem     | harvestcraft:anchovyrawitem     | 25     |
+| main      | harvestcraft.item.bassrawitem        | harvestcraft:bassrawitem        | 25     |
+| main      | harvestcraft.item.carprawitem        | harvestcraft:carprawitem        | 25     |
+| main      | harvestcraft.item.catfishrawitem     | harvestcraft:catfishrawitem     | 25     |
+| main      | harvestcraft.item.charrrawitem       | harvestcraft:charrrawitem       | 25     |
+| main      | harvestcraft.item.eelrawitem         | harvestcraft:eelrawitem         | 25     |
+| main      | harvestcraft.item.greenheartfishitem | harvestcraft:greenheartfishitem | 25     |
+| main      | harvestcraft.item.grouperrawitem     | harvestcraft:grouperrawitem     | 25     |
+| main      | harvestcraft.item.herringrawitem     | harvestcraft:herringrawitem     | 25     |
+| main      | harvestcraft.item.jellyfishrawitem   | harvestcraft:jellyfishrawitem   | 25     |
+| main      | harvestcraft.item.mudfishrawitem     | harvestcraft:mudfishrawitem     | 25     |
+| main      | harvestcraft.item.octopusrawitem     | harvestcraft:octopusrawitem     | 25     |
+| main      | harvestcraft.item.perchrawitem       | harvestcraft:perchrawitem       | 25     |
+| main      | harvestcraft.item.snapperrawitem     | harvestcraft:snapperrawitem     | 25     |
+| main      | harvestcraft.item.tilapiarawitem     | harvestcraft:tilapiarawitem     | 25     |
+| main      | harvestcraft.item.troutrawitem       | harvestcraft:troutrawitem       | 25     |
+| main      | harvestcraft.item.tunarawitem        | harvestcraft:tunarawitem        | 25     |
+| main      | harvestcraft.item.walleyerawitem     | harvestcraft:walleyerawitem     | 25     |
+| main      | harvestcraft.item.sardinerawitem     | harvestcraft:sardinerawitem     | 25     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/labyrinth_vault/labyrinth_vault
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/ghast
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| main      | minecraft:ghast_tear | minecraft:ghast_tear | 1      |
+| pool1     | minecraft:gunpowder  | minecraft:gunpowder  | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:gameplay/fishing/junk
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                    | Item ID                  | Weight |
+|-----------|-------------------------------|--------------------------|--------|
+| main      | minecraft:leather_boots       | minecraft:leather_boots  | 10     |
+| main      | minecraft:leather             | minecraft:leather        | 10     |
+| main      | minecraft:bone                | minecraft:bone           | 10     |
+| main      | minecraft:potion              | minecraft:potion         | 10     |
+| main      | minecraft:string              | minecraft:string         | 5      |
+| main      | minecraft:fishing_rod         | minecraft:fishing_rod    | 2      |
+| main      | minecraft:bowl                | minecraft:bowl           | 10     |
+| main      | minecraft:stick               | minecraft:stick          | 5      |
+| main      | minecraft:dye                 | minecraft:dye            | 1      |
+| main      | minecraft:tripwire_hook       | minecraft:tripwire_hook  | 10     |
+| main      | minecraft:rotten_flesh        | minecraft:rotten_flesh   | 10     |
+| main      | harvestcraft.item.seaweeditem | harvestcraft:seaweeditem | 10     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:bear_brown
+[12:55:34] [Server thread/INFO]: 
+| Pool Name       | Entry Name                        | Item ID                           | Weight |
+|-----------------|-----------------------------------|-----------------------------------|--------|
+| bear-brown-fish | minecraft:fish                    | minecraft:fish                    | 1      |
+| bear-brown-skin | betteranimalsplus:bear_skin_brown | betteranimalsplus:bear_skin_brown | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/desert_pyramid
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                    | Item ID                       | Weight |
+|----------------------------|-------------------------------|-------------------------------|--------|
+| main                       | minecraft:diamond             | minecraft:diamond             | 5      |
+| main                       | minecraft:iron_ingot          | minecraft:iron_ingot          | 15     |
+| main                       | minecraft:gold_ingot          | minecraft:gold_ingot          | 15     |
+| main                       | minecraft:emerald             | minecraft:emerald             | 15     |
+| main                       | minecraft:bone                | minecraft:bone                | 25     |
+| main                       | minecraft:spider_eye          | minecraft:spider_eye          | 25     |
+| main                       | minecraft:rotten_flesh        | minecraft:rotten_flesh        | 25     |
+| main                       | minecraft:saddle              | minecraft:saddle              | 20     |
+| main                       | minecraft:iron_horse_armor    | minecraft:iron_horse_armor    | 15     |
+| main                       | minecraft:golden_horse_armor  | minecraft:golden_horse_armor  | 10     |
+| main                       | minecraft:diamond_horse_armor | minecraft:diamond_horse_armor | 5      |
+| main                       | minecraft:book                | minecraft:book                | 20     |
+| main                       | minecraft:golden_apple        | minecraft:golden_apple        | 20     |
+| main                       | minecraft:golden_apple#0      | minecraft:golden_apple        | 2      |
+| main                       | quark:rune                    | quark:rune                    | 15     |
+| main                       | quark:treasure_map            | minecraft:filled_map          | 10     |
+| pool1                      | minecraft:bone                | minecraft:bone                | 10     |
+| pool1                      | minecraft:gunpowder           | minecraft:gunpowder           | 10     |
+| pool1                      | minecraft:rotten_flesh        | minecraft:rotten_flesh        | 10     |
+| pool1                      | minecraft:string              | minecraft:string              | 10     |
+| pool1                      | minecraft:sand                | minecraft:sand                | 10     |
+| custom_avatar_loot_pools   | custom_0                      | avatarmod:scroll              | 20     |
+| custom_avatar_loot_pools   | custom_1                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools   | custom_2                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools   | custom_3                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools   | custom_4                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_0                      | avatarmod:ostrich_equip       | 15     |
+| custom_avatar_loot_pools_2 | custom_1                      | avatarmod:ostrich_equip       | 15     |
+| custom_avatar_loot_pools_2 | custom_2                      | avatarmod:ostrich_equip       | 20     |
+| custom_avatar_loot_pools_3 | custom_0                      | avatarmod:scroll              | 30     |
+| custom_avatar_loot_pools_4 | custom_0                      | avatarmod:scroll              | 60     |
+| custom_avatar_loot_pools_5 | custom_0                      | avatarmod:scroll              | 20     |
+| moms_spaghetti             | moms_spaghetti                | tconstruct:spaghetti          | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## enderio:chests/woodland_mansion
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                    | Item ID                      | Weight |
+|-----------|-------------------------------|------------------------------|--------|
+| Ender IO  | enderio:item_dark_steel_bow:0 | enderio:item_dark_steel_bow  | 1      |
+| Ender IO  | enderio:item_dark_steel_axe:0 | enderio:item_dark_steel_axe  | 1      |
+| Ender IO  | enderio:item_material:10      | enderio:item_material        | 1      |
+| Ender IO  | item_basic_capacitor12        | enderio:item_basic_capacitor | 1      |
+| Ender IO  | enderio:item_travel_staff:0   | enderio:item_travel_staff    | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:shark
+[12:55:34] [Server thread/INFO]: 
+| Pool Name        | Entry Name                 | Item ID                    | Weight |
+|------------------|----------------------------|----------------------------|--------|
+| shark-fish       | minecraft:fish             | minecraft:fish             | 1      |
+| shark-bones      | minecraft:bone             | minecraft:bone             | 1      |
+| shark-prismarine | minecraft:prismarine_shard | minecraft:prismarine_shard | 1      |
+| shark-iron       | minecraft:iron_ingot       | minecraft:iron_ingot       | 15     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## railcraft:chests/village_workshop
+[12:55:34] [Server thread/INFO]: 
+| Pool Name           | Entry Name                      | Item ID                         | Weight |
+|---------------------|---------------------------------|---------------------------------|--------|
+| railcraft_tools     | railcraft:tool_crowbar_iron     | railcraft:tool_crowbar_iron     | 2      |
+| railcraft_tools     | railcraft:tool_crowbar_seasons  | railcraft:tool_crowbar_seasons  | 1      |
+| railcraft_tools     | railcraft:tool_spike_maul_iron  | railcraft:tool_spike_maul_iron  | 1      |
+| railcraft_tools     | railcraft:tool_charge_meter     | railcraft:tool_charge_meter     | 1      |
+| railcraft_tools     | railcraft:tool_magnifying_glass | railcraft:tool_magnifying_glass | 5      |
+| railcraft_tools     | railcraft:tool_signal_surveyor  | railcraft:tool_signal_surveyor  | 1      |
+| railcraft_tools     | railcraft:tool_signal_tuner     | railcraft:tool_signal_tuner     | 1      |
+| railcraft_tools     | railcraft:armor_goggles         | railcraft:armor_goggles         | 1      |
+| railcraft_tools     | railcraft:armor_overalls        | railcraft:armor_overalls        | 2      |
+| railcraft_carts     | minecraft:minecart              | minecraft:minecart              | 5      |
+| railcraft_carts     | minecraft:chest_minecart        | minecraft:chest_minecart        | 3      |
+| railcraft_carts     | minecraft:hopper_minecart       | minecraft:hopper_minecart       | 1      |
+| railcraft_carts     | minecraft:tnt_minecart          | minecraft:tnt_minecart          | 1      |
+| railcraft_carts     | railcraft:cart_cargo            | railcraft:cart_cargo            | 3      |
+| railcraft_carts     | minecraft:furnace_minecart      | minecraft:furnace_minecart      | 1      |
+| railcraft_carts     | railcraft:cart_tank             | railcraft:cart_tank             | 1      |
+| railcraft_carts     | railcraft:cart_work             | railcraft:cart_work             | 1      |
+| railcraft_carts     | railcraft:cart_tnt_wood         | railcraft:cart_tnt_wood         | 1      |
+| railcraft_carts     | railcraft:cart_bed              | railcraft:cart_bed              | 1      |
+| railcraft_carts     | railcraft:cart_jukebox          | railcraft:cart_jukebox          | 1      |
+| railcraft_resources | minecraft:coal                  | minecraft:coal                  | 5      |
+| railcraft_resources | railcraft:plate                 | railcraft:plate                 | 2      |
+| railcraft_resources | railcraft:gear                  | railcraft:gear                  | 1      |
+| railcraft_resources | railcraft:ingot                 | railcraft:ingot                 | 4      |
+| railcraft_resources | minecraft:iron_ingot            | minecraft:iron_ingot            | 1      |
+| railcraft_resources | railcraft:fluid_bottle_creosote | railcraft:fluid_bottle_creosote | 2      |
+| railcraft_tracks    | minecraft:rail                  | minecraft:rail                  | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/hydra
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| meat      | twilightforest:hydra_chop  | twilightforest:hydra_chop  | 1      |
+| blood     | twilightforest:fiery_blood | twilightforest:fiery_blood | 1      |
+| trophy    | twilightforest:trophy      | twilightforest:trophy      | 1      |
+| shader    | twilightforest:fiery_blood | twilightforest:fiery_blood | 1      |
+| shader    | twilightforest:fiery_blood | twilightforest:fiery_blood | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/sheared
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name       | Item ID          | Weight |
+|-----------|------------------|------------------|--------|
+| main      | minecraft:mutton | minecraft:mutton | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:deer
+[12:55:34] [Server thread/INFO]: 
+| Pool Name    | Entry Name                   | Item ID                      | Weight |
+|--------------|------------------------------|------------------------------|--------|
+| deer-venison | betteranimalsplus:venisonraw | betteranimalsplus:venisonraw | 2      |
+| deer-antler  | betteranimalsplus:antler     | betteranimalsplus:antler     | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/darktower_key/darktower_key
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name               | Item ID                  | Weight |
+|-----------|--------------------------|--------------------------|--------|
+| key       | twilightforest:tower_key | twilightforest:tower_key | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/pigtificate/pigtificate_toolsmith
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bunny
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/chicken
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:feather | minecraft:feather | 1      |
+| pool1     | minecraft:chicken | minecraft:chicken | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/lich
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                       | Item ID                          | Weight |
+|-----------|----------------------------------|----------------------------------|--------|
+| scepter   | twilightforest:zombie_scepter    | twilightforest:zombie_scepter    | 1      |
+| scepter   | twilightforest:lifedrain_scepter | twilightforest:lifedrain_scepter | 1      |
+| scepter   | twilightforest:twilight_scepter  | twilightforest:twilight_scepter  | 1      |
+| scepter   | twilightforest:shield_scepter    | twilightforest:shield_scepter    | 1      |
+| bling     | minecraft:golden_sword           | minecraft:golden_sword           | 1      |
+| bling     | minecraft:golden_helmet          | minecraft:golden_helmet          | 1      |
+| bling     | minecraft:golden_chestplate      | minecraft:golden_chestplate      | 1      |
+| bling     | minecraft:golden_leggings        | minecraft:golden_leggings        | 1      |
+| bling     | minecraft:golden_boots           | minecraft:golden_boots           | 1      |
+| pearls    | minecraft:ender_pearl            | minecraft:ender_pearl            | 1      |
+| bones     | minecraft:bone                   | minecraft:bone                   | 1      |
+| trophy    | twilightforest:trophy            | twilightforest:trophy            | 1      |
+| shader    | minecraft:gold_nugget            | minecraft:gold_nugget            | 1      |
+| shader    | minecraft:gold_nugget            | minecraft:gold_nugget            | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/zombie
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name             | Item ID                | Weight |
+|-----------|------------------------|------------------------|--------|
+| main      | minecraft:rotten_flesh | minecraft:rotten_flesh | 1      |
+| pool1     | minecraft:iron_ingot   | minecraft:iron_ingot   | 1      |
+| pool1     | minecraft:carrot       | minecraft:carrot       | 1      |
+| pool1     | minecraft:potato       | minecraft:potato       | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bird
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| feather   | minecraft:feather | minecraft:feather | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## quark:entities/wraith
+[12:55:34] [Server thread/INFO]: 
+| Pool Name    | Entry Name      | Item ID         | Weight |
+|--------------|-----------------|-----------------|--------|
+| quark:wraith | quark:soul_bead | quark:soul_bead | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/jungle_temple
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                    | Item ID                       | Weight |
+|----------------------------|-------------------------------|-------------------------------|--------|
+| main                       | minecraft:diamond             | minecraft:diamond             | 3      |
+| main                       | minecraft:iron_ingot          | minecraft:iron_ingot          | 10     |
+| main                       | minecraft:gold_ingot          | minecraft:gold_ingot          | 15     |
+| main                       | minecraft:emerald             | minecraft:emerald             | 2      |
+| main                       | minecraft:bone                | minecraft:bone                | 20     |
+| main                       | minecraft:rotten_flesh        | minecraft:rotten_flesh        | 16     |
+| main                       | minecraft:saddle              | minecraft:saddle              | 3      |
+| main                       | minecraft:iron_horse_armor    | minecraft:iron_horse_armor    | 1      |
+| main                       | minecraft:golden_horse_armor  | minecraft:golden_horse_armor  | 1      |
+| main                       | minecraft:diamond_horse_armor | minecraft:diamond_horse_armor | 1      |
+| main                       | minecraft:book                | minecraft:book                | 1      |
+| main                       | quark:rune                    | quark:rune                    | 15     |
+| main                       | quark:treasure_map            | minecraft:filled_map          | 10     |
+| custom_avatar_loot_pools   | custom_0                      | avatarmod:scroll              | 20     |
+| custom_avatar_loot_pools   | custom_1                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools   | custom_2                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools   | custom_3                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools   | custom_4                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_0                      | avatarmod:ostrich_equip       | 15     |
+| custom_avatar_loot_pools_2 | custom_1                      | avatarmod:ostrich_equip       | 15     |
+| custom_avatar_loot_pools_2 | custom_2                      | avatarmod:ostrich_equip       | 20     |
+| moms_spaghetti             | moms_spaghetti                | tconstruct:spaghetti          | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/polar_bear
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name       | Item ID        | Weight |
+|-----------|------------------|----------------|--------|
+| main      | minecraft:fish   | minecraft:fish | 3      |
+| main      | minecraft:fish#0 | minecraft:fish | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/stronghold_crossing
+[12:55:34] [Server thread/INFO]: 
+| Pool Name      | Entry Name             | Item ID                | Weight |
+|----------------|------------------------|------------------------|--------|
+| main           | minecraft:iron_ingot   | minecraft:iron_ingot   | 10     |
+| main           | minecraft:gold_ingot   | minecraft:gold_ingot   | 5      |
+| main           | minecraft:redstone     | minecraft:redstone     | 5      |
+| main           | minecraft:coal         | minecraft:coal         | 10     |
+| main           | minecraft:bread        | minecraft:bread        | 15     |
+| main           | minecraft:apple        | minecraft:apple        | 15     |
+| main           | minecraft:iron_pickaxe | minecraft:iron_pickaxe | 1      |
+| main           | minecraft:book         | minecraft:book         | 1      |
+| moms_spaghetti | moms_spaghetti         | tconstruct:spaghetti   | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/horse
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/mogus/red_mogus
+[12:55:34] [Server thread/INFO]: 
+| Pool Name           | Entry Name                  | Item ID                     | Weight |
+|---------------------|-----------------------------|-----------------------------|--------|
+| red_mogus_loot_pool | netherex:red_elder_mushroom | netherex:red_elder_mushroom | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/brute
+[12:55:34] [Server thread/INFO]: 
+| Pool Name       | Entry Name            | Item ID               | Weight |
+|-----------------|-----------------------|-----------------------|--------|
+| brute_loot_pool | minecraft:iron_nugget | minecraft:iron_nugget | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/pig
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name         | Item ID            | Weight |
+|-----------|--------------------|--------------------|--------|
+| main      | minecraft:porkchop | minecraft:porkchop | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/cow
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:leather | minecraft:leather | 1      |
+| pool1     | minecraft:beef    | minecraft:beef    | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/end_city_treasure
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name                    | Item ID                       | Weight |
+|----------------------------|-------------------------------|-------------------------------|--------|
+| main                       | minecraft:diamond             | minecraft:diamond             | 5      |
+| main                       | minecraft:iron_ingot          | minecraft:iron_ingot          | 10     |
+| main                       | minecraft:gold_ingot          | minecraft:gold_ingot          | 15     |
+| main                       | minecraft:emerald             | minecraft:emerald             | 2      |
+| main                       | minecraft:beetroot_seeds      | minecraft:beetroot_seeds      | 5      |
+| main                       | minecraft:saddle              | minecraft:saddle              | 3      |
+| main                       | minecraft:iron_horse_armor    | minecraft:iron_horse_armor    | 1      |
+| main                       | minecraft:golden_horse_armor  | minecraft:golden_horse_armor  | 1      |
+| main                       | minecraft:diamond_horse_armor | minecraft:diamond_horse_armor | 1      |
+| main                       | minecraft:diamond_sword       | minecraft:diamond_sword       | 3      |
+| main                       | minecraft:diamond_boots       | minecraft:diamond_boots       | 3      |
+| main                       | minecraft:diamond_chestplate  | minecraft:diamond_chestplate  | 3      |
+| main                       | minecraft:diamond_leggings    | minecraft:diamond_leggings    | 3      |
+| main                       | minecraft:diamond_helmet      | minecraft:diamond_helmet      | 3      |
+| main                       | minecraft:diamond_pickaxe     | minecraft:diamond_pickaxe     | 3      |
+| main                       | minecraft:diamond_shovel      | minecraft:diamond_shovel      | 3      |
+| main                       | minecraft:iron_sword          | minecraft:iron_sword          | 3      |
+| main                       | minecraft:iron_boots          | minecraft:iron_boots          | 3      |
+| main                       | minecraft:iron_chestplate     | minecraft:iron_chestplate     | 3      |
+| main                       | minecraft:iron_leggings       | minecraft:iron_leggings       | 3      |
+| main                       | minecraft:iron_helmet         | minecraft:iron_helmet         | 3      |
+| main                       | minecraft:iron_pickaxe        | minecraft:iron_pickaxe        | 3      |
+| main                       | minecraft:iron_shovel         | minecraft:iron_shovel         | 3      |
+| custom_avatar_loot_pools   | custom_0                      | avatarmod:bison_whistle       | 20     |
+| custom_avatar_loot_pools   | custom_1                      | avatarmod:bison_saddle        | 20     |
+| custom_avatar_loot_pools   | custom_2                      | avatarmod:bison_saddle        | 10     |
+| custom_avatar_loot_pools   | custom_3                      | avatarmod:bison_saddle        | 10     |
+| custom_avatar_loot_pools   | custom_4                      | avatarmod:bison_saddle        | 5      |
+| custom_avatar_loot_pools   | custom_5                      | avatarmod:water_pouch         | 30     |
+| custom_avatar_loot_pools_2 | custom_0                      | avatarmod:scroll              | 20     |
+| custom_avatar_loot_pools_2 | custom_1                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_2                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_3                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_4                      | avatarmod:scroll              | 5      |
+| custom_avatar_loot_pools_2 | custom_5                      | avatarmod:scroll              | 10     |
+| custom_avatar_loot_pools_3 | custom_0                      | avatarmod:ostrich_equip       | 10     |
+| custom_avatar_loot_pools_3 | custom_1                      | avatarmod:ostrich_equip       | 10     |
+| custom_avatar_loot_pools_3 | custom_2                      | avatarmod:ostrich_equip       | 15     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## enderio:chests/nether_bridge
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                      | Item ID                       | Weight |
+|-----------|---------------------------------|-------------------------------|--------|
+| Ender IO  | enderio:item_dark_steel_boots:0 | enderio:item_dark_steel_boots | 1      |
+| Ender IO  | enderio:item_material:11        | enderio:item_material         | 1      |
+| Ender IO  | item_basic_capacitor4           | enderio:item_basic_capacitor  | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:crab
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                      | Item ID                         | Weight |
+|-----------|---------------------------------|---------------------------------|--------|
+| crab      | betteranimalsplus:crab_meat_raw | betteranimalsplus:crab_meat_raw | 2      |
+| crab      | minecraft:dye                   | minecraft:dye                   | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## railcraft:chests/abandoned_mineshaft
+[12:55:34] [Server thread/INFO]: 
+| Pool Name           | Entry Name                       | Item ID                          | Weight |
+|---------------------|----------------------------------|----------------------------------|--------|
+| railcraft_tools     | railcraft:tool_crowbar_iron      | railcraft:tool_crowbar_iron      | 5      |
+| railcraft_tools     | railcraft:tool_spike_maul_iron   | railcraft:tool_spike_maul_iron   | 5      |
+| railcraft_tools     | railcraft:armor_overalls         | railcraft:armor_overalls         | 5      |
+| railcraft_carts     | minecraft:minecart               | minecraft:minecart               | 5      |
+| railcraft_carts     | minecraft:chest_minecart         | minecraft:chest_minecart         | 5      |
+| railcraft_carts     | minecraft:hopper_minecart        | minecraft:hopper_minecart        | 1      |
+| railcraft_carts     | minecraft:tnt_minecart           | minecraft:tnt_minecart           | 1      |
+| railcraft_carts     | railcraft:cart_cargo             | railcraft:cart_cargo             | 5      |
+| railcraft_carts     | railcraft:cart_tank              | railcraft:cart_tank              | 1      |
+| railcraft_carts     | railcraft:cart_work              | railcraft:cart_work              | 1      |
+| railcraft_carts     | railcraft:locomotive_steam_solid | railcraft:locomotive_steam_solid | 1      |
+| railcraft_resources | minecraft:coal                   | minecraft:coal                   | 5      |
+| railcraft_resources | railcraft:plate                  | railcraft:plate                  | 2      |
+| railcraft_resources | railcraft:gear                   | railcraft:gear                   | 1      |
+| railcraft_resources | railcraft:ingot                  | railcraft:ingot                  | 4      |
+| railcraft_resources | railcraft:fluid_bottle_creosote  | railcraft:fluid_bottle_creosote  | 2      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/squid
+[12:55:34] [Server thread/INFO]: 
+| Pool Name    | Entry Name                        | Item ID                      | Weight |
+|--------------|-----------------------------------|------------------------------|--------|
+| main         | minecraft:dye                     | minecraft:dye                | 1      |
+| harvestcraft | harvestcraft.item.calamarirawitem | harvestcraft:calamarirawitem | 50     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/fire_beetle
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name          | Item ID             | Weight |
+|-----------|---------------------|---------------------|--------|
+| gunpowder | minecraft:gunpowder | minecraft:gunpowder | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/giant
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/yeti
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                | Item ID                   | Weight |
+|-----------|---------------------------|---------------------------|--------|
+| fur       | twilightforest:arctic_fur | twilightforest:arctic_fur | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/creeper
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name          | Item ID             | Weight |
+|-----------|---------------------|---------------------|--------|
+| main      | minecraft:gunpowder | minecraft:gunpowder | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/kobold
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name            | Item ID               | Weight |
+|-----------|-----------------------|-----------------------|--------|
+| wheat     | minecraft:wheat       | minecraft:wheat       | 1      |
+| nuggs     | minecraft:gold_nugget | minecraft:gold_nugget | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/stronghold_room/stronghold_room
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/cyan
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/darktower_boss/darktower_boss
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name               | Item ID                  | Weight |
+|-----------|--------------------------|--------------------------|--------|
+| shader    | twilightforest:carminite | twilightforest:carminite | 1      |
+| shader    | twilightforest:carminite | twilightforest:carminite | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/questing_ram_rewards
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                  | Item ID                     | Weight |
+|-----------|-----------------------------|-----------------------------|--------|
+| diamond   | minecraft:diamond_block     | minecraft:diamond_block     | 1      |
+| iron      | minecraft:iron_block        | minecraft:iron_block        | 1      |
+| emerald   | minecraft:emerald_block     | minecraft:emerald_block     | 1      |
+| gold      | minecraft:gold_block        | minecraft:gold_block        | 1      |
+| lapis     | minecraft:lapis_block       | minecraft:lapis_block       | 1      |
+| horn      | twilightforest:crumble_horn | twilightforest:crumble_horn | 1      |
+| trophy    | twilightforest:trophy       | twilightforest:trophy       | 1      |
+| shader    | minecraft:coal_block        | minecraft:coal_block        | 1      |
+| shader    | coal_block                  | minecraft:coal_block        | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:chests/stronghold_library
+[12:55:34] [Server thread/INFO]: 
+| Pool Name                  | Entry Name         | Item ID                 | Weight |
+|----------------------------|--------------------|-------------------------|--------|
+| main                       | minecraft:book     | minecraft:book          | 20     |
+| main                       | minecraft:paper    | minecraft:paper         | 20     |
+| main                       | minecraft:map      | minecraft:map           | 1      |
+| main                       | minecraft:compass  | minecraft:compass       | 1      |
+| main                       | minecraft:book#0   | minecraft:book          | 10     |
+| main                       | quark:ancient_tome | quark:ancient_tome      | 12     |
+| custom_avatar_loot_pools   | custom_0           | avatarmod:bison_armor   | 20     |
+| custom_avatar_loot_pools   | custom_1           | avatarmod:bison_armor   | 10     |
+| custom_avatar_loot_pools   | custom_2           | avatarmod:bison_armor   | 10     |
+| custom_avatar_loot_pools   | custom_3           | avatarmod:bison_armor   | 5      |
+| custom_avatar_loot_pools   | custom_4           | avatarmod:water_pouch   | 30     |
+| custom_avatar_loot_pools_2 | custom_0           | avatarmod:scroll        | 20     |
+| custom_avatar_loot_pools_2 | custom_1           | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools_2 | custom_2           | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools_2 | custom_3           | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools_2 | custom_4           | avatarmod:scroll        | 5      |
+| custom_avatar_loot_pools_3 | custom_0           | avatarmod:ostrich_equip | 10     |
+| custom_avatar_loot_pools_3 | custom_1           | avatarmod:ostrich_equip | 10     |
+| custom_avatar_loot_pools_3 | custom_2           | avatarmod:ostrich_equip | 15     |
+| custom_avatar_loot_pools_4 | custom_0           | avatarmod:scroll        | 20     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/snowman
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name         | Item ID            | Weight |
+|-----------|--------------------|--------------------|--------|
+| main      | minecraft:snowball | minecraft:snowball | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/slime_beetle
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| slime     | minecraft:slime_ball | minecraft:slime_ball | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/minoshroom
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                     | Item ID                        | Weight |
+|-----------|--------------------------------|--------------------------------|--------|
+| meat      | twilightforest:meef_stroganoff | twilightforest:meef_stroganoff | 1      |
+| trophy    | twilightforest:trophy          | twilightforest:trophy          | 1      |
+| shader    | twilightforest:maze_map_focus  | twilightforest:maze_map_focus  | 1      |
+| shader    | twilightforest:maze_map_focus  | twilightforest:maze_map_focus  | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/hedge_maze/hedge_maze
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/deer
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| leather   | minecraft:leather          | minecraft:leather          | 1      |
+| meat      | twilightforest:raw_venison | twilightforest:raw_venison | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/black
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:chests/mimic_trap
+[12:55:34] [Server thread/INFO]: 
+| Pool Name   | Entry Name             | Item ID                | Weight |
+|-------------|------------------------|------------------------|--------|
+| mimic_drops | minecraft:bone         | minecraft:bone         | 10     |
+| mimic_drops | minecraft:gunpowder    | minecraft:gunpowder    | 10     |
+| mimic_drops | minecraft:rotten_flesh | minecraft:rotten_flesh | 10     |
+| mimic_drops | minecraft:string       | minecraft:string       | 10     |
+| mimic_drops | minecraft:ender_pearl  | minecraft:ender_pearl  | 10     |
+| mimic_drops | minecraft:spider_eye   | minecraft:spider_eye   | 10     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/troll_vault/troll_vault
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/special/treasure_slime
+[12:55:34] [Server thread/INFO]: 
+| Pool Name               | Entry Name             | Item ID                | Weight |
+|-------------------------|------------------------|------------------------|--------|
+| treasureslime_spawnitem | minecraft:apple        | minecraft:apple        | 10     |
+| treasureslime_spawnitem | minecraft:cookie       | minecraft:cookie       | 10     |
+| treasureslime_spawnitem | minecraft:gold_ingot   | minecraft:gold_ingot   | 5      |
+| treasureslime_spawnitem | minecraft:iron_ingot   | minecraft:iron_ingot   | 8      |
+| treasureslime_spawnitem | minecraft:redstone     | minecraft:redstone     | 5      |
+| treasureslime_spawnitem | minecraft:coal         | minecraft:coal         | 8      |
+| treasureslime_spawnitem | minecraft:diamond      | minecraft:diamond      | 1      |
+| treasureslime_spawnitem | minecraft:cake         | minecraft:cake         | 2      |
+| treasureslime_spawnitem | minecraft:carrot       | minecraft:carrot       | 6      |
+| treasureslime_spawnitem | minecraft:golden_apple | minecraft:golden_apple | 1      |
+| treasureslime_spawnitem | minecraft:ender_pearl  | minecraft:ender_pearl  | 4      |
+| treasureslime_spawnitem | minecraft:saddle       | minecraft:saddle       | 1      |
+| treasureslime_spawnitem | minecraft:magma_cream  | minecraft:magma_cream  | 2      |
+| treasureslime_spawnitem | minecraft:ender_eye    | minecraft:ender_eye    | 1      |
+| treasureslime_spawnitem | minecraft:blaze_powder | minecraft:blaze_powder | 3      |
+| treasureslime_spawnitem | minecraft:record_wait  | minecraft:record_wait  | 1      |
+| treasureslime_spawnitem | minecraft:dye          | minecraft:dye          | 6      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/iron_golem
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| main      | minecraft:red_flower | minecraft:red_flower | 1      |
+| pool1     | minecraft:iron_ingot | minecraft:iron_ingot | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/bighorn_sheep/orange
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/pigtificate/pigtificate_brewer
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:structures/stronghold_cache/stronghold_cache
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name | Item ID | Weight |
+|-----------|------------|---------|--------|
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## enderio:chests/abandoned_mineshaft
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                      | Weight |
+|-----------|----------------------------|------------------------------|--------|
+| Ender IO  | enderio:item_alloy_ingot:6 | enderio:item_alloy_ingot     | 1      |
+| Ender IO  | minecraft:ender_pearl:0    | minecraft:ender_pearl        | 1      |
+| Ender IO  | enderio:item_material:9    | enderio:item_material        | 1      |
+| Ender IO  | item_basic_capacitor6      | enderio:item_basic_capacitor | 1      |
+| Ender IO  | item_basic_capacitor7      | enderio:item_basic_capacitor | 1      |
+| Ender IO  | enderio:block_exit_rail:0  | enderio:block_exit_rail      | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## twilightforest:entities/ice_crystal
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name         | Item ID            | Weight |
+|-----------|--------------------|--------------------|--------|
+| snowballs | minecraft:snowball | minecraft:snowball | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/dodo
+[12:55:34] [Server thread/INFO]: 
+| Pool Name       | Entry Name         | Item ID            | Weight |
+|-----------------|--------------------|--------------------|--------|
+| dodo_drops      | minecraft:feather  | minecraft:feather  | 1      |
+| dodo_meat_drops | primitivemobs:dodo | primitivemobs:dodo | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## enderio:chests/desert_pyramid
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                  | Item ID                      | Weight |
+|-----------|-----------------------------|------------------------------|--------|
+| Ender IO  | enderio:item_material:13    | enderio:item_material        | 1      |
+| Ender IO  | enderio:item_travel_staff:0 | enderio:item_travel_staff    | 1      |
+| Ender IO  | item_basic_capacitor10      | enderio:item_basic_capacitor | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/rabbit
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name            | Item ID               | Weight |
+|-----------|-----------------------|-----------------------|--------|
+| main      | minecraft:rabbit_hide | minecraft:rabbit_hide | 1      |
+| pool1     | minecraft:rabbit      | minecraft:rabbit      | 1      |
+| pool2     | minecraft:rabbit_foot | minecraft:rabbit_foot | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## growthcraft_hops:loot_table_simple_dungeon
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                 | Item ID                    | Weight |
+|-----------|----------------------------|----------------------------|--------|
+| hop_seeds | growthcraft_hops:hop_seeds | growthcraft_hops:hop_seeds | 10     |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/blue
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/mogus/brown_mogus
+[12:55:34] [Server thread/INFO]: 
+| Pool Name             | Entry Name                    | Item ID                       | Weight |
+|-----------------------|-------------------------------|-------------------------------|--------|
+| brown_mogus_loot_pool | netherex:brown_elder_mushroom | netherex:brown_elder_mushroom | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/cave_spider
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name           | Item ID              | Weight |
+|-----------|----------------------|----------------------|--------|
+| main      | minecraft:string     | minecraft:string     | 1      |
+| pool1     | minecraft:spider_eye | minecraft:spider_eye | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:wolf_arctic
+[12:55:34] [Server thread/INFO]: 
+| Pool Name  | Entry Name                         | Item ID                            | Weight |
+|------------|------------------------------------|------------------------------------|--------|
+| wolf_black | betteranimalsplus:wolf_pelt_arctic | betteranimalsplus:wolf_pelt_arctic | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/pigtificate/pigtificate_scavenger
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/gray
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:wolf_timber
+[12:55:34] [Server thread/INFO]: 
+| Pool Name   | Entry Name                         | Item ID                            | Weight |
+|-------------|------------------------------------|------------------------------------|--------|
+| wolf_timber | betteranimalsplus:wolf_pelt_timber | betteranimalsplus:wolf_pelt_timber | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## primitivemobs:entities/special/haunted_tool
+[12:55:34] [Server thread/INFO]: 
+| Pool Name             | Entry Name                | Item ID                   | Weight |
+|-----------------------|---------------------------|---------------------------|--------|
+| hauntedtool_spawnitem | minecraft:wooden_sword    | minecraft:wooden_sword    | 10     |
+| hauntedtool_spawnitem | minecraft:wooden_axe      | minecraft:wooden_axe      | 10     |
+| hauntedtool_spawnitem | minecraft:wooden_pickaxe  | minecraft:wooden_pickaxe  | 10     |
+| hauntedtool_spawnitem | minecraft:wooden_hoe      | minecraft:wooden_hoe      | 10     |
+| hauntedtool_spawnitem | minecraft:stone_sword     | minecraft:stone_sword     | 8      |
+| hauntedtool_spawnitem | minecraft:stone_axe       | minecraft:stone_axe       | 8      |
+| hauntedtool_spawnitem | minecraft:stone_pickaxe   | minecraft:stone_pickaxe   | 8      |
+| hauntedtool_spawnitem | minecraft:stone_hoe       | minecraft:stone_hoe       | 8      |
+| hauntedtool_spawnitem | minecraft:iron_sword      | minecraft:iron_sword      | 5      |
+| hauntedtool_spawnitem | minecraft:iron_axe        | minecraft:iron_axe        | 5      |
+| hauntedtool_spawnitem | minecraft:iron_pickaxe    | minecraft:iron_pickaxe    | 5      |
+| hauntedtool_spawnitem | minecraft:iron_hoe        | minecraft:iron_hoe        | 5      |
+| hauntedtool_spawnitem | minecraft:golden_sword    | minecraft:golden_sword    | 3      |
+| hauntedtool_spawnitem | minecraft:golden_axe      | minecraft:golden_axe      | 3      |
+| hauntedtool_spawnitem | minecraft:golden_pickaxe  | minecraft:golden_pickaxe  | 3      |
+| hauntedtool_spawnitem | minecraft:golden_hoe      | minecraft:golden_hoe      | 3      |
+| hauntedtool_spawnitem | minecraft:diamond_sword   | minecraft:diamond_sword   | 1      |
+| hauntedtool_spawnitem | minecraft:diamond_axe     | minecraft:diamond_axe     | 1      |
+| hauntedtool_spawnitem | minecraft:diamond_pickaxe | minecraft:diamond_pickaxe | 1      |
+| hauntedtool_spawnitem | minecraft:diamond_hoe     | minecraft:diamond_hoe     | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/white
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:wolf_black
+[12:55:34] [Server thread/INFO]: 
+| Pool Name  | Entry Name                        | Item ID                           | Weight |
+|------------|-----------------------------------|-----------------------------------|--------|
+| wolf_black | betteranimalsplus:wolf_pelt_black | betteranimalsplus:wolf_pelt_black | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## quark:entities/stoneling
+[12:55:34] [Server thread/INFO]: 
+| Pool Name       | Entry Name          | Item ID             | Weight |
+|-----------------|---------------------|---------------------|--------|
+| quark:stoneling | quark:diamond_heart | quark:diamond_heart | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:goat
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| goat      | minecraft:leather | minecraft:leather | 1      |
+| goat      | minecraft:mutton  | minecraft:mutton  | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## netherex:entity/gold_golem
+[12:55:34] [Server thread/INFO]: 
+| Pool Name            | Entry Name           | Item ID              | Weight |
+|----------------------|----------------------|----------------------|--------|
+| gold_golem_loot_pool | minecraft:gold_ingot | minecraft:gold_ingot | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/green
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/parrot
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name        | Item ID           | Weight |
+|-----------|-------------------|-------------------|--------|
+| main      | minecraft:feather | minecraft:feather | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/silverfish
+[12:55:34] [Server thread/INFO]: No entries for this table!
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## minecraft:entities/sheep/brown
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name     | Item ID        | Weight |
+|-----------|----------------|----------------|--------|
+| main      | minecraft:wool | minecraft:wool | 1      |
+
+[12:55:34] [Server thread/INFO]: 
+
+[12:55:34] [Server thread/INFO]: ## betteranimalsplus:reindeer
+[12:55:34] [Server thread/INFO]: 
+| Pool Name | Entry Name                   | Item ID                      | Weight |
+|-----------|------------------------------|------------------------------|--------|
+| reindeer  | betteranimalsplus:venisonraw | betteranimalsplus:venisonraw | 4      |
+| reindeer  | betteranimalsplus:antler     | betteranimalsplus:antler     | 2      |
+| reindeer  | minecraft:leather            | minecraft:leather            | 2      |
