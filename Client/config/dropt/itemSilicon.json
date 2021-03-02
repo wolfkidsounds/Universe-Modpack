@@ -1,0 +1,27 @@
+{
+    "rules": [
+      {
+        "match": {
+          "drops": {
+            "drops": [
+               "ore:itemSilicon"
+            ]
+          }
+        },
+        "drops": [
+          {
+            "item": {
+              "items": [
+                "enderio:item_material:5"
+              ],
+              "matchQuantity": {
+                "drops": [
+                   "ore:itemSilicon"
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
