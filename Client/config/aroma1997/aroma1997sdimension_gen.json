@@ -40,25 +40,34 @@
 		"ore": "aroma1997sdimension:miningore"
 	},
 	{
-		"type": "lakes",
-		"identifier": "lava_lake",
-		"enabled": false,
-		"targetBlock": "minecraft:lava"
+		"type": "oreGen",
+		"identifier": "zinc_ore",
+		"enabled": true,
+		"amount": 6.0,
+		"size": 2,
+		"minHeight": 4,
+		"maxHeight": 28,
+		"ore": "railcraft:ore_metal:3"
 	},
 	{
-		"type": "lakes",
-		"identifier": "water_lake",
-		"enabled": false,
-		"targetBlock": "minecraft:water"
+		"type": "oreGen",
+		"identifier": "nickel_ore",
+		"enabled": true,
+		"amount": 6.0,
+		"size": 2,
+		"minHeight": 4,
+		"maxHeight": 28,
+		"ore": "railcraft:ore_metal:4"
 	},
 	{
-		"type": "oreReplace",
-		"identifier": "removeDiamonds",
-		"enabled": false,
-		"targetBlock": "minecraft:stone",
-		"originalBlock": [
-			"minecraft:diamond_ore"
-		]
+		"type": "oreGen",
+		"identifier": "silver_ore",
+		"enabled": true,
+		"amount": 6.0,
+		"size": 2,
+		"minHeight": 4,
+		"maxHeight": 28,
+		"ore": "railcraft:ore_metal:5"
 	},
 	{
 		"type": "grass",
