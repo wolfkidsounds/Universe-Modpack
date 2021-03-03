@@ -9,7 +9,24 @@ val removeAndHide = [
         <am:kyoshi_make_up>,
         <am:kyoshi_chestplate>,
         <am:kyoshi_leggings>,
-        <am:kyoshi_boots>
+        <am:kyoshi_boots>,
+        <am:boomerang>,
+        <am:hook_sword>,
+        <am:dao_broadsword>,
+        <am:kama>,
+        <am:nunchaku>,
+        <am:polearm>,
+        <am:war_fan>,
+        <am:rock_gloves>,
+        <am:ninjato>,
+        <am:qian_kun_ri_yue_dao>,
+        <am:firenation_sword>,
+        <am:jian_sword>,
+        <am:jii>,
+        <am:guan_dao>,
+        <am:san_gu_cha>,
+        <am:throwable_knife>,
+        <am:metal_axe>
 ] as IItemStack[];
 
     for item in removeAndHide {mods.jei.JEI.removeAndHide(item);}
@@ -79,16 +96,3 @@ val removeRecipe = [
                 <am:fire_nation_copper_piece>.displayName = "Fire Nation Copper Coin";
                 <am:fire_nation_silver_piece>.displayName = "Fire Nation Silver Coin";
                 <am:fire_nation_gold_piece>.displayName = "Fire Nation Gold Coin";
-
-
-//This file was created via CT-GUI! Editing it is not advised!
-//Don't touch me!
-//#Remove
-
-//Don't touch me!
-//#Add
-
-//File End
-
-
-                
