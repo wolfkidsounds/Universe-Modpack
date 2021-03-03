@@ -38,10 +38,10 @@ toughasnails:warming
 toughasnails:cooling
 endercore:xpboost
 enderio:repellent
-enderio:shimmer
+enderio:soulbound
 enderio:witherweapon
 enderio:witherarrow
-enderio:soulbound
+enderio:shimmer
 matteroverdrive:overclock
 walljump:walljump
 walljump:doublejump
