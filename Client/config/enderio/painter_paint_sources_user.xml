@@ -1,15 +1,15 @@
-<!--
-See PainterPaintSources_Core.xml for documentation.
--->
-
-<PainterPaintSources>
-
-  <whitelist>
-
-  </whitelist>
-
-  <blacklist>
-
-  </blacklist>
-
-</PainterPaintSources>
+<!--
+See PainterPaintSources_Core.xml for documentation.
+-->
+
+<PainterPaintSources>
+
+  <whitelist>
+
+  </whitelist>
+
+  <blacklist>
+
+  </blacklist>
+
+</PainterPaintSources>
