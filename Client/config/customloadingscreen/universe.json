@@ -55,6 +55,7 @@
             "image": {
                 "parent": "builtin/text",
                 "text": "status",
+                "scale":1.4,
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "position": { "x": 0, "y": 0 }
@@ -145,11 +146,11 @@
             "image": {
                 "parent": "builtin/text",
                 "image": "textures/font/ascii.png",
-                "position_type": "TOP_LEFT",
-                "offset_pos": "TOP_LEFT",
+                "position_type": "BOTTOM_LEFT",
+                "offset_pos": "BOTTOM_LEFT",
                 "text": "'[ ' + floor(time * 10) / 10.0 + ' Seconds Elapsed ]'",
                 "position": {
-                    "x": 10, "y": 46
+                    "x": 10, "y": -16
                 }
             }
         }
