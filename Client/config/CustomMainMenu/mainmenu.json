@@ -3,7 +3,7 @@
     {
         "title":
         {
-            "image" : "mainmenu:Universe-Modpack (2).png",
+            "image" : "mainmenu:title_modpack.png",
             "posX" : -162,
             "posY" : 36,
             "width" : 325,
@@ -13,7 +13,7 @@
         
         "edition":
         {
-            "image" : "mainmenu:your_text (1).png",
+            "image" : "mainmenu:title_sub_modpack.png",
             "posX" : -80,
             "posY" : 74,
             "width" : 160,
@@ -33,7 +33,7 @@
             "posY" : 36,
             "width" : 200,
             "height" : 20,
-            "texture" : "mainmenu:button 1.png",
+            "texture" : "mainmenu:button_1.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -50,7 +50,7 @@
             "posY" : 60,
             "width" : 200,
             "height" : 20,
-            "texture" : "mainmenu:button 2.png",
+            "texture" : "mainmenu:button_2.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -67,7 +67,7 @@
             "posY" : 84,
             "width" : 200,
             "height" : 20,
-            "texture" : "mainmenu:button 3.png",
+            "texture" : "mainmenu:button_3.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -84,7 +84,7 @@
             "posY" : 142,
             "width" : 98,
             "height" : 20,
-            "texture" : "mainmenu:smaller button 3.png",
+            "texture" : "mainmenu:button_small_3.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -101,7 +101,7 @@
             "posY" : 142,
             "width" : 98,
             "height" : 20,
-            "texture" : "mainmenu:smaller button 2.png",
+            "texture" : "mainmenu:button_small_2.png",
             "action" : 
             {
                 "type" : "quit"
@@ -117,7 +117,7 @@
             "posY" : 118,
             "width" : 98,
             "height" : 20,
-            "texture" : "mainmenu:smaller button 3.png",
+            "texture" : "mainmenu:button_small_3.png",
             "action" : 
             {
                 "type" : "openLink",
@@ -134,7 +134,7 @@
             "posY" : 118,
             "width" : 98,
             "height" : 20,
-            "texture" : "mainmenu:smaller button 3.png",
+            "texture" : "mainmenu:button_small_3.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -171,7 +171,7 @@
     {
 		"background":
 		{
-			"image" : "mainmenu:custom loading screen full hd just image.png",
+			"image" : "mainmenu:background.png",
 			"mode" : "stretch"
 		}
     }
