@@ -12,7 +12,7 @@ import crafttweaker.liquid.ILiquidStack;
 
     //Crusher
         //InputStack, OutputStack
-        mods.mekanism.crusher.addRecipe(<universemod:universecrystal>, <universemod:universedust> * 4);
+        mods.mekanism.crusher.addRecipe(<universemod:universecrystal>, <universemod:universedust>);
 
 
 //ENDERIO
