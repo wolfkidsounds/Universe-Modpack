@@ -7,7 +7,8 @@ import crafttweaker.liquid.ILiquidStack;
 //remove recipe and hide item
 val removeAndHide = [
         <railcraft:equipment:0>,
-        <railcraft:equipment:1>
+        <railcraft:equipment:1>,
+        <railcraft:charge_feeder:1>
 ] as IItemStack[];
 
     for item in removeAndHide {mods.jei.JEI.removeAndHide(item);}
