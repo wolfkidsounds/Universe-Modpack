@@ -1,6 +1,6 @@
 import crafttweaker.item.IItemStack;
 
-//version v3.9.2
+//version v3.12.4
 
 //addRecipes
     //tooltable
