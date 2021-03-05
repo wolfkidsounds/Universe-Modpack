@@ -10,3 +10,4 @@ import crafttweaker.oredict.IOreDictEntry;
 mods.ltt.LootTable.removeModItem("enderio");
 mods.ltt.LootTable.removeModItem("railcraft");
 mods.ltt.LootTable.removeModItem("toughasnails");
+mods.ltt.LootTable.removeModItem("matteroverdrive");
