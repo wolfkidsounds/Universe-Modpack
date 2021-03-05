@@ -2,7 +2,7 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
 import crafttweaker.liquid.ILiquidStack;
 
-//version v3.11.1
+//version v3.12.4
 
 //remove recipe and hide item
 val removeAndHide = [
