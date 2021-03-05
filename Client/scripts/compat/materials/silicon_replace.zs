@@ -8,5 +8,5 @@ import crafttweaker.liquid.ILiquidStack;
 
 //replaces items in recipes
         //replace "gc silicon" with "enderio silicon"
-                recipes.replaceAllOccurences(<galacticraftcore:basic_item:2>, <enderio:item_material:5>);
+                //recipes.replaceAllOccurences(<galacticraftcore:basic_item:2>, <enderio:item_material:5>); //turns out, there is an error!
 //---------------------------------------------------------------
