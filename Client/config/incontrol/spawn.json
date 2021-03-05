@@ -20,5 +20,10 @@
           "perplayer": true
         },
         "result": "deny"
+      },
+      {
+        "dimension": 0,
+        "mod": "lycanitesmobs",
+        "result": "deny"
       }
 ]
