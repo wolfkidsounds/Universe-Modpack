@@ -26,7 +26,9 @@ val removeAndHide = [
         <am:guan_dao>,
         <am:san_gu_cha>,
         <am:throwable_knife>,
-        <am:metal_axe>
+        <am:metal_axe>,
+        <am:water_tribe_wolf_general_chestplate>,
+        <am:water_tribe_wolf_sergent_chestplate>
 ] as IItemStack[];
 
     for item in removeAndHide {mods.jei.JEI.removeAndHide(item);}
@@ -51,27 +53,53 @@ val removeRecipe = [
 //RECIPE CHANGES
         //butterfly_sword
                 recipes.remove(<am:butterfly_sword>);
-                recipes.addShaped(<am:butterfly_sword>, [[null, <ore:ingotIron>, null],[null, <ore:ingotIron>, null], [<am:golden_guard>, <am:wooden_handle>, null]]);
+                recipes.addShaped(<am:butterfly_sword>, [
+                        [null, <ore:ingotIron>, null],
+                        [null, <ore:ingotIron>, null], 
+                        [<am:golden_guard>, <am:wooden_handle>, null]
+                        ]);
 
         //katana
                 recipes.remove(<am:katana>);
-                recipes.addShaped(<am:katana>, [[null, null, <ore:ingotDarkSteel>],[null, <ore:ingotDarkSteel>, null], [<am:tsuka>, null, null]]);
+                recipes.addShaped(<am:katana>, [
+                        [null, null, <ore:ingotDarkSteel>],
+                        [null, <ore:ingotDarkSteel>, null],
+                        [<am:tsuka>, null, null]]);
 
         //whales_tooth_scimitar
                 recipes.remove(<am:whales_tooth_scimitar>);
-                recipes.addShaped(<am:whales_tooth_scimitar>, [[null, null, <am:whale_tooth>],[null, <am:bone_stick_for_spears>, null], [<am:bone_stick_for_spears>, null, null]]);
+                recipes.addShaped(<am:whales_tooth_scimitar>, [
+                        [null, null, <am:whale_tooth>],
+                        [null, <am:bone_stick_for_spears>, null],
+                        [<am:bone_stick_for_spears>, null, null]]);
 
         //jaw_blade
                 recipes.remove(<am:jaw_blade>);
-                recipes.addShaped(<am:jaw_blade>, [[null, null, <am:wolf_tooth>],[null, <ore:bone>, null], [<am:bone_leather_gripped_handle>, null, null]]);
+                recipes.addShaped(<am:jaw_blade>, [
+                        [null, null, <am:wolf_tooth>],
+                        [null, <ore:bone>, null],
+                        [<am:bone_leather_gripped_handle>, null, null]]);
 
         //battle_club
                 recipes.remove(<am:battle_club>);
-                recipes.addShaped(<am:battle_club>, [[<ore:bone>, <ore:bone>, <ore:bone>],[<ore:bone>, <am:machete>, <ore:bone>], [null, null, null]]);
+                recipes.addShaped(<am:battle_club>, [
+                        [<ore:bone>, <ore:bone>, <ore:bone>],
+                        [<ore:bone>, <am:machete>, <ore:bone>]]);
 
         //machete
                 recipes.remove(<am:machete>);
-                recipes.addShaped(<am:machete>, [[null, <ore:ingotIron>, null],[null, <ore:ingotIron>, null], [null, <am:bone_leather_gripped_handle>, null]]);
+                recipes.addShaped(<am:machete>, [
+                        [null, <ore:ingotIron>, null],
+                        [null, <ore:ingotIron>, null],
+                        [null, <am:bone_leather_gripped_handle>, null]]);
+
+        //meteorite sword
+                recipes.remove(<am:meteorite_sword>);
+                recipes.addShaped(<am:meteorite_sword>, [
+                        [null, <ore:ingotMeteoricIron>, null],
+                        [null, <ore:ingotMeteoricIron>, null],
+                        [null, <am:jian_handle>, null]]);
+
 //---------------------------------------------------------------
 //REPLACE ALL OCCURENCE ITEMS
 
@@ -91,8 +119,3 @@ val removeRecipe = [
 //RENAMING ITEMS
         //Water Skin
                 <avatarmod:water_pouch:*>.displayName = "Waterbending Pouch";
-
-        //Fire Nation Pieces
-                <am:fire_nation_copper_piece>.displayName = "Fire Nation Copper Coin";
-                <am:fire_nation_silver_piece>.displayName = "Fire Nation Silver Coin";
-                <am:fire_nation_gold_piece>.displayName = "Fire Nation Gold Coin";
