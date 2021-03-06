@@ -92,5 +92,26 @@
 			"minecraft:grass",
 			"minecraft:gravel"
 		]
+	},
+	{
+		"type": "lakes",
+		"identifier": "lava_lake",
+		"enabled": false,
+		"targetBlock": "minecraft:lava"
+	},
+	{
+		"type": "lakes",
+		"identifier": "water_lake",
+		"enabled": false,
+		"targetBlock": "minecraft:water"
+	},
+	{
+		"type": "oreReplace",
+		"identifier": "removeDiamonds",
+		"enabled": false,
+		"targetBlock": "minecraft:stone",
+		"originalBlock": [
+			"minecraft:diamond_ore"
+		]
 	}
 ]

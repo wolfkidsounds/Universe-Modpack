@@ -1,74 +1,38 @@
 [
   {
-    "content": "atum:coin_dirty",
-    "unitWorth": 100,
-    "weight": 100,
-    "amount": {
-      "min": 1,
-      "max": 2
-    }
-  },
-  {
     "content": "am:earth_kingdome_copper_coins",
-    "unitWorth": 100,
-    "weight": 100,
+    "unitWorth": 1,
+    "weight": 1,
     "amount": {
       "min": 1,
-      "max": 2
+      "max": 64
     }
   },
   {
     "content": "am:earth_kingdome_silver_coins",
-    "unitWorth": 100,
-    "weight": 100,
+    "unitWorth": 64,
+    "weight": 2,
     "amount": {
       "min": 1,
-      "max": 2
+      "max": 64
     }
   },
   {
     "content": "am:earth_kingdome_gold_coins",
-    "unitWorth": 100,
-    "weight": 100,
+    "unitWorth": 4096,
+    "weight": 3,
     "amount": {
       "min": 1,
-      "max": 2
+      "max": 64
     }
   },
   {
-    "content": "am:water_tribe_coins",
-    "unitWorth": 100,
-    "weight": 100,
+    "content": "harvestcraft:garliccoinitem",
+    "unitWorth": 262144,
+    "weight": 4,
     "amount": {
       "min": 1,
-      "max": 2
-    }
-  },
-  {
-    "content": "am:fire_nation_copper_piece",
-    "unitWorth": 100,
-    "weight": 100,
-    "amount": {
-      "min": 1,
-      "max": 2
-    }
-  },
-  {
-    "content": "am:fire_nation_silver_piece",
-    "unitWorth": 100,
-    "weight": 100,
-    "amount": {
-      "min": 1,
-      "max": 2
-    }
-  },
-  {
-    "content": "am:fire_nation_gold_piece",
-    "unitWorth": 100,
-    "weight": 100,
-    "amount": {
-      "min": 1,
-      "max": 2
+      "max": 64
     }
   }
 ]

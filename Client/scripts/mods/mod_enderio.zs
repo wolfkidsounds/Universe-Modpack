@@ -6,7 +6,7 @@ import crafttweaker.liquid.ILiquidStack;
 //remove recipe and hide item
 mods.jei.JEI.removeAndHide(<enderio:block_creative_spawner>);
 
-//Change Up Crystal Recipe
+//Crystal Recipe
     recipes.remove(<enderio:item_material:15>);
     recipes.addShaped(<enderio:item_material:15>, [
         [<ore:nuggetVibrantAlloy>, <ore:nuggetVibrantAlloy>, <ore:nuggetVibrantAlloy>],

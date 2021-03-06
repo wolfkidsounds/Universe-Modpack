@@ -9,3 +9,5 @@ import crafttweaker.oredict.IOreDictEntry;
 //remove loot-item from all lists
 mods.ltt.LootTable.removeModItem("enderio");
 mods.ltt.LootTable.removeModItem("railcraft");
+mods.ltt.LootTable.removeModItem("toughasnails");
+mods.ltt.LootTable.removeModItem("matteroverdrive");

@@ -28,7 +28,7 @@ snooperEnabled:true
 fullscreen:false
 enableVsync:false
 useVbo:true
-hideServerAddress:false
+hideServerAddress:true
 advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
@@ -194,8 +194,8 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.0
-soundCategory_music:0.0
+soundCategory_master:0.8
+soundCategory_music:0.5
 soundCategory_record:1.0
 soundCategory_weather:0.056338027
 soundCategory_block:1.0
