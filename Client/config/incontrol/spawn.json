@@ -1,29 +1,42 @@
 [ 
-    {
-        "dimension": 0,
-        "mob": "avatarmod:ostrichhorse",
-        "biometype": "HOT",
-        "mincount": {
-          "amount": 50,
-          "hostile": false,
-          "perplayer": true
-        },
-        "result": "deny"
-      },
-      {
-        "dimension": 0,
-        "mob": "avatarmod:otterpenguin",
-        "biometype": "COLD",
-        "mincount": {
-          "amount": 50,
-          "hostile": false,
-          "perplayer": true
-        },
-        "result": "deny"
-      },
-      {
-        "dimension": 0,
-        "mod": "lycanitesmobs",
-        "result": "deny"
-      }
+  {
+    "dimension": 0,
+    "mob": "avatarmod:ostrichhorse",
+    "biometype": "HOT",
+    "mincount": {
+      "amount": 50,
+      "hostile": false,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "avatarmod:otterpenguin",
+    "biometype": "COLD",
+    "mincount": {
+      "amount": 50,
+      "hostile": false,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  { 
+    "dimension": 0,
+    "mob": ["avatarmod:firebender", "avatarmod:airbender"],
+    "result": "deny"
+  },
+  { 
+    "dimension": -30,
+    "mob": ["galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton"],
+    "block": ["galacticraftcore:basic_block_core:4", "galacticraftcore:basic_block_moon:4", "galacticraftplanets:walkway", "galacticraftcore:basic_block_core:3" ],
+    "result": "allow"
+  },
+  {
+    "dimension": -30,
+    "mob": ["galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton"],
+    "result": "deny"
+  }
 ]
+
+
