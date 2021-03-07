@@ -1,6 +1,9 @@
+#priority 10
+
 import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
 import crafttweaker.liquid.ILiquidStack;
+import crafttweaker.mods.IMod;
 
 //version v3.12.1
 

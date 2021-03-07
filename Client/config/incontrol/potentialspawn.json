@@ -1,1 +1,26 @@
-[]
+[
+    {
+      "dimension": -28,
+      "mobs": [
+        {
+          "mob": "lycanitesmobs:maug",
+          "weight": 100,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+            "mob": "lycanitesmobs:yale",
+            "weight": 100,
+            "groupcountmin": 1,
+            "groupcountmax": 1
+        },
+        {
+            "mob": "galacticraftcore:evolved_zombie",
+            "weight": 150,
+            "groupcountmin": 1,
+            "groupcountmax": 10
+        }
+        ]
+    }
+]
+

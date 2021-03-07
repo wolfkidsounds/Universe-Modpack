@@ -26,6 +26,11 @@
     "mob": ["avatarmod:firebender", "avatarmod:airbender"],
     "result": "deny"
   },
+  {
+    "dimension": 0,
+    "mod": "lycanitesmobs",
+    "result": "deny"
+  },
   { 
     "dimension": -30,
     "mob": ["galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton"],
@@ -33,10 +38,23 @@
     "result": "allow"
   },
   {
-    "dimension": -30,
-    "mob": ["galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton"],
+    "dimension": [-30, -28],
+    "mob": ["galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton", "galacticraftcore:evolved_enderman"],
+    "result": "deny"
+  },
+  {
+    "dimension": -28,
+    "mob": ["galacticraftcore:evolved_zombie", "lycanitesmobs:maug", "lycanitesmobs:yale"],
+    "block": ["galacticraftcore:basic_block_moon:4", "galacticraftcore:basic_block_moon:3"],
+    "result": "allow"
+  },
+  {
+    "dimension": -28,
+    "mob": ["galacticraftcore:evolved_zombie", "lycanitesmobs:maug", "lycanitesmobs:yale"],
+    "mincount": {
+      "amount": 5,
+      "perplayer": true
+    },
     "result": "deny"
   }
 ]
-
-
