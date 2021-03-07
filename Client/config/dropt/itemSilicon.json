@@ -4,7 +4,7 @@
         "match": {
           "drops": {
             "drops": [
-               "ore:itemSilicon"
+               "galacticraftcore:basic_item:2"
             ]
           }
         },
@@ -16,7 +16,7 @@
               ],
               "matchQuantity": {
                 "drops": [
-                   "ore:itemSilicon"
+                   "galacticraftcore:basic_item:2"
                 ]
               }
             }

@@ -1,6 +1,24 @@
 [ 
   {
     "dimension": 0,
+    "mincount": {
+      "amount": 80,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mincount": {
+      "amount": 50,
+      "passive": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },  
+  {
+    "dimension": 0,
     "mob": "avatarmod:ostrichhorse",
     "biometype": "HOT",
     "mincount": {
