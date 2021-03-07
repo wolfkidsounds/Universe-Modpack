@@ -17,3 +17,4 @@ val removeAndHide = [
 //SpecialRecipeRemoval
 recipes.removeShaped(<harvestcraft:freshwateritem> * 8, [[null, null, null],[null, <ore:listAllwater>, null], [null, null, null]]);
 recipes.remove(<minecraft:saddle>);
+<minecraft:skull:1>.addTooltip("The Wither can not be spawned in the overworld.");
