@@ -4,10 +4,26 @@ import crafttweaker.liquid.ILiquidStack;
 import crafttweaker.oredict.IOreDict;
 import crafttweaker.oredict.IOreDictEntry;
 
-//version v3.11
+//version v4.0.1
 
-//remove loot-item from all lists
+//remove moditems and tables by mod
 mods.ltt.LootTable.removeModItem("enderio");
+mods.ltt.LootTable.removeModTable("enderio");
+
 mods.ltt.LootTable.removeModItem("railcraft");
+mods.ltt.LootTable.removeModTable("railcraft");
+
 mods.ltt.LootTable.removeModItem("toughasnails");
+mods.ltt.LootTable.removeModTable("toughasnails");
+
+mods.ltt.LootTable.removeModItem("simpledifficulty");
+mods.ltt.LootTable.removeModTable("simpledifficulty");
+
 mods.ltt.LootTable.removeModItem("matteroverdrive");
+mods.ltt.LootTable.removeModTable("matteroverdrive");
+
+
+//remove specific item from all lists
+mods.ltt.LootTable.removeGlobalItem("endreborn:item_shard_obsidian");
+mods.ltt.LootTable.removeGlobalItem("minecraft:obsidian");
+mods.ltt.LootTable.removeGlobalItem("growthcraft_bees:bee");
