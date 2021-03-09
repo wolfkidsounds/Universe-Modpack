@@ -1,0 +1,182 @@
+[
+  {
+    "content": "minecraft:porkchop",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 2,
+    "weight": 200
+  },
+  {
+    "content": "minecraft:cooked_fish",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 6,
+    "weight": 200
+  },
+  {
+    "content": "minecraft:wool",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 5,
+    "weight": 200
+  },
+  {
+    "content": "minecraft:melon_seeds",
+    "amount": {
+      "min": 24,
+      "max": 64
+    },
+    "unitWorth": 4,
+    "weight": 200
+  },
+  {
+    "content": "natura:nether_logs2",
+    "amount": {
+      "min": 54,
+      "max": 110
+    },
+    "unitWorth": 12,
+    "weight": 200
+  },
+  {
+    "content": "minecraft:saddle",
+    "amount": {
+      "min": 2,
+      "max": 4
+    },
+    "unitWorth": 30,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:prismarine_shard",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 13,
+    "weight": 100
+  },
+  {
+    "content": "twilightforest:trophy:0",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 34816,
+    "weight": 100
+  },
+  {
+    "content": "mekanism:speedupgrade",
+    "amount": {
+      "min": 4,
+      "max": 8
+    },
+    "unitWorth": 20,
+    "weight": 100
+  },
+  {
+    "content": "deepmoblearning:living_matter_overworldian",
+    "amount": {
+      "min": 2,
+      "max": 6
+    },
+    "unitWorth": 960,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:creeper",
+    "amount": {
+      "min": 16,
+      "max": 48
+    },
+    "unitWorth": 8,
+    "weight": 100
+  },
+  {
+    "content": "entity:betteranimalsplus:feralwolf",
+    "amount": {
+      "min": 16,
+      "max": 48
+    },
+    "unitWorth": 5,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:spider",
+    "amount": {
+      "min": 16,
+      "max": 48
+    },
+    "unitWorth": 2,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:zombie",
+    "amount": {
+      "min": 16,
+      "max": 48
+    },
+    "unitWorth": 1,
+    "weight": 100
+  },
+  {
+    "content": "entity:primitivemobs:skeleton_warrior",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 12,
+    "weight": 100
+  },
+  {
+    "content": "entity:primitivemobs:trollager",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 256,
+    "weight": 100
+  },
+  {
+    "content": "entity:twilightforest:raven",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 64,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:wither",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 81920,
+    "weight": 100
+  },
+  {
+    "content": "entity:mowziesmobs:frostmaw",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 20480,
+    "weight": 100
+  },
+  {
+    "content": "entity:galacticraftcore:alien_villager",
+    "amount": {
+      "min": 4,
+      "max": 10
+    },
+    "unitWorth": 2048,
+    "weight": 100
+  }
+]
