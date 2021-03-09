@@ -1,0 +1,27 @@
+{
+    "rules": [
+      {
+        "match": {
+          "drops": {
+            "drops": [
+               "growthcraft_milk:thistle_seed"
+            ]
+          }
+        },
+        "drops": [
+          {
+            "item": {
+              "items": [
+                "minecraft:wheat_seeds"
+              ],
+              "matchQuantity": {
+                "drops": [
+                   "growthcraft_milk:thistle_seed"
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }

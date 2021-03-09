@@ -12,7 +12,8 @@ val removeAndHide = [
         <natura:nether_doors:3>,
         <natura:materials:3>,
         <natura:overworld_seeds:1>,
-        <natura:overworld_seed_bags:1>
+        <natura:overworld_seed_bags:1>,
+        <natura:overworld_seed_bags>
 ] as IItemStack[];
 
     for item in removeAndHide {mods.jei.JEI.removeAndHide(item);}

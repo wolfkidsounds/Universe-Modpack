@@ -41,7 +41,7 @@ chatScale:1.0
 chatWidth:1.0
 mipmapLevels:0
 forceUnicodeFont:false
-reducedDebugInfo:false
+reducedDebugInfo:true
 useNativeTransport:true
 entityShadows:true
 mainHand:right
