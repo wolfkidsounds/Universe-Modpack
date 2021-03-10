@@ -752,7 +752,7 @@
         "meta": 0
       },
       "requiresLid": true,
-      "time": 1200
+      "time": 12000
     },
     {
       "comment": "",
@@ -833,7 +833,7 @@
       },
       "residue": null,
       "requiresLid": null,
-      "time": 1
+      "time": 10
     },
     {
       "comment": "",
@@ -850,7 +850,7 @@
       },
       "residue": null,
       "requiresLid": null,
-      "time": 1
+      "time": 10
     },
     {
       "comment": "",
@@ -867,7 +867,7 @@
       },
       "residue": null,
       "requiresLid": null,
-      "time": 1
+      "time": 10
     },
     {
       "comment": "",
@@ -884,7 +884,7 @@
       },
       "residue": null,
       "requiresLid": null,
-      "time": 1
+      "time": 10
     },
     {
       "comment": "",
@@ -901,7 +901,7 @@
       },
       "residue": null,
       "requiresLid": null,
-      "time": 1
+      "time": 10
     },
     {
       "comment": "",
@@ -918,7 +918,7 @@
       },
       "residue": null,
       "requiresLid": null,
-      "time": 1
+      "time": 10
     },
     {
       "comment": "",
@@ -935,7 +935,7 @@
       },
       "residue": null,
       "requiresLid": null,
-      "time": 1
+      "time": 10
     },
     {
       "comment": "",
