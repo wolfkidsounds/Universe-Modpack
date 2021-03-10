@@ -11,7 +11,6 @@
 | planet.Eris             | -21   | true  |
 | planet.Jupiter          | -15   | true  |
 | planet.kepler22b        | -22   | true  |
-| planet.mars             | -29   | true  |
 | planet.Pluto            | -19   | true  |
 | planet.Saturn           | -16   | true  |
 | planet.Uranus           | -17   | true  |

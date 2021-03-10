@@ -55,5 +55,10 @@
     "dimension": -13,
     "mob": ["lycanitesmobs:trite", "lycanitesmobs:erepede", "lycanitesmobs:geonach", "lycanitesmobs:calpod", "lycanitesmobs:sutiramu", "lycanitesmobs:geist", "lycanitesmobs:joust", "lycanitesmobs:gorgomite"],
     "result": "allow"
+  },
+  { 
+    "dimension": -29,
+    "mob": ["lycanitesmobs:warg", "lycanitesmobs:makaalpha", "lycanitesmobs:sutiramu", "lycanitesmobs:calpod", "lycanitesmobs:joust", "lycanitesmobs:gorgomite", "lycanitesmobs:clink", "lycanitesmobs:crusk", "lycanitesmobs:belph"],
+    "result": "allow"
   }
 ]

@@ -173,6 +173,65 @@
           "groupcountmax": 10
         }
         ]
+    },
+    {
+      "dimension": -29,
+      "mobs": [
+        {
+            "mob": "lycanitesmobs:warg",
+            "weight": 5,
+            "groupcountmin": 1,
+            "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:makaalpha",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:sutiramu",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:calpod",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:joust",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:gorgomite",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:clink",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:crusk",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:belph",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        }
+        ]
     }
 ]
 
