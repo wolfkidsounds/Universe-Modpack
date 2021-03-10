@@ -4,44 +4,80 @@
       "mobs": [
         {
             "mob": "galacticraftcore:evolved_zombie",
-            "weight": 5,
+            "weight": 10,
             "groupcountmin": 1,
             "groupcountmax": 10
         }
         ]
     },
     {
-      "dimension": -1501,
+      "dimension": -11001,
       "mobs": [
         {
             "mob": "lycanitesmobs:strider",
-            "weight": 5,
+            "weight": 10,
             "groupcountmin": 1,
             "groupcountmax": 10
         },
         {
           "mob": "lycanitesmobs:roa",
-          "weight": 5,
+          "weight": 10,
           "groupcountmin": 1,
           "groupcountmax": 10
         },
         {
           "mob": "lycanitesmobs:lacedon",
-          "weight": 5,
+          "weight": 10,
           "groupcountmin": 1,
           "groupcountmax": 10
         },
         {
           "mob": "lycanitesmobs:yeti",
-          "weight": 5,
+          "weight": 10,
           "groupcountmin": 1,
           "groupcountmax": 10
         },
         {
           "mob": "lycanitesmobs:geonach",
-          "weight": 5,
+          "weight": 10,
           "groupcountmin": 1,
           "groupcountmax": 10
+        }
+        ]
+    },
+    {
+      "dimension": -18,
+      "mobs": [
+        {
+            "mob": "lycanitesmobs:ventoraptor",
+            "weight": 10,
+            "groupcountmin": 1,
+            "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:jengu",
+          "weight": 10,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:serpix",
+          "weight": 10,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:wendigo",
+          "weight": 10,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "dragonmounts:summon_moonlight",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1,
+          "minspawndist": 1000
         }
         ]
     }

@@ -34,5 +34,10 @@
     "dimension": -1501,
     "mob": ["lycanitesmobs:strider", "lycanitesmobs:roa", "lycanitesmobs:lacedon", "lycanitesmobs:yeti", "lycanitesmobs:geonach"],
     "result": "allow"
+  },
+  { 
+    "dimension": -18,
+    "mob": ["dragonmounts:summon_moonlight", "lycanitesmobs:wendigo", "lycanitesmobs:serpix", "lycanitesmobs:jengu", "lycanitesmobs:ventoraptor"],
+    "result": "allow"
   }
 ]
