@@ -120,6 +120,59 @@
           "groupcountmax": 10
         }
         ]
+    },
+    {
+      "dimension": -31,
+      "mobs": [
+        {
+            "mob": "lycanitesmobs:trite",
+            "weight": 5,
+            "groupcountmin": 1,
+            "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:erepede",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:geonach",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:calpod",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:sutiramu",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:geist",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:joust",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:gorgomite",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        }
+        ]
     }
 ]
 

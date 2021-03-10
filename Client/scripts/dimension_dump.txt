@@ -15,7 +15,6 @@
 | planet.Pluto            | -19   | true  |
 | planet.Saturn           | -16   | true  |
 | planet.Uranus           | -17   | true  |
-| planet.venus            | -31   | true  |
 | moon.callisto           | -1505 | true  |
 | moon.deimos             | -1503 | true  |
 | moon.europa             | -1501 | true  |
