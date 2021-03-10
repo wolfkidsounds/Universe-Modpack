@@ -45,5 +45,10 @@
     "dimension": 17,
     "mob": ["lycanitesmobs:cryptkeeper", "lycanitesmobs:archvile"],
     "result": "allow"
+  },
+  { 
+    "dimension": -13,
+    "mob": ["lycanitesmobs:wisp", "lycanitesmobs:djinn", "lycanitesmobs:tremor"],
+    "result": "allow"
   }
 ]
