@@ -3,22 +3,45 @@
       "dimension": -28,
       "mobs": [
         {
-          "mob": "lycanitesmobs:maug",
-          "weight": 100,
-          "groupcountmin": 1,
-          "groupcountmax": 1
-        },
-        {
-            "mob": "lycanitesmobs:yale",
-            "weight": 100,
-            "groupcountmin": 1,
-            "groupcountmax": 1
-        },
-        {
             "mob": "galacticraftcore:evolved_zombie",
-            "weight": 150,
+            "weight": 5,
             "groupcountmin": 1,
             "groupcountmax": 10
+        }
+        ]
+    },
+    {
+      "dimension": -1501,
+      "mobs": [
+        {
+            "mob": "lycanitesmobs:strider",
+            "weight": 5,
+            "groupcountmin": 1,
+            "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:roa",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:lacedon",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:yeti",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:geonach",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 10
         }
         ]
     }
