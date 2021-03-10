@@ -4,25 +4,13 @@
     "mob": "avatarmod:ostrichhorse",
     "biometype": "HOT",
     "mincount": {
-      "amount": 50,
-      "hostile": false,
-      "perplayer": true
-    },
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "avatarmod:otterpenguin",
-    "biometype": "COLD",
-    "mincount": {
-      "amount": 50,
+      "amount": 10,
       "hostile": false,
       "perplayer": true
     },
     "result": "deny"
   },
   { 
-    "dimension": 0,
     "mob": ["avatarmod:firebender", "avatarmod:airbender"],
     "result": "deny"
   },
@@ -38,23 +26,13 @@
     "result": "allow"
   },
   {
-    "dimension": [-30, -28],
-    "mob": ["galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton", "galacticraftcore:evolved_enderman"],
+    "dimension": [-28],
+    "mod": "galacticraftcore",
     "result": "deny"
   },
-  {
-    "dimension": -28,
-    "mob": ["galacticraftcore:evolved_zombie", "lycanitesmobs:maug", "lycanitesmobs:yale"],
-    "block": ["galacticraftcore:basic_block_moon:4", "galacticraftcore:basic_block_moon:3"],
+  { 
+    "dimension": -1501,
+    "mob": ["lycanitesmobs:strider", "lycanitesmobs:roa", "lycanitesmobs:lacedon", "lycanitesmobs:yeti", "lycanitesmobs:geonach"],
     "result": "allow"
-  },
-  {
-    "dimension": -28,
-    "mob": ["galacticraftcore:evolved_zombie", "lycanitesmobs:maug", "lycanitesmobs:yale"],
-    "mincount": {
-      "amount": 5,
-      "perplayer": true
-    },
-    "result": "deny"
   }
 ]
