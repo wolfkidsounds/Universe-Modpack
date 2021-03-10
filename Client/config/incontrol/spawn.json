@@ -40,5 +40,10 @@
     "dimension": -18,
     "mob": ["dragonmounts:summon_moonlight", "lycanitesmobs:wendigo", "lycanitesmobs:serpix", "lycanitesmobs:jengu", "lycanitesmobs:ventoraptor"],
     "result": "allow"
+  },
+  { 
+    "dimension": 17,
+    "mob": ["lycanitesmobs:cryptkeeper", "lycanitesmobs:archvile"],
+    "result": "allow"
   }
 ]

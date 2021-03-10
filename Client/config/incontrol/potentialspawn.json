@@ -80,6 +80,23 @@
           "minspawndist": 1000
         }
         ]
+    },
+    {
+      "dimension": 17,
+      "mobs": [
+        {
+            "mob": "lycanitesmobs:cryptkeeper",
+            "weight": 2,
+            "groupcountmin": 1,
+            "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:archvile",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        }
+        ]
     }
 ]
 
