@@ -11,6 +11,7 @@
     "result": "deny"
   },
   { 
+    "dimension":[0, -1, 1],
     "mob": ["avatarmod:firebender", "avatarmod:airbender"],
     "result": "deny"
   },
