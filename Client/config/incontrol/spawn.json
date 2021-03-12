@@ -164,6 +164,126 @@
 
 
 
+  {
+    "dimension": -31,
+    "mob": "lycanitesmobs:trite",
+    "block": "extraplanets:venus:3",
+    "seesky": false,
+    "maxcount": {
+      "amount": 15,
+      "mob": "lycanitesmobs:trite",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -31,
+    "mob": "lycanitesmobs:erepede",
+    "block": "extraplanets:venus:0",
+    "maxcount": {
+      "amount": 8,
+      "mob": "lycanitesmobs:erepede",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -31,
+    "mob": "lycanitesmobs:calpod",
+    "block": "extraplanets:venus:1",
+    "maxcount": {
+      "amount": 40,
+      "mob": "lycanitesmobs:calpod",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -31,
+    "mob": "lycanitesmobs:sutiramu",
+    "block": "extraplanets:venus:1",
+    "maxcount": {
+      "amount": 2,
+      "mob": "lycanitesmobs:sutiramu",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -31,
+    "mob": "lycanitesmobs:geist",
+    "block": "extraplanets:venus:1",
+    "seesky": false,
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:geist",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -31,
+    "mob": "lycanitesmobs:joust",
+    "block": "extraplanets:venus:1",
+    "maxcount": {
+      "amount": 40,
+      "mob": "lycanitesmobs:joust",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -31,
+    "mob": "lycanitesmobs:joustalpha",
+    "block": "extraplanets:venus:0",
+    "maxcount": {
+      "amount": 2,
+      "mob": "lycanitesmobs:joustalpha",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -31,
+    "mob": "lycanitesmobs:gorgomite",
+    "block": "extraplanets:venus:3",
+    "seesky": false,
+    "maxcount": {
+      "amount": 20,
+      "mob": "lycanitesmobs:gorgomite",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -31,
+    "mob": "lycanitesmobs:salamander",
+    "block": "minecraft:lava",
+    "maxcount": {
+      "amount": 3,
+      "mob": "lycanitesmobs:salamander",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -31,
+    "mob": "lycanitesmobs:cephignis",
+    "block": "minecraft:lava",
+    "maxcount": {
+      "amount": 3,
+      "mob": "lycanitesmobs:cephignis",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+
+
+
+
+
+
+
 
   {
     "dimension": [0,-1,1,-1,7,17,-30,-20,-21,-15,-29,-13,-18,-19,-16,-17,-31,-1505,-1503,-1506,-1511,-1500,-28,-1509,-1502,-1507,-1508,-1510,-1504],
