@@ -1,237 +1,40 @@
 [
     {
-      "dimension": -28,
-      "mobs": [
-        {
-            "mob": "galacticraftcore:evolved_zombie",
-            "weight": 10,
-            "groupcountmin": 1,
-            "groupcountmax": 10
-        }
-        ]
+      "remove": ["avatarmod:firebender", "avatarmod:airbender", "galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton", "galacticraftcore:evolved_enderman"]
     },
     {
-      "dimension": -11001,
+      "dimension": -1501,
       "mobs": [
         {
-            "mob": "lycanitesmobs:strider",
-            "weight": 10,
-            "groupcountmin": 1,
-            "groupcountmax": 10
+          "mob": "lycanitesmobs:yeti",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 3
+        },
+        {
+          "mob": "lycanitesmobs:strider",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 5
+        },
+        {
+          "mob": "lycanitesmobs:geonach",
+          "weight": 3,
+          "groupcountmin": 1,
+          "groupcountmax": 1
         },
         {
           "mob": "lycanitesmobs:roa",
-          "weight": 10,
+          "weight": 1,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 2
         },
         {
           "mob": "lycanitesmobs:lacedon",
-          "weight": 10,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:yeti",
-          "weight": 10,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:geonach",
-          "weight": 10,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        }
-        ]
-    },
-    {
-      "dimension": -18,
-      "mobs": [
-        {
-            "mob": "lycanitesmobs:ventoraptor",
-            "weight": 10,
-            "groupcountmin": 1,
-            "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:jengu",
-          "weight": 10,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:serpix",
-          "weight": 10,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:wendigo",
-          "weight": 10,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "dragonmounts:summon_moonlight",
-          "weight": 1,
-          "groupcountmin": 1,
-          "groupcountmax": 1,
-          "minspawndist": 1000
-        }
-        ]
-    },
-    {
-      "dimension": 17,
-      "mobs": [
-        {
-            "mob": "lycanitesmobs:cryptkeeper",
-            "weight": 2,
-            "groupcountmin": 1,
-            "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:archvile",
           "weight": 1,
           "groupcountmin": 1,
           "groupcountmax": 10
         }
-        ]
-    },
-    {
-      "dimension": -13,
-      "mobs": [
-        {
-            "mob": "lycanitesmobs:wisp",
-            "weight": 5,
-            "groupcountmin": 1,
-            "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:djinn",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:tremor",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        }
-        ]
-    },
-    {
-      "dimension": -31,
-      "mobs": [
-        {
-            "mob": "lycanitesmobs:trite",
-            "weight": 5,
-            "groupcountmin": 1,
-            "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:erepede",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:geonach",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:calpod",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:sutiramu",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:geist",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:joust",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:gorgomite",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        }
-        ]
-    },
-    {
-      "dimension": -29,
-      "mobs": [
-        {
-            "mob": "lycanitesmobs:warg",
-            "weight": 5,
-            "groupcountmin": 1,
-            "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:makaalpha",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:sutiramu",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:calpod",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:joust",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:gorgomite",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:clink",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:crusk",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:belph",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        }
-        ]
+      ]
     }
 ]
-
