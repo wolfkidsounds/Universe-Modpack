@@ -54,9 +54,82 @@
     },
     "result": "allow"
   },
+
+
+
+
+
+
   {
-    "dimension": [0, -1, 1, -1501],
+    "dimension": -18,
+    "mob": "lycanitesmobs:ventoraptor",
+    "block": "extraplanets:neptune",
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:ventoraptor",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -1501,
+    "mob": "dragonmounts:summon_moonlight",
+    "block": "extraplanets:neptune",
+    "maxcount": {
+      "amount": 1,
+      "mob": "dragonmounts:summon_moonlight",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -1501,
+    "mob": "lycanitesmobs:jengu",
+    "block": "extraplanets:neptune",
+    "maxcount": {
+      "amount": 4,
+      "mob": "lycanitesmobs:jengu",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -1501,
+    "mob": "lycanitesmobs:serpix",
+    "block": "extraplanets:neptune",
+    "maxcount": {
+      "amount": 2,
+      "mob": "lycanitesmobs:serpix",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -1501,
+    "mob": "lycanitesmobs:wendigo",
+    "block": "extraplanets:neptune",
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:wendigo",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+
+
+
+
+
+
+
+
+  {
+    "dimension": [0,-1,1,-1,7,17,-30,-20,-21,-15,-29,-13,-18,-19,-16,-17,-31,-1505,-1503,-1506,-1511,-1500,-28,-1509,-1502,-1507,-1508,-1510,-1504],
     "mod": "lycanitesmobs",
+    "result": "deny"
+  },
+  {
+    "dimension": -6,
     "result": "deny"
   }
 ]
