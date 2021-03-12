@@ -1,1 +1,7 @@
-[]
+[   {
+      "mob": "minecraft:blaze",
+      "player": true,
+      "item": "avatarmod:scroll:2",
+      "itemcount": "1-2/1-3/1-4"
+    }
+]
