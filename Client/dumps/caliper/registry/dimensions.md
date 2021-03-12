@@ -13,7 +13,6 @@
 | planet.Eris             | -21   |
 | planet.Jupiter          | -15   |
 | planet.mars             | -29   |
-| planet.Mercury          | -13   |
 | planet.Pluto            | -19   |
 | planet.Saturn           | -16   |
 | planet.Uranus           | -17   |

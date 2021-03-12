@@ -71,5 +71,28 @@
           "groupcountmax": 1
         }
       ]
+    },
+    {
+      "dimension": -18,
+      "mobs": [
+        {
+          "mob": "lycanitesmobs:wisp",
+          "weight": 4,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:djinn",
+          "weight": 4,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:tremor",
+          "weight": 4,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        }
+      ]
     }
 ]

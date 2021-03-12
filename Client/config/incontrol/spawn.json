@@ -72,7 +72,7 @@
     "result": "allow"
   },
   {
-    "dimension": -1501,
+    "dimension": -18,
     "mob": "dragonmounts:summon_moonlight",
     "block": "extraplanets:neptune",
     "maxcount": {
@@ -83,7 +83,7 @@
     "result": "allow"
   },
   {
-    "dimension": -1501,
+    "dimension": -18,
     "mob": "lycanitesmobs:jengu",
     "block": "extraplanets:neptune",
     "maxcount": {
@@ -94,7 +94,7 @@
     "result": "allow"
   },
   {
-    "dimension": -1501,
+    "dimension": -18,
     "mob": "lycanitesmobs:serpix",
     "block": "extraplanets:neptune",
     "maxcount": {
@@ -105,12 +105,54 @@
     "result": "allow"
   },
   {
-    "dimension": -1501,
+    "dimension": -18,
     "mob": "lycanitesmobs:wendigo",
     "block": "extraplanets:neptune",
     "maxcount": {
       "amount": 1,
       "mob": "lycanitesmobs:wendigo",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "dimension": -13,
+    "mob": "lycanitesmobs:wisp",
+    "block": "extraplanets:mercury",
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:wisp",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -13,
+    "mob": "lycanitesmobs:djinn",
+    "block": "extraplanets:mercury",
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:djinn",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -13,
+    "mob": "lycanitesmobs:tremor",
+    "block": "extraplanets:mercury",
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:tremor",
       "perplayer":true
     },
     "result": "allow"
