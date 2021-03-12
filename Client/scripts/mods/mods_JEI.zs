@@ -2,3 +2,5 @@
 
 //remove entire JEI tree
 mods.jei.JEI.hideCategory("railcraft.rolling");
+mods.jei.JEI.hideCategory("Painter");
+mods.jei.JEI.hideCategory("chisel.chiseling");
