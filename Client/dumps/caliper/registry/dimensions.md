@@ -9,7 +9,7 @@
 | atum                    | 17    |
 
 //| planet.Ceres            | -20   |
-| planet.Eris             | -21   |
+//| planet.Eris             | -21   |
 //| planet.Jupiter          | -15   |
 | planet.Pluto            | -19   |
 //| planet.Saturn           | -16   |

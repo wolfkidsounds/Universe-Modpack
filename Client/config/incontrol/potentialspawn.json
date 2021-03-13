@@ -270,5 +270,34 @@
           "groupcountmax": 1
         }
       ]
+    },
+    {
+      "dimension": -21,
+      "mobs": [
+        {
+          "mob": "matteroverdrive:ranged_rogue_android",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 15
+        },
+        {
+          "mob": "matteroverdrive:rogue_android",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 15
+        },
+        {
+          "mob": "deepmoblearning:glitch",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "matteroverdrive:mutant_scientist",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        }
+      ]
     }
 ]
