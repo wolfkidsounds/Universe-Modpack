@@ -13,7 +13,7 @@
 //| planet.Jupiter          | -15   |
 | planet.Pluto            | -19   |
 //| planet.Saturn           | -16   |
-| planet.Uranus           | -17   |
+//| planet.Uranus           | -17   |
 | moon.callisto           | -1505 |
 | moon.deimos             | -1503 |
 | moon.ganymede           | -1506 |

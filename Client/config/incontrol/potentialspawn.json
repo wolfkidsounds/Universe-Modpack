@@ -205,5 +205,70 @@
           "groupcountmax": 5
         }
       ]
+    },
+    {
+      "dimension": -17,
+      "mobs": [
+        {
+          "mob": "lycanitesmobs:reiver",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:djinn",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:frostweaver",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:serpix",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:sylph",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:aegis",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:wendigo",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:arix",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:yeti",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 15
+        },
+        {
+          "mob": "lycanitesmobs:ventoraptor",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        }
+      ]
     }
 ]
