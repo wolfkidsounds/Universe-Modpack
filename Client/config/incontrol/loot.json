@@ -44,7 +44,8 @@
       "minecraft:blaze", 
       "minecraft:magma_cube",
       "betteranimalsplus:hirschgeist",
-      "extraplanets:extraplanets.evolvedmagmacubeboss"],
+      "extraplanets:extraplanets.evolvedmagmacubeboss"
+    ],
     "player": true,
     "item": "avatarmod:scroll:2",
     "itemcount": "0-1/0-2/0-4"
