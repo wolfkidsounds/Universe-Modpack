@@ -10,9 +10,9 @@
 
 //| planet.Ceres            | -20   |
 | planet.Eris             | -21   |
-| planet.Jupiter          | -15   |
+//| planet.Jupiter          | -15   |
 | planet.Pluto            | -19   |
-| planet.Saturn           | -16   |
+//| planet.Saturn           | -16   |
 | planet.Uranus           | -17   |
 | moon.callisto           | -1505 |
 | moon.deimos             | -1503 |

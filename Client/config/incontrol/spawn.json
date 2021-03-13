@@ -282,8 +282,85 @@
     },
     "result": "allow"
   },
+  
 
 
+
+
+
+
+
+
+
+
+
+  {
+    "dimension": -16,
+    "mob": "lycanitesmobs:geonach",
+    "block": "extraplanets:saturn:10",
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:geonach",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -16,
+    "mob": "lycanitesmobs:geist",
+    "block": "extraplanets:saturn:10",
+    "maxcount": {
+      "amount": 4,
+      "mob": "lycanitesmobs:geist",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -16,
+    "mob": "lycanitesmobs:chupacabra",
+    "seesky": false,
+    "block": "extraplanets:saturn",
+    "maxcount": {
+      "amount": 20,
+      "mob": "lycanitesmobs:chupacabra",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -16,
+    "mob": "lycanitesmobs:maka",
+    "block": "extraplanets:saturn",
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:maka",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -16,
+    "mob": "lycanitesmobs:morock",
+    "block": "extraplanets:saturn:10",
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:morock",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -16,
+    "mob": "lycanitesmobs:tremor",
+    "block": "extraplanets:saturn:10",
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:tremor",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
 
 
 

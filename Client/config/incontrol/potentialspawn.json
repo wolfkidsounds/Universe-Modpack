@@ -164,5 +164,46 @@
           "groupcountmax": 2
         }
       ]
+    },
+    {
+      "dimension": -16,
+      "mobs": [
+        {
+          "mob": "lycanitesmobs:geonach",
+          "weight": 4,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:geist",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 5
+        },
+        {
+          "mob": "lycanitesmobs:chupacabra",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:maka",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 5
+        },
+        {
+          "mob": "lycanitesmobs:morock",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 5
+        },
+        {
+          "mob": "lycanitesmobs:tremor",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 5
+        }
+      ]
     }
 ]
