@@ -165,119 +165,123 @@
 
 
   {
-    "dimension": -31,
-    "mob": "lycanitesmobs:trite",
-    "block": "extraplanets:venus:3",
-    "seesky": false,
+    "dimension": -20,
+    "mob": "lycanitesmobs:maug",
+    "block": ["extraplanets:ceres:0", "extraplanets:ceres:1", "extraplanets:ceres:2"],
     "maxcount": {
-      "amount": 15,
-      "mob": "lycanitesmobs:trite",
+      "amount": 10,
+      "mob": "lycanitesmobs:maug",
       "perplayer":true
     },
     "result": "allow"
   },
   {
-    "dimension": -31,
-    "mob": "lycanitesmobs:erepede",
-    "block": "extraplanets:venus:0",
+    "dimension": -20,
+    "mob": "lycanitesmobs:yale",
+    "block": ["extraplanets:ceres:0", "extraplanets:ceres:1", "extraplanets:ceres:2"],
     "maxcount": {
-      "amount": 8,
-      "mob": "lycanitesmobs:erepede",
+      "amount": 10,
+      "mob": "lycanitesmobs:yale",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+
+
+
+
+
+
+
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:cinder",
+    "block": "minecraft:gravel",
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:cinder",
       "perplayer":true
     },
     "result": "allow"
   },
   {
-    "dimension": -31,
-    "mob": "lycanitesmobs:calpod",
-    "block": "extraplanets:venus:1",
+    "dimension": -15,
+    "mob": "lycanitesmobs:volcan",
+    "block": "minecraft:gravel",
     "maxcount": {
-      "amount": 40,
-      "mob": "lycanitesmobs:calpod",
+      "amount": 10,
+      "mob": "lycanitesmobs:volcan",
       "perplayer":true
     },
     "result": "allow"
   },
   {
-    "dimension": -31,
-    "mob": "lycanitesmobs:sutiramu",
-    "block": "extraplanets:venus:1",
+    "dimension": -15,
+    "mob": "lycanitesmobs:khalk",
+    "block": "minecraft:gravel",
     "maxcount": {
       "amount": 2,
+      "mob": "lycanitesmobs:khalk",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:lobber",
+    "block": "minecraft:gravel",
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:lobber",
+      "perplayer":true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:sutiramu",
+    "block": "extraplanets:orange_sand",
+    "maxcount": {
+      "amount": 3,
       "mob": "lycanitesmobs:sutiramu",
       "perplayer":true
     },
     "result": "allow"
   },
   {
-    "dimension": -31,
-    "mob": "lycanitesmobs:geist",
-    "block": "extraplanets:venus:1",
-    "seesky": false,
-    "maxcount": {
-      "amount": 10,
-      "mob": "lycanitesmobs:geist",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": -31,
+    "dimension": -15,
     "mob": "lycanitesmobs:joust",
-    "block": "extraplanets:venus:1",
+    "block": "extraplanets:orange_sand",
     "maxcount": {
-      "amount": 40,
+      "amount": 30,
       "mob": "lycanitesmobs:joust",
       "perplayer":true
     },
     "result": "allow"
   },
   {
-    "dimension": -31,
-    "mob": "lycanitesmobs:joustalpha",
-    "block": "extraplanets:venus:0",
-    "maxcount": {
-      "amount": 2,
-      "mob": "lycanitesmobs:joustalpha",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": -31,
+    "dimension": -15,
     "mob": "lycanitesmobs:gorgomite",
-    "block": "extraplanets:venus:3",
     "seesky": false,
+    "block": "extraplanets:jupiter",
     "maxcount": {
-      "amount": 20,
+      "amount": 30,
       "mob": "lycanitesmobs:gorgomite",
       "perplayer":true
     },
     "result": "allow"
   },
   {
-    "dimension": -31,
-    "mob": "lycanitesmobs:salamander",
-    "block": "minecraft:lava",
+    "dimension": -15,
+    "mob": "lycanitesmobs:crusk",
+    "block": "extraplanets:orange_sand",
     "maxcount": {
-      "amount": 3,
-      "mob": "lycanitesmobs:salamander",
+      "amount": 5,
+      "mob": "lycanitesmobs:crusk",
       "perplayer":true
     },
     "result": "allow"
   },
-  {
-    "dimension": -31,
-    "mob": "lycanitesmobs:cephignis",
-    "block": "minecraft:lava",
-    "maxcount": {
-      "amount": 3,
-      "mob": "lycanitesmobs:cephignis",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
-
 
 
 
