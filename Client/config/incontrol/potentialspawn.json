@@ -165,5 +165,16 @@
           "groupcountmax": 1
         }
       ]
+    },
+    {
+      "dimension": -31,
+      "mobs": [
+        {
+          "mob": "lycanitesmobs:trite",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 5
+        }
+      ]
     }
 ]
