@@ -1,7 +1,164 @@
-[   {
-      "mob": "minecraft:blaze",
-      "player": true,
-      "item": "avatarmod:scroll:2",
-      "itemcount": "1-2/1-3/1-4"
-    }
+[   
+  {
+    "mob": [
+      "mowziesmobs:naga",
+      "twilightforest:giant_miner",
+      "mowziesmobs:grottol",
+      "minecraft:silverfish",
+      "quark:stoneling",
+      "primitivemobs:trollager",
+      "primitivemobs:goblin",
+      "twilightforest:redcap",
+      "twilightforest:redcap_sapper",
+      "atum:stoneguard",
+      "atum:stonewarden",
+      "twilightforest:troll",
+      "twilightforest:naga",
+      "betteranimalsplus:badger",
+      "enderzoo:direslime"
+    ],
+    "player": true,
+    "item": "avatarmod:scroll:1",
+    "itemcount": "0-1/0-2/0-4"
+  },
+  {
+    "mob": [
+      "minecraft:magma_cube",
+      "extraplanets:extraplanets.evolvedancientmagmacube",
+      "quark:ashen",
+      "quark:foxhound",
+      "netherendingores:netherfish",
+      "primitivemobs:blazing_juggernaut",
+      "primitivemobs:flame_spewer",
+      "atum:sunspeaker",
+      "twilightforest:hydra",
+      "twilightforest:fire_beetle",
+      "extraplanets:extraplanets.evolvedfirebatboss",
+      "minecraft:ghast",
+      "twilightforest:tower_ghast",
+      "netherex:ghastling",
+      "extraplanets:extraplanets.evolvedancientmagmacube", 
+      "mowziesmobs:barakoana", 
+      "mowziesmobs:barakoaya", 
+      "mowziesmobs:barako", 
+      "minecraft:blaze", 
+      "minecraft:magma_cube",
+      "betteranimalsplus:hirschgeist",
+      "extraplanets:extraplanets.evolvedmagmacubeboss"],
+    "player": true,
+    "item": "avatarmod:scroll:2",
+    "itemcount": "0-1/0-2/0-4"
+  },
+  {
+    "mob": [
+      "minecraft:guardian",
+      "minecraft:elder_guardian",
+      "minecraft:polar_bear",
+      "primitivemobs:lily_lurker",
+      "twilightforest:skeleton_druid",
+      "mowziesmobs:naga",
+      "twilightforest:snow_queen",
+      "twilightforest:penguin",
+      "twilightforest:winter_wolf",
+      "betteranimalsplus:jellyfish",
+      "betteranimalsplus:lamprey",
+      "betteranimalsplus:shark",
+      "betteranimalsplus:eel_freshwater",
+      "betteranimalsplus:eel_saltwater",
+      "betteranimalsplus:whale",
+      "betteranimalsplus:walrus",
+      "twilightforest:yeti",
+      "twilightforest:yeti_alpha",
+      "extraplanets:extraplanets.evolvedsnowmanboss"
+    ],
+    "player": true,
+    "item": "avatarmod:scroll:3",
+    "itemcount": "0-1/0-2/0-4"
+  },
+  {
+    "mob": [
+      "minecraft:shulker",
+      "endreborn:endguard",
+      "biomesoplenty:wasp",
+      "quark:wraith",
+      "primitivemobs:harpy",
+      "twilightforest:wraith",
+      "twilightforest:quest_ram",
+      "twilightforest:mosquito_swarm",
+      "betteranimalsplus:lammergeier",
+      "betteranimalsplus:zotzpyre",
+      "avatarmod:skybison",
+      "mowziesmobs:naga",
+      "twilightforest:death_tome"
+    ],
+    "player": true,
+    "item": "avatarmod:scroll:3",
+    "itemcount": "0-1/0-2/0-4"
+  },  
+  {
+    "mob": [
+      "betteranimalsplus:eel_saltwater",
+      "netherex:coolmar_spider",
+      "atum:sunspeaker",
+      "netherex:frost"
+    ],
+    "player": true,
+    "item": "avatarmod:scroll:5",
+    "itemcount": "0-1/0-2/0-4"
+  },
+  {
+    "mob": [
+      "minecraft:stray",
+      "twilightforest:yeti  ",
+      "twilightforest:yeti_alpha",
+      "mowziesmobs:frostmaw",
+      "extraplanets:extraplanets.evolvediceslimeboss",
+      "extraplanets:extraplanets.evolvedsnowmanboss",
+      "twilightforest:snow_guardian",
+      "twilightforest:stable_ice_core",
+      "twilightforest:unstable_ice_core",
+      "twilightforest:ice_crystal",
+      "netherex:coolmar_spider",
+      "twilightforest:snow_queen",
+      "netherex:frost"
+    ],
+    "player": true,
+    "item": "avatarmod:scroll:6",
+    "itemcount": "0-1/0-2/0-4"
+  },
+  {
+    "mob": [
+      "minecraft:husk",
+      "atum:assassin",
+      "atum:wraith",
+      "atum:warlord",
+      "atum:pharaoh"
+    ],
+    "player": true,
+    "item": "avatarmod:scroll:7",
+    "itemcount": "0-1/0-2/0-4"
+  },
+  {
+    "mob": [
+      "minecraft:ghast",
+      "twilightforest:tower_ghast",
+      "netherex:ghastling",
+      "twilightforest:ur_ghast",
+      "netherex:ghast_queen",
+      "extraplanets:extraplanets.evolvedghastboss",
+      "minecraft:creeper",
+      "primitivemobs:rocket_creeper",
+      "primitivemobs:support_creeper",
+      "primitivemobs:festive_creeper",
+      "enderzoo:concussioncreeper",
+      "netherex:spore_creeper",
+      "galacticraftplanets:creeper_boss",
+      "endreborn:endlord",
+      "minecraft:wither",
+      "mowziesmobs:barako"
+    ],
+    "player": true,
+    "item": "avatarmod:scroll:8",
+    "itemcount": "0-1/0-2/0-4"
+  }
 ]
