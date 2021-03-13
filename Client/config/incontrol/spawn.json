@@ -387,6 +387,87 @@
     "result": "allow"
   },
   {
+    "dimension": 17,
+    "mob": "lycanitesmobs:crusk",
+    "biome": ["atum:sand_plains", "atum:sand_dunes"],
+    "block": ["atum:sand", "atum:sand_layer"],
+    "maxcount": {
+      "amount": 3,
+      "mob": "lycanitesmobs:crusk",
+      "perplayer": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 17,
+    "mob": "lycanitesmobs:vespid",
+    "biome": "atum:limestone_mountains",
+    "block": ["atum:sand", "atum:sand_layer"],
+    "maxcount": {
+      "amount": 12,
+      "mob": "lycanitesmobs:vespid",
+      "perplayer": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 17,
+    "mob": "lycanitesmobs:sutiramu",
+    "biome": "atum:sand_plains",
+    "block": ["atum:sand", "atum:sand_layer"],
+    "maxcount": {
+      "amount": 3,
+      "mob": "lycanitesmobs:sutiramu",
+      "perplayer": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 17,
+    "mob": "lycanitesmobs:calpod",
+    "biome": "atum:dried_river",
+    "block": ["atum:limestone_cracked", "atum:limestone_gravel"],
+    "maxcount": {
+      "amount": 16,
+      "mob": "lycanitesmobs:calpod",
+      "perplayer": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 17,
+    "mob": "lycanitesmobs:cryptkeeper",
+    "block": ["atum:limestone_cracked", "atum:limestone_gravel", "atum:sand", "atum:sand_layer"],
+    "maxcount": {
+      "amount": 10,
+      "mob": "lycanitesmobs:cryptkeeper",
+      "perplayer": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 17,
+    "mob": "lycanitesmobs:archvile",
+    "block": ["atum:limestone_cracked", "atum:limestone_gravel", "atum:sand", "atum:sand_layer"],
+    "maxcount": {
+      "amount": 2,
+      "mob": "lycanitesmobs:archvile",
+      "perplayer": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 17,
+    "mob": "lycanitesmobs:afrit",
+    "block": ["atum:limestone_cracked", "atum:limestone_gravel", "atum:sand", "atum:sand_layer"],
+    "maxcount": {
+      "amount": 2,
+      "mob": "lycanitesmobs:afrit",
+      "perplayer": true
+    },
+    "result": "allow"
+  },  
+  {
     "dimension": [0, -1, 1, 7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
     "mod": "lycanitesmobs",
     "result": "deny"
@@ -404,6 +485,21 @@
   {
     "dimension": [7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
     "mod": "dragonmounts",
+    "result": "deny"
+  },
+  {
+    "dimension": 17,
+    "mod": "enderzoo",
+    "result": "deny"
+  },
+  {
+    "dimension": 17,
+    "mod": "netherex",
+    "result": "deny"
+  },
+  {
+    "dimension": 17,
+    "mod": "betteranimalsplus",
     "result": "deny"
   }
   ]

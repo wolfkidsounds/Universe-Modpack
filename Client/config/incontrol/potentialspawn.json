@@ -293,5 +293,52 @@
           "groupcountmax": 1
         }
       ]
+    },
+    {
+      "dimension": 17,
+      "mobs": [
+        {
+          "mob": "lycanitesmobs:crusk",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:vespid",
+          "weight": 1,
+          "groupcountmin": 3,
+          "groupcountmax": 12
+        },
+        {
+          "mob": "lycanitesmobs:sutiramu",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:calpod",
+          "weight": 2,
+          "groupcountmin": 8,
+          "groupcountmax": 16
+        },
+        {
+          "mob": "lycanitesmobs:cryptkeeper",
+          "weight": 4,
+          "groupcountmin": 1,
+          "groupcountmax": 2
+        },
+        {
+          "mob": "lycanitesmobs:archvile",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:afrit",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        }
+      ]
     }
 ]
