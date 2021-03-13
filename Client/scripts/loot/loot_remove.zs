@@ -10,12 +10,6 @@ import crafttweaker.oredict.IOreDictEntry;
 mods.ltt.LootTable.removeModItem("enderio");
 mods.ltt.LootTable.removeModTable("enderio");
 
-mods.ltt.LootTable.removeModItem("railcraft");
-mods.ltt.LootTable.removeModTable("railcraft");
-
-mods.ltt.LootTable.removeModItem("toughasnails");
-mods.ltt.LootTable.removeModTable("toughasnails");
-
 mods.ltt.LootTable.removeModItem("simpledifficulty");
 mods.ltt.LootTable.removeModTable("simpledifficulty");
 
