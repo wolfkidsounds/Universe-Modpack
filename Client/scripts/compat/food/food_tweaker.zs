@@ -1,10 +1,5 @@
 import crafttweaker.item.IItemStack;
-import foodtweaker.FoodInfo;
-import mods.foodtweaker.Tweaker;
-
-//setInfo variable
-var drinkInfo = FoodInfo(1, 0.0, false, true);
-
+import mods.hungertweaker.FoodValues;
 
 //food-array
 val drinks = [
@@ -125,4 +120,7 @@ val drinks = [
 ] as IItemStack[];
 
 //iterate through drinks
-for drink in drinks {Tweaker.changeFoodStats(drinks, drinkInfo);}
+for drink in drinks {
+    drink.foodValues.hunger = 0;
+    drink.foodValues.saturationModifier = 0;
+}
