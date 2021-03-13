@@ -1,15 +1,4 @@
-[ 
-  {
-    "dimension": -1501,
-    "mob": "lycanitesmobs:yeti",
-    "block": "extraplanets:europa",
-    "maxcount": {
-      "amount": 10,
-      "mob": "lycanitesmobs:yeti",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
+[
   {
     "dimension": -1501,
     "mob": "lycanitesmobs:geonach",
@@ -17,7 +6,7 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:geonach",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -28,7 +17,7 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:strider",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -39,7 +28,7 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:roa",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -50,35 +39,7 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:lacedon",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
-
-
-
-
-
-
-  {
-    "dimension": -18,
-    "mob": "lycanitesmobs:ventoraptor",
-    "block": "extraplanets:neptune",
-    "maxcount": {
-      "amount": 10,
-      "mob": "lycanitesmobs:ventoraptor",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": -18,
-    "mob": "dragonmounts:summon_moonlight",
-    "block": "extraplanets:neptune",
-    "maxcount": {
-      "amount": 1,
-      "mob": "dragonmounts:summon_moonlight",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -89,18 +50,7 @@
     "maxcount": {
       "amount": 4,
       "mob": "lycanitesmobs:jengu",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": -18,
-    "mob": "lycanitesmobs:serpix",
-    "block": "extraplanets:neptune",
-    "maxcount": {
-      "amount": 2,
-      "mob": "lycanitesmobs:serpix",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -111,19 +61,10 @@
     "maxcount": {
       "amount": 1,
       "mob": "lycanitesmobs:wendigo",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
-
-
-
-
-
-
-
-
-
   {
     "dimension": -13,
     "mob": "lycanitesmobs:wisp",
@@ -131,18 +72,7 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:wisp",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": -13,
-    "mob": "lycanitesmobs:djinn",
-    "block": "extraplanets:mercury",
-    "maxcount": {
-      "amount": 10,
-      "mob": "lycanitesmobs:djinn",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -153,46 +83,32 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:tremor",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
-
-
-
-
-
-
-
   {
     "dimension": -20,
     "mob": "lycanitesmobs:maug",
-    "block": ["extraplanets:ceres:0", "extraplanets:ceres:1", "extraplanets:ceres:2"],
+    "block": "extraplanets:ceres",
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:maug",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
   {
     "dimension": -20,
     "mob": "lycanitesmobs:yale",
-    "block": ["extraplanets:ceres:0", "extraplanets:ceres:1", "extraplanets:ceres:2"],
+    "block": "extraplanets:ceres",
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:yale",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
-
-
-
-
-
-
-
   {
     "dimension": -15,
     "mob": "lycanitesmobs:cinder",
@@ -200,7 +116,7 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:cinder",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -211,7 +127,7 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:volcan",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -222,7 +138,7 @@
     "maxcount": {
       "amount": 2,
       "mob": "lycanitesmobs:khalk",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -233,7 +149,7 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:lobber",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -244,7 +160,7 @@
     "maxcount": {
       "amount": 3,
       "mob": "lycanitesmobs:sutiramu",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -255,7 +171,7 @@
     "maxcount": {
       "amount": 30,
       "mob": "lycanitesmobs:joust",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -267,7 +183,7 @@
     "maxcount": {
       "amount": 30,
       "mob": "lycanitesmobs:gorgomite",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -278,41 +194,18 @@
     "maxcount": {
       "amount": 5,
       "mob": "lycanitesmobs:crusk",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
-  
-
-
-
-
-
-
-
-
-
-
-
-  {
-    "dimension": -16,
-    "mob": "lycanitesmobs:geonach",
-    "block": "extraplanets:saturn:10",
-    "maxcount": {
-      "amount": 10,
-      "mob": "lycanitesmobs:geonach",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
   {
     "dimension": -16,
     "mob": "lycanitesmobs:geist",
-    "block": "extraplanets:saturn:10",
+    "block": "extraplanets:saturn",
     "maxcount": {
       "amount": 4,
       "mob": "lycanitesmobs:geist",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -324,7 +217,7 @@
     "maxcount": {
       "amount": 20,
       "mob": "lycanitesmobs:chupacabra",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -335,41 +228,21 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:maka",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
   {
     "dimension": -16,
     "mob": "lycanitesmobs:morock",
-    "block": "extraplanets:saturn:10",
+    "block": "extraplanets:saturn",
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:morock",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
-  {
-    "dimension": -16,
-    "mob": "lycanitesmobs:tremor",
-    "block": "extraplanets:saturn:10",
-    "maxcount": {
-      "amount": 10,
-      "mob": "lycanitesmobs:tremor",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
-
-
-
-
-
-
-
-
-
   {
     "dimension": -17,
     "mob": "lycanitesmobs:reiver",
@@ -377,18 +250,18 @@
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:reiver",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
   {
     "dimension": -17,
     "mob": "lycanitesmobs:djinn",
-    "block": "extraplanets:uranus:0",
+    "block": "extraplanets:uranus",
     "maxcount": {
       "amount": 10,
       "mob": "lycanitesmobs:djinn",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -399,7 +272,7 @@
     "maxcount": {
       "amount": 30,
       "mob": "lycanitesmobs:frostweaver",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -410,7 +283,7 @@
     "maxcount": {
       "amount": 5,
       "mob": "lycanitesmobs:serpix",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -421,7 +294,7 @@
     "maxcount": {
       "amount": 5,
       "mob": "lycanitesmobs:sylph",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -432,18 +305,7 @@
     "maxcount": {
       "amount": 30,
       "mob": "lycanitesmobs:aegis",
-      "perplayer":true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": -17,
-    "mob": "lycanitesmobs:wendigo",
-    "block": "extraplanets:uranus:2",
-    "maxcount": {
-      "amount": 5,
-      "mob": "lycanitesmobs:wendigo",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -454,7 +316,7 @@
     "maxcount": {
       "amount": 5,
       "mob": "lycanitesmobs:arix",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
@@ -465,92 +327,83 @@
     "maxcount": {
       "amount": 50,
       "mob": "lycanitesmobs:yeti",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
   {
     "dimension": -17,
     "mob": "lycanitesmobs:ventoraptor",
-    "block": "extraplanets:uranus:0",
+    "block": "extraplanets:uranus",
     "maxcount": {
       "amount": 2,
       "mob": "lycanitesmobs:ventoraptor",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "dimension": -21,
     "mob": "matteroverdrive:ranged_rogue_android",
-    "block": "extraplanets:eris:0",
+    "block": "extraplanets:eris",
     "maxcount": {
-      "amount": 50,
+      "amount": 30,
       "mob": "matteroverdrive:ranged_rogue_android",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
   {
     "dimension": -21,
     "mob": "matteroverdrive:rogue_android",
-    "block": "extraplanets:eris:0",
+    "block": "extraplanets:eris",
     "maxcount": {
       "amount": 50,
       "mob": "matteroverdrive:rogue_android",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
   {
     "dimension": -21,
     "mob": "deepmoblearning:glitch",
-    "block": "extraplanets:eris:0",
+    "block": "extraplanets:eris",
     "maxcount": {
-      "amount": 5,
+      "amount": 3,
       "mob": "deepmoblearning:glitch",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
   {
     "dimension": -21,
     "mob": "matteroverdrive:mutant_scientist",
-    "block": "extraplanets:eris:0",
+    "block": "extraplanets:eris",
     "maxcount": {
       "amount": 1,
       "mob": "matteroverdrive:mutant_scientist",
-      "perplayer":true
+      "perplayer": true
     },
     "result": "allow"
   },
-
-
-
-
-
-
-
   {
-    "dimension": [0,-1,1,-1,7,17,-30,-20,-21,-15,-29,-13,-18,-19,-16,-17,-31,-1505,-1503,-1506,-1511,-1500,-28,-1509,-1502,-1507,-1508,-1510,-1504],
+    "dimension": [0, -1, 1, 7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
     "mod": "lycanitesmobs",
     "result": "deny"
   },
   {
-    "dimension": -6,
+    "dimension": -21,
+    "mod": "matteroverdrive",
+    "result": "deny"
+  },
+  {
+    "dimension": -21,
+    "mod": "deepmoblearning",
+    "result": "deny"
+  },
+  {
+    "dimension": [7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
+    "mod": "dragonmounts",
     "result": "deny"
   }
-]
+  ]

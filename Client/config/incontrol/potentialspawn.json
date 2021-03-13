@@ -47,12 +47,6 @@
           "groupcountmax": 4
         },
         {
-          "mob": "dragonmounts:summon_moonlight",
-          "weight": 1,
-          "groupcountmin": 1,
-          "groupcountmax": 1
-        },
-        {
           "mob": "lycanitesmobs:jengu",
           "weight": 3,
           "groupcountmin": 1,
@@ -277,14 +271,14 @@
         {
           "mob": "matteroverdrive:ranged_rogue_android",
           "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 15
+          "groupcountmin": 4,
+          "groupcountmax": 10
         },
         {
           "mob": "matteroverdrive:rogue_android",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 15
+          "weight": 6,
+          "groupcountmin": 8,
+          "groupcountmax": 20
         },
         {
           "mob": "deepmoblearning:glitch",
