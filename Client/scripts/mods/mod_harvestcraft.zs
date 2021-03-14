@@ -28,5 +28,5 @@ import crafttweaker.item.IItemStack;
       [<ore:stickWood>,<ore:string>,<ore:stickWood>]]);
     
     //OreDictedMilk
-        recipes.addShapeless(<harvestcraft:freshmilkitem> * 8, [<ore:listAllmilk>]);
+        recipes.addShapeless(<harvestcraft:freshmilkitem>, [<ore:listAllmilk>]);
 //----------------------------------------------------------------
