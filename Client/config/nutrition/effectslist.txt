@@ -1,4 +1,0 @@
-minecraft:speed //speed
-minecraft:resistance //Reduce Damage
-nutrition:toughness //+ two hearts, armor toughness, attack speed
-nutrition:nourished //+ half heart
