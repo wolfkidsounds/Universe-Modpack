@@ -28,8 +28,7 @@ import crafttweaker.entity.IEntityDefinition;
             ] as IEntityDefinition[];
 
         val fireMobHighest = [
-                <entity:twilightforest:hydra>,
-                <entity:extraplanets:extraplanets.evolvedfirebatboss>
+                <entity:twilightforest:hydra>
             ] as IEntityDefinition[];
 //---------------------------------------------------------------------------
 //Scrolls

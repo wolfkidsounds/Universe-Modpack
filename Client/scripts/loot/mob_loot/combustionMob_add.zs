@@ -22,7 +22,6 @@ import crafttweaker.entity.IEntityDefinition;
             ] as IEntityDefinition[];
 
         val combustionMobHighest = [
-                <entity:extraplanets:extraplanets.evolvedghastboss>,
                 <entity:minecraft:wither>,
                 <entity:twilightforest:ur_ghast>,
                 <entity:netherex:ghast_queen>
