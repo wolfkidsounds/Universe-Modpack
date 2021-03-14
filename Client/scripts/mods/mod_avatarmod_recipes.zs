@@ -148,21 +148,6 @@ import crafttweaker.liquid.ILiquidStack;
                         [<ore:peltWolf>, <ore:dyeWhite>, <ore:peltWolf>],
                         [<ore:peltWolf>, <ore:dyeWhite>, <ore:peltWolf>]]);
 //---------------------------------------------------------------
-//REPLACE ALL OCCURENCE ITEMS
-
-//replaces items in recipes
-        //replace "metal ingot" with "dark steel"
-                //recipes.replaceAllOccurences(<am:metal_ingot>, <enderio:item_alloy_ingot:6>);
-
-        //replace "metal ingot" with "dark steel"
-                //recipes.replaceAllOccurences(<am:metal_block>, <enderio:block_alloy:6>);
-        
-        //replace "coppper" with "mekanism copper"
-                //recipes.replaceAllOccurences(<am:copper_ingot>, <mekanism:ingot:5>);
-
-        //replace "silver" with "railcraft sillver"
-                //recipes.replaceAllOccurences(<am:silver_ingot>, <railcraft:ingot:4>);
-//---------------------------------------------------------------
 //RENAMING ITEMS
         //Water Skin
                 <avatarmod:water_pouch:*>.displayName = "Waterbending Pouch";

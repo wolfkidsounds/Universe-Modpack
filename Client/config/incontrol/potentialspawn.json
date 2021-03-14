@@ -1,156 +1,170 @@
 [
     {
-      "dimension": -28,
-      "mobs": [
-        {
-            "mob": "galacticraftcore:evolved_zombie",
-            "weight": 10,
-            "groupcountmin": 1,
-            "groupcountmax": 10
-        }
-        ]
+      "remove": ["avatarmod:firebender", "avatarmod:airbender", "galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton", "galacticraftcore:evolved_enderman", "galacticraftcore:evolved_spider"]
     },
     {
-      "dimension": -11001,
+      "dimension": -1501,
       "mobs": [
         {
-            "mob": "lycanitesmobs:strider",
-            "weight": 10,
-            "groupcountmin": 1,
-            "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:roa",
-          "weight": 10,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:lacedon",
-          "weight": 10,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
           "mob": "lycanitesmobs:yeti",
-          "weight": 10,
+          "weight": 2,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 3
+        },
+        {
+          "mob": "lycanitesmobs:strider",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 5
         },
         {
           "mob": "lycanitesmobs:geonach",
-          "weight": 10,
+          "weight": 3,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:roa",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 2
+        },
+        {
+          "mob": "lycanitesmobs:lacedon",
+          "weight": 1,
           "groupcountmin": 1,
           "groupcountmax": 10
         }
-        ]
+      ]
     },
     {
       "dimension": -18,
       "mobs": [
         {
-            "mob": "lycanitesmobs:ventoraptor",
-            "weight": 10,
-            "groupcountmin": 1,
-            "groupcountmax": 10
+          "mob": "lycanitesmobs:ventoraptor",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 4
         },
         {
           "mob": "lycanitesmobs:jengu",
-          "weight": 10,
+          "weight": 3,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 3
         },
         {
           "mob": "lycanitesmobs:serpix",
-          "weight": 10,
+          "weight": 1,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 1
         },
         {
           "mob": "lycanitesmobs:wendigo",
-          "weight": 10,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "dragonmounts:summon_moonlight",
           "weight": 1,
           "groupcountmin": 1,
-          "groupcountmax": 1,
-          "minspawndist": 1000
+          "groupcountmax": 1
         }
-        ]
-    },
-    {
-      "dimension": 17,
-      "mobs": [
-        {
-            "mob": "lycanitesmobs:cryptkeeper",
-            "weight": 2,
-            "groupcountmin": 1,
-            "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:archvile",
-          "weight": 1,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        }
-        ]
+      ]
     },
     {
       "dimension": -13,
       "mobs": [
         {
-            "mob": "lycanitesmobs:wisp",
-            "weight": 5,
-            "groupcountmin": 1,
-            "groupcountmax": 10
+          "mob": "lycanitesmobs:wisp",
+          "weight": 4,
+          "groupcountmin": 1,
+          "groupcountmax": 10
         },
         {
           "mob": "lycanitesmobs:djinn",
-          "weight": 5,
+          "weight": 4,
           "groupcountmin": 1,
           "groupcountmax": 10
         },
         {
           "mob": "lycanitesmobs:tremor",
-          "weight": 5,
+          "weight": 4,
           "groupcountmin": 1,
           "groupcountmax": 10
         }
-        ]
+      ]
     },
     {
-      "dimension": -31,
+      "dimension": -20,
       "mobs": [
         {
-            "mob": "lycanitesmobs:trite",
-            "weight": 5,
-            "groupcountmin": 1,
-            "groupcountmax": 10
+          "mob": "lycanitesmobs:maug",
+          "weight": 3,
+          "groupcountmin": 1,
+          "groupcountmax": 3
         },
         {
-          "mob": "lycanitesmobs:erepede",
-          "weight": 5,
+          "mob": "lycanitesmobs:yale",
+          "weight": 3,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 3
+        }
+      ]
+    },
+    {
+      "dimension": -15,
+      "mobs": [
+        {
+          "mob": "lycanitesmobs:cinder",
+          "weight": 3,
+          "groupcountmin": 1,
+          "groupcountmax": 5
         },
         {
-          "mob": "lycanitesmobs:geonach",
-          "weight": 5,
+          "mob": "lycanitesmobs:volcan",
+          "weight": 3,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 5
         },
         {
-          "mob": "lycanitesmobs:calpod",
-          "weight": 5,
+          "mob": "lycanitesmobs:khalk",
+          "weight": 2,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:lobber",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 1
         },
         {
           "mob": "lycanitesmobs:sutiramu",
-          "weight": 5,
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:joust",
+          "weight": 1,
+          "groupcountmin": 5,
+          "groupcountmax": 15
+        },
+        {
+          "mob": "lycanitesmobs:gorgomite",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 20
+        },
+        {
+          "mob": "lycanitesmobs:crusk",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 2
+        }
+      ]
+    },
+    {
+      "dimension": -16,
+      "mobs": [
+        {
+          "mob": "lycanitesmobs:geonach",
+          "weight": 4,
           "groupcountmin": 1,
           "groupcountmax": 10
         },
@@ -158,80 +172,173 @@
           "mob": "lycanitesmobs:geist",
           "weight": 5,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 5
         },
         {
-          "mob": "lycanitesmobs:joust",
-          "weight": 5,
+          "mob": "lycanitesmobs:chupacabra",
+          "weight": 2,
           "groupcountmin": 1,
           "groupcountmax": 10
         },
         {
-          "mob": "lycanitesmobs:gorgomite",
-          "weight": 5,
+          "mob": "lycanitesmobs:maka",
+          "weight": 1,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 5
+        },
+        {
+          "mob": "lycanitesmobs:morock",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 5
+        },
+        {
+          "mob": "lycanitesmobs:tremor",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 5
         }
-        ]
+      ]
     },
     {
-      "dimension": -29,
+      "dimension": -17,
       "mobs": [
         {
-            "mob": "lycanitesmobs:warg",
-            "weight": 5,
-            "groupcountmin": 1,
-            "groupcountmax": 10
+          "mob": "lycanitesmobs:reiver",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
         },
         {
-          "mob": "lycanitesmobs:makaalpha",
-          "weight": 5,
+          "mob": "lycanitesmobs:djinn",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:frostweaver",
+          "weight": 2,
           "groupcountmin": 1,
           "groupcountmax": 10
+        },
+        {
+          "mob": "lycanitesmobs:serpix",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:sylph",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:aegis",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:wendigo",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:arix",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:yeti",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 15
+        },
+        {
+          "mob": "lycanitesmobs:ventoraptor",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        }
+      ]
+    },
+    {
+      "dimension": -21,
+      "mobs": [
+        {
+          "mob": "matteroverdrive:ranged_rogue_android",
+          "weight": 5,
+          "groupcountmin": 4,
+          "groupcountmax": 10
+        },
+        {
+          "mob": "matteroverdrive:rogue_android",
+          "weight": 6,
+          "groupcountmin": 8,
+          "groupcountmax": 20
+        },
+        {
+          "mob": "deepmoblearning:glitch",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "matteroverdrive:mutant_scientist",
+          "weight": 1,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        }
+      ]
+    },
+    {
+      "dimension": 17,
+      "mobs": [
+        {
+          "mob": "lycanitesmobs:crusk",
+          "weight": 2,
+          "groupcountmin": 1,
+          "groupcountmax": 1
+        },
+        {
+          "mob": "lycanitesmobs:vespid",
+          "weight": 1,
+          "groupcountmin": 3,
+          "groupcountmax": 12
         },
         {
           "mob": "lycanitesmobs:sutiramu",
-          "weight": 5,
+          "weight": 1,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 1
         },
         {
           "mob": "lycanitesmobs:calpod",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
+          "weight": 2,
+          "groupcountmin": 8,
+          "groupcountmax": 16
         },
         {
-          "mob": "lycanitesmobs:joust",
-          "weight": 5,
+          "mob": "lycanitesmobs:cryptkeeper",
+          "weight": 4,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 2
         },
         {
-          "mob": "lycanitesmobs:gorgomite",
-          "weight": 5,
+          "mob": "lycanitesmobs:archvile",
+          "weight": 1,
           "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 1
         },
         {
-          "mob": "lycanitesmobs:clink",
-          "weight": 5,
+          "mob": "lycanitesmobs:afrit",
+          "weight": 1,
           "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:crusk",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
-        },
-        {
-          "mob": "lycanitesmobs:belph",
-          "weight": 5,
-          "groupcountmin": 1,
-          "groupcountmax": 10
+          "groupcountmax": 1
         }
-        ]
+      ]
     }
 ]
-

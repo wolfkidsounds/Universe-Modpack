@@ -1,0 +1,42 @@
+# Error Reports
+
+This file contains errors that were found with the pack. If there are no errors
+listed below, none were detected. This data is anonymous, and is not
+automatically submitted to any online service.
+
+# Recipes with Air
+
+If a recipe has air in it as an ingredient or output it can cause many issues
+such as crashes and uncraftable recipes.
+
+Recipe: antiqueatlas:atlas_clone Class: public class hunternif.mc.atlas.item.RecipeAtlasCloning
+Recipe: antiqueatlas:atlas_combine Class: public class hunternif.mc.atlas.item.RecipeAtlasCombining
+Recipe: akashictome:attachment Class: public class vazkii.akashictome.AttachementRecipe
+Recipe: netherex:dull_mirror Class: public class logictechcorp.libraryex.item.crafting.RecipeRepairItemMod
+Recipe: railcraft:cart_furnace_recipe Class: public static class mods.railcraft.common.util.crafting.CartDisassemblyRecipe$RailcraftVariant
+Recipe: railcraft:prototype Class: public class mods.railcraft.common.util.crafting.PrototypeRecipe
+Recipe: railcraft:cart_work_recipe Class: public static class mods.railcraft.common.util.crafting.CartDisassemblyRecipe$RailcraftVariant# Enchantment Descriptions
+
+Many mods have systems for showing descriptions for enchantments. Adding
+translations for these can improve mod compatibility.
+
+Enchant: railcraft:wrecking Translation Key: enchantment.railcraft.wrecking.desc
+Enchant: railcraft:implosion Translation Key: enchantment.railcraft.implosion.desc
+Enchant: railcraft:destruction Translation Key: enchantment.railcraft.destruction.desc
+Enchant: railcraft:smack Translation Key: enchantment.railcraft.smack.desc
+Enchant: bibliocraft:bibliocraft.deathcompassench Translation Key: enchantment.bibliocraft.bibliocraft.deathcompassench.desc
+Enchant: bibliocraft:bibliocraft.readingench Translation Key: enchantment.bibliocraft.bibliocraft.readingench.desc
+Enchant: enderio:shimmer Translation Key: enchantment.enderio.shimmer.desc
+Enchant: enderio:repellent Translation Key: enchantment.enderio.repellent.desc
+Enchant: enderio:soulbound Translation Key: enchantment.enderio.soulbound.desc
+Enchant: enderio:witherweapon Translation Key: enchantment.enderio.witherweapon.desc
+Enchant: enderio:witherarrow Translation Key: enchantment.enderio.witherarrow.desc
+Enchant: endreborn:ender_core Translation Key: enchantment.endreborn.ender_core.desc
+Enchant: endreborn:ender_killer Translation Key: enchantment.endreborn.ender_killer.desc
+Enchant: endreborn:shulker_core Translation Key: enchantment.endreborn.shulker_core.desc
+Enchant: matteroverdrive:overclock Translation Key: enchantment.matteroverdrive.overclock.desc
+Enchant: walljump:walljump Translation Key: enchantment.walljump.walljump.desc
+Enchant: walljump:doublejump Translation Key: enchantment.walljump.doublejump.desc
+Enchant: walljump:speedboost Translation Key: enchantment.walljump.speedboost.desc
+Enchant: enderzoo:witherarrow Translation Key: enchantment.enderzoo.witherarrow.desc
+Enchant: enderzoo:witherweapon Translation Key: enchantment.enderzoo.witherweapon.desc
