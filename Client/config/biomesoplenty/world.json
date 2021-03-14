@@ -7,7 +7,7 @@
 "generateBopOre": true,
 "generateBopSoils": true,
 "generateBopTrees": true,
-"generateBopGrasses": true,
+"generateBopGrasses": false,
 "generateBopFoliage": true,
 "generateBopFlowers": true,
 "generateBopPlants": true,
