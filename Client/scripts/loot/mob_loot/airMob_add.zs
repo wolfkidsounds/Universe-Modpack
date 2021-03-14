@@ -17,7 +17,6 @@ import crafttweaker.entity.IEntityDefinition;
                     <entity:twilightforest:mosquito_swarm>,
                     <entity:betteranimalsplus:lammergeier>,
                     <entity:betteranimalsplus:zotzpyre>,
-                    <entity:avatarmod:skybison>,
                     <entity:primitivemobs:bewitched_tome>,
                     <entity:twilightforest:death_tome>
                 ] as IEntityDefinition[];

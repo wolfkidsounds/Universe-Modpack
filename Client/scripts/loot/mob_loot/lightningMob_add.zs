@@ -12,7 +12,6 @@ import crafttweaker.entity.IEntityDefinition;
                     <entity:netherex:coolmar_spider>,
                     <entity:atum:sunspeaker>,
                     <entity:netherex:frost>
-
                 ] as IEntityDefinition[];
 //---------------------------------------------------------------------------
 

@@ -19,7 +19,6 @@ import crafttweaker.entity.IEntityDefinition;
                 ] as IEntityDefinition[];
 
             val combustionMobHigh = [
-                    <entity:galacticraftplanets:creeper_boss>,
                     <entity:endreborn:endlord>,
                     <entity:mowziesmobs:barako>
                 ] as IEntityDefinition[];

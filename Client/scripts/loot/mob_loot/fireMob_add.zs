@@ -8,7 +8,6 @@ import crafttweaker.entity.IEntityDefinition;
 //Fire
             val fireMobLow = [
                     <entity:minecraft:magma_cube>,
-                    <entity:extraplanets:extraplanets.evolvedancientmagmacube>,
                     <entity:quark:ashen>,
                     <entity:quark:foxhound>,
                     <entity:netherendingores:netherfish>,

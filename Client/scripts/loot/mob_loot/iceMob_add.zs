@@ -23,8 +23,6 @@ import crafttweaker.entity.IEntityDefinition;
                 ] as IEntityDefinition[];
 
             val iceMobHighest = [
-                    <entity:extraplanets:extraplanets.evolvedsnowmanboss>,
-                    <entity:extraplanets:extraplanets.evolvediceslimeboss>,
                     <entity:twilightforest:snow_queen>
                 ] as IEntityDefinition[];
 //---------------------------------------------------------------------------

@@ -28,8 +28,7 @@ import crafttweaker.entity.IEntityDefinition;
                 ] as IEntityDefinition[];
 
             val waterMobHigh = [
-                    <entity:minecraft:elder_guardian>,
-                    <entity:extraplanets:extraplanets.evolvedsnowmanboss>,
+                    <entity:minecraft:elder_guardian>
                 ] as IEntityDefinition[];
 
             val waterMobHighest = [
