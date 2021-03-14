@@ -37,14 +37,14 @@ import crafttweaker.entity.IEntityDefinition;
         var earthScroll = <avatarmod:scroll:1>; //Earth Bending Scroll
 //---------------------------------------------------------------------------
 //DropChance
-        var chanceHighest = 100;
-        var chanceHigh = 60;
-        var chanceNormal = 20;
-        var chanceLow = 5;
+        var chanceHighest = 80;
+        var chanceHigh = 50;
+        var chanceNormal = 10;
+        var chanceLow = 1;
 //---------------------------------------------------------------------------
 //DropAmount
-        var amountBoss = 2;
-        var amountBossMax = 3;
+        var amountBoss = 1;
+        var amountBossMax = 2;
         var amountNormal = 1;
         var amountNormalMax = 1;
 //---------------------------------------------------------------------------

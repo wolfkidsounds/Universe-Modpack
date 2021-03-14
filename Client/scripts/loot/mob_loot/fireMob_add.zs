@@ -25,8 +25,6 @@ import crafttweaker.entity.IEntityDefinition;
                 ] as IEntityDefinition[];
 
             val fireMobHigh = [
-                    <entity:mowziesmobs:barako>,
-                    <entity:extraplanets:extraplanets.evolvedmagmacubeboss>,
                     <entity:betteranimalsplus:hirschgeist>
                 ] as IEntityDefinition[];
 
@@ -40,14 +38,14 @@ import crafttweaker.entity.IEntityDefinition;
         var fireScroll = <avatarmod:scroll:2>; //Fire Bending Scroll
 //---------------------------------------------------------------------------
 //DropChance
-        var chanceHighest = 100;
-        var chanceHigh = 60;
-        var chanceNormal = 20;
-        var chanceLow = 5;
+        var chanceHighest = 80;
+        var chanceHigh = 50;
+        var chanceNormal = 10;
+        var chanceLow = 1;
 //---------------------------------------------------------------------------
 //DropAmount
-        var amountBoss = 2;
-        var amountBossMax = 3;
+        var amountBoss = 1;
+        var amountBossMax = 2;
         var amountNormal = 1;
         var amountNormalMax = 1;
 //---------------------------------------------------------------------------
