@@ -13,6 +13,8 @@ val removeAndHide = [
 ] as IItemStack[];
 
     for item in removeAndHide {mods.jei.JEI.removeAndHide(item);}
+//-------------------------------------------------------------------   
+
 
 //Recipe Removal
     //FreshWater-Types
@@ -31,10 +33,16 @@ val removeAndHide = [
         recipes.remove(<minecraft:mushroom_stew>);
         recipes.remove(<minecraft:rabbit_stew>);
 
+    //Milk
+        recipes.removeShapeless(<minecraft:milk_bucket>);
+//-------------------------------------------------------------------        
+
+
 //Recipe Adding
     recipes.addShapeless(<minecraft:stone>, [<minecraft:stone_slab>,<minecraft:stone_slab>]); //Shapeless Stone
     recipes.addShapeless(<minecraft:mushroom_stew>, [<harvestcraft:potitem>, <ore:mushroomAny>, <ore:mushroomAny>]); //Shapeless Stew
     recipes.addShapeless(<minecraft:mushroom_stew>, [<harvestcraft:potitem>, <ore:mushroomAny>, <ore:mushroomAny>]); //Shapeless Stew
+//-------------------------------------------------------------------   
 
 
 //Tooltips
