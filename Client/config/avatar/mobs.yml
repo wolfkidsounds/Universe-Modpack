@@ -1,7 +1,7 @@
 IGNORE_CONFIG_FILE: false
 
-bisonBreedMaxMinutes: 120.0
-bisonBreedMinMinutes: 60.0
+bisonBreedMaxMinutes: 400.0
+bisonBreedMinMinutes: 120.0
 bisonChestTameness: 1000
 bisonFoods:
   minecraft:sugar: 2
@@ -25,51 +25,7 @@ bisonMinDomestication: 500
 bisonOwnableTameness: 900
 bisonRideOneSecondTameness: 3
 bisonRiderTameness: 800
-maxNumberOfBenders: 3
+maxNumberOfBenders: 0
 scrollDropChance:
-  zombie_pigman: 1.0
-  chicken: 1.0
-  stray: 1.0
-  wither_skeleton: 1.0
-  elder_guardian: 1.0
-  magma_cube: 1.0
-  polar_bear: 1.0
-  skeleton: 1.0
-  bat: 1.0
-  husk: 1.0
-  blaze: 1.0
-  mooshroom: 1.0
-  cave_spider: 1.0
-  silverfish: 1.0
-  zombie: 1.0
-  witch: 1.0
-  squid: 1.0
-  guardian: 1.0
-  ghast: 1.0
-  parrot: 1.0
-  spider: 1.0
-  sheep: 1.0
-  creeper: 1.0
-  enderman: 1.0
 scrollTradeItems:
-  minecraft:gold_ingot: 1
-  minecraft:emerald: 1
-  minecraft:diamond: 1
 scrollType:
-  zombie_pigman: fire
-  stray: ice
-  wither_skeleton: fire
-  elder_guardian: water
-  magma_cube: fire
-  polar_bear: water
-  skeleton: earth
-  bat: air
-  husk: sand
-  blaze: fire
-  cave_spider: earth
-  silverfish: earth
-  zombie: earth
-  guardian: water
-  ghast: fire
-  spider: earth
-  creeper: combustion
