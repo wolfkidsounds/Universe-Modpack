@@ -658,7 +658,7 @@
     "canspawnhere":"default",
     "mintime": 13000,
     "maxcount": {
-      "amount": 8,      
+      "amount": 4,      
       "mob": "minecraft:spider",
       "perplayer": true
     },
@@ -675,7 +675,7 @@
     "canspawnhere":"default",
     "mintime": 13000,
     "maxcount": {
-      "amount": 4,      
+      "amount": 2,      
       "mob": "minecraft:skeleton",
       "perplayer": true
     },
@@ -931,6 +931,23 @@
   {
     "dimension": 0,
     "mob": "enderzoo:fallenknight",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "mekanism:babyskeleton",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,      
+      "mob": "mekanism:babyskeleton",
+      "perplayer": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "mekanism:babyskeleton",
     "result": "deny"
   },
   {
