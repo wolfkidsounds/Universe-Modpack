@@ -23,7 +23,7 @@ import crafttweaker.liquid.ILiquidStack;
 
 //UNIVERSEMOD
     //FLINTBLOCK
-        recipes.addShaped(<universmod:flintblock>, [
+        recipes.addShaped(<universemod:flintblock>, [
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>],
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>],
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>]]);
