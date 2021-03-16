@@ -1,8 +1,5 @@
 [
     {
-      "remove": ["betteranimalsplus:crab","avatarmod:firebender", "avatarmod:airbender", "galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton", "galacticraftcore:evolved_enderman", "galacticraftcore:evolved_spider"]
-    },
-    {
       "dimension": -1501,
       "mobs": [
         {
@@ -340,5 +337,8 @@
           "groupcountmax": 1
         }
       ]
+    },
+    {
+      "remove": ["betteranimalsplus:crab", "avatarmod:firebender", "avatarmod:airbender", "galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton", "galacticraftcore:evolved_enderman", "galacticraftcore:evolved_spider"]
     }
 ]
