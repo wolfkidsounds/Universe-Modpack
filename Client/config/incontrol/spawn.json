@@ -450,7 +450,6 @@
     "mob": "lycanitesmobs:vespid",
     "biome": "atum:limestone_mountains",
     "block": ["atum:sand", "atum:sand_layer"],
-    "canspawnhere":"default",
     "maxcount": {
       "amount": 1,      
       "mob": "lycanitesmobs:vespid",
@@ -463,7 +462,6 @@
     "mob": "lycanitesmobs:sutiramu",
     "biome": "atum:sand_plains",
     "block": ["atum:sand", "atum:sand_layer"],
-    "canspawnhere":"default",
     "mintime": 13000,
     "maxcount": {
       "amount": 1,      
@@ -474,98 +472,11 @@
   },
   {
     "dimension": 17,
-    "mob": "lycanitesmobs:calpod",
-    "biome": "atum:dried_river",
-    "block": ["atum:limestone_cracked", "atum:limestone_gravel"],
-    "canspawnhere":"default",
-    "maxcount": {
-      "amount": 1,      
-      "mob": "lycanitesmobs:calpod",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 17,
     "mob": "lycanitesmobs:cryptkeeper",
     "block": ["atum:limestone_cracked", "atum:limestone_gravel", "atum:sand", "atum:sand_layer"],
-    "canspawnhere":"default",
     "maxcount": {
       "amount": 1,      
       "mob": "lycanitesmobs:cryptkeeper",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 17,
-    "mob": "lycanitesmobs:archvile",
-    "biome": "atum:dried_river",
-    "block": ["atum:limestone_cracked", "atum:limestone_gravel", "atum:sand", "atum:sand_layer"],
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 1,      
-      "mob": "lycanitesmobs:archvile",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 17,
-    "mob": "lycanitesmobs:afrit",
-    "block": ["atum:limestone_cracked", "atum:limestone_gravel", "atum:sand", "atum:sand_layer"],
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 1,      
-      "mob": "lycanitesmobs:afrit",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 17,
-    "mob": "atum:mummy",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 1,      
-      "mob": "atum:mummy",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 17,
-    "mob": "atum:forsaken",
-    "canspawnhere":"default",
-    "maxcount": {
-      "amount": 1,      
-      "mob": "atum:forsaken",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 17,
-    "mob": "atum:bonestorm",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 1,      
-      "mob": "atum:bonestorm",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 17,
-    "mob": "atum:wraith",
-    "canspawnhere":"default",
-    "maxcount": {
-      "amount": 1,      
-      "mob": "atum:wraith",
       "perplayer": true
     },
     "result": "allow"
@@ -1040,6 +951,16 @@
   {
     "dimension": 17,
     "mod": "eyesinthedarkness",
+    "result": "deny"
+  },
+  {
+    "dimension": 17,
+    "mod": "tconstruct",
+    "result": "deny"
+  },
+  {
+    "dimension": [7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
+    "mod": "avatarmod",
     "result": "deny"
   }
   ]
