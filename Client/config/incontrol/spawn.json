@@ -590,6 +590,7 @@
   {
     "dimension": 0,
     "mob": "primitivemobs:traveling_merchant",
+    "seesky": true,
     "canspawnhere":"default",
     "maxcount": {
       "amount": 5,      
@@ -606,6 +607,7 @@
   {
     "dimension": 0,
     "mob": "betteranimalsplus:goose",
+    "seesky": true,
     "canspawnhere":"default",
     "maxcount": {
       "amount": 14,      
@@ -753,6 +755,22 @@
   },
   {
     "dimension": 0,
+    "mob": "betteranimalsplus:eel_freshwater",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 2,      
+      "mob": "betteranimalsplus:eel_freshwater",
+      "perplayer": true
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:eel_freshwater",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
     "mob": "betteranimalsplus:jellyfish",
     "canspawnhere":"default",
     "maxcount": {
@@ -837,6 +855,7 @@
     "mob": "primitivemobs:treasure_slime",
     "biome":["minecraft:swampland", "minecraft:mutated_swampland", "biomesoplenty:lush_swamp", "twilightforest:twilight_swamp"],
     "canspawnhere":"default",
+    "seesky": false,
     "maxcount": {
       "amount": 1,      
       "mob": "primitivemobs:treasure_slime",
@@ -955,8 +974,9 @@
     "dimension": 0,
     "mob": "minecraft:pig",
     "block": ["minecraft:grass", "biomesoplenty:grass:2", "biomesoplenty:grass:3", "biomesoplenty:grass:4", "biomesoplenty:grass:5", "biomesoplenty:grass:7"],
+    "seesky": true,
     "maxcount": {
-      "amount": 25,      
+      "amount": 15,      
       "mob": "minecraft:pig"
     },
     "result": "allow"
@@ -970,6 +990,7 @@
     "dimension": 0,
     "mob": "minecraft:sheep",
     "block": ["minecraft:grass", "biomesoplenty:grass:2", "biomesoplenty:grass:3", "biomesoplenty:grass:4", "biomesoplenty:grass:5", "biomesoplenty:grass:7"],
+    "seesky": true,
     "maxcount": {
       "amount": 25,      
       "mob": "minecraft:sheep"
