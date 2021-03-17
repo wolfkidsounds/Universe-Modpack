@@ -116,7 +116,10 @@ val drinks = [
     <brewcraft:borgiaabsintheitem>,
     <brewcraft:redbeeritem>,
     <brewcraft:bluebeeritem>,
-    <brewcraft:malortitem>
+    <brewcraft:malortitem>,
+
+//avatarmod
+    <am:cactus_juice>
 ] as IItemStack[];
 
 //iterate through drinks
