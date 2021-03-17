@@ -90,6 +90,16 @@ val drinks = [
     <harvestcraft:coconutmilkitem>,
     <harvestcraft:chocolatemilkitem>,
 
+//harvestcraft soda
+    <harvestcraft:cherrysodaitem>,
+    <harvestcraft:colasodaitem>,
+    <harvestcraft:grapesodaitem>,
+    <harvestcraft:lemonlimesodaitem>,
+    <harvestcraft:orangesodaitem>,
+    <harvestcraft:strawberrysodaitem>,
+    <harvestcraft:grapefruitsodaitem>,
+
+
 //brewcraft,
     <brewcraft:beachrumitem>,
     <brewcraft:cherryvodkaitem>,
