@@ -835,6 +835,7 @@
   {
     "dimension": 0,
     "mob": "primitivemobs:treasure_slime",
+    "biome":["minecraft:swampland", "minecraft:mutated_swampland", "biomesoplenty:lush_swamp", "twilightforest:twilight_swamp"],
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,      
@@ -948,6 +949,36 @@
   {
     "dimension": 0,
     "mob": "mekanism:babyskeleton",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:pig",
+    "block": ["minecraft:grass", "biomesoplenty:grass:2", "biomesoplenty:grass:3", "biomesoplenty:grass:4", "biomesoplenty:grass:5", "biomesoplenty:grass:7"],
+    "maxcount": {
+      "amount": 25,      
+      "mob": "minecraft:pig"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:pig",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:sheep",
+    "block": ["minecraft:grass", "biomesoplenty:grass:2", "biomesoplenty:grass:3", "biomesoplenty:grass:4", "biomesoplenty:grass:5", "biomesoplenty:grass:7"],
+    "maxcount": {
+      "amount": 25,      
+      "mob": "minecraft:sheep"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:sheep",
     "result": "deny"
   },
   {
