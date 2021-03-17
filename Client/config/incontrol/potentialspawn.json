@@ -313,25 +313,7 @@
           "groupcountmax": 1
         },
         {
-          "mob": "lycanitesmobs:calpod",
-          "weight": 1,
-          "groupcountmin": 1,
-          "groupcountmax": 1
-        },
-        {
           "mob": "lycanitesmobs:cryptkeeper",
-          "weight": 1,
-          "groupcountmin": 1,
-          "groupcountmax": 1
-        },
-        {
-          "mob": "lycanitesmobs:archvile",
-          "weight": 1,
-          "groupcountmin": 1,
-          "groupcountmax": 1
-        },
-        {
-          "mob": "lycanitesmobs:afrit",
           "weight": 1,
           "groupcountmin": 1,
           "groupcountmax": 1
