@@ -29,7 +29,7 @@ val removeAndHide = [
     //Flint
         recipes.remove(<minecraft:flint>);
 
-    //Stew
+    //Stew //#213
         recipes.remove(<minecraft:mushroom_stew>);
         recipes.remove(<minecraft:rabbit_stew>);
 
@@ -40,8 +40,8 @@ val removeAndHide = [
 
 //Recipe Adding
     recipes.addShapeless(<minecraft:stone>, [<minecraft:stone_slab>,<minecraft:stone_slab>]); //Shapeless Stone
-    recipes.addShapeless(<minecraft:mushroom_stew>, [<harvestcraft:potitem>, <ore:mushroomAny>, <ore:mushroomAny>]); //Shapeless Stew
-    recipes.addShapeless(<minecraft:mushroom_stew>, [<harvestcraft:potitem>, <ore:mushroomAny>, <ore:mushroomAny>]); //Shapeless Stew
+    recipes.addShapeless(<minecraft:mushroom_stew>, [<harvestcraft:potitem>, <ore:mushroomAny>, <ore:mushroomAny>]); //Shapeless Stew #213
+    recipes.addShapeless(<minecraft:mushroom_stew>, [<harvestcraft:potitem>, <ore:mushroomAny>, <ore:mushroomAny>]); //Shapeless Stew #213
 //-------------------------------------------------------------------   
 
 
