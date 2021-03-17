@@ -1,21 +1,20 @@
 import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
-import crafttweaker.entity.IItemStack;
 
 //version 4.0.4
 
 //ItemList
-        val category8 = [
+        val categoryA = [
                 <harvestcraft:sundayhighteaitem>,
                 <harvestcraft:cookiesandmilkitem>
             ] as IItemStack[];
 
 
-        val category7 = [
+        val categoryB = [
                 <harvestcraft:blazingsoupitem>
             ] as IItemStack[];
 
-        val category6 = [
+        val categoryC = [
                 <harvestcraft:chickennoodlesoupitem>,
                 <harvestcraft:peaandhamsoupitem>,
                 <harvestcraft:pizzasoupitem>,
@@ -23,7 +22,7 @@ import crafttweaker.entity.IItemStack;
                 <harvestcraft:hotandsoursoupitem>
             ] as IItemStack[];
 
-        val category5 = [
+        val categoryD = [
                 <harvestcraft:splitpeasoupitem>,
                 <harvestcraft:creamofavocadosoupitem>,
                 <harvestcraft:lambbarleysoupitem>,
@@ -33,14 +32,14 @@ import crafttweaker.entity.IItemStack;
                 <harvestcraft:peanutsoupitem>
             ] as IItemStack[];
 
-        val category4 = [
+        val categoryE = [
                 <harvestcraft:beetsoupitem>,
                 <harvestcraft:creamedbroccolisoupitem>,
                 <harvestcraft:turnipsoupitem>,
                 <harvestcraft:asparagussoupitem>
             ] as IItemStack[];
 
-        val category3 = [
+        val categoryF = [
                 <harvestcraft:spidereyesoupitem>,
                 <harvestcraft:vegetablesoupitem>,
                 <harvestcraft:oldworldveggiesoupitem>,
@@ -48,7 +47,7 @@ import crafttweaker.entity.IItemStack;
                 <harvestcraft:misosoupitem>
             ] as IItemStack[];
 
-        val category2 = [
+        val categoryG = [
                 <aquaculture:food:9>,
                 <harvestcraft:pumpkinsoupitem>,
                 <harvestcraft:carrotsoupitem>,
@@ -61,41 +60,41 @@ import crafttweaker.entity.IItemStack;
                 <harvestcraft:gardensoupitem>
             ] as IItemStack[];
 
-        val category1 = [
+        val categoryH = [
                 <harvestcraft:driedsoupitem>
             ] as IItemStack[];
 //---------------------------------------------------------------------------
 
 //soups
 
-        for soup in category8 {
+        for soup in categoryA {
                 soup.foodValues.hunger = 6;
                 soup.foodValues.saturationModifier = 8;}
 
-        for soup in category7 {
+        for soup in categoryB {
                 soup.foodValues.hunger = 7;
                 soup.foodValues.saturationModifier = 9;}
 
-        for soup in category6 {
+        for soup in categoryC {
                 soup.foodValues.hunger = 6;
                 soup.foodValues.saturationModifier = 7;}
 
-        for soup in category5 {
+        for soup in categoryD {
                 soup.foodValues.hunger = 5;
                 soup.foodValues.saturationModifier = 6;}
 
-        for soup in category4 {
+        for soup in categoryE {
                 soup.foodValues.hunger = 4;
                 soup.foodValues.saturationModifier = 5;}
 
-        for soup in category3 {
+        for soup in categoryF {
                 soup.foodValues.hunger = 3;
                 soup.foodValues.saturationModifier = 4;}
 
-        for soup in category2 {
+        for soup in categoryG {
                 soup.foodValues.hunger = 2;
                 soup.foodValues.saturationModifier = 3;}
 
-        for soup in category1 {
+        for soup in categoryH {
                 soup.foodValues.hunger = 1;
                 soup.foodValues.saturationModifier = 1;}
