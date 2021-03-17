@@ -4,7 +4,7 @@ mouseSensitivity:0.2535211
 fov:0.25
 gamma:1.0
 saturation:0.0
-renderDistance:14
+renderDistance:12
 guiScale:3
 particles:0
 bobView:true
@@ -24,7 +24,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-snooperEnabled:true
+snooperEnabled:false
 fullscreen:false
 enableVsync:false
 useVbo:true
@@ -111,10 +111,10 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.lockBuilding:0
-key_avatar.Bend:0
+key_avatar.Bend:56
 key_avatar.BendingCycleLeft:0
 key_avatar.BendingCycleRight:0
-key_avatar.Skills:41
+key_avatar.Skills:0
 key_avatar.Switch:0
 key_avatar.TransferBison:0
 key_[GC] Galaxy Map:50
@@ -123,16 +123,23 @@ key_[GC] Toggle Sensor Goggles Mode:0
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:0
 key_key.fart.desc:0
-key_key.ironbackpacks.equip:24
+key_key.ironbackpacks.equip:0
 key_key.ironbackpacks.open:48
+key_key.mount.dismount:0
+key_key.mount.descend:0
+key_key.mount.ability:0
+key_key.mount.inventory:0
+key_key.index:0
+key_key.beastiary:0
+key_key.pets:0
+key_key.summoning:0
+key_key.minions:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_keybind.railcraft.cart.bed:0
-key_key.toastcontrol.clear:0
+key_keys.servertabinfo.show:0
+key_keys.servertabinfo.show2:0
 key_walljump.key.walljump:42
-key_Strip World:211
-key_Dress World:210
-key_Inspect Block:199
 key_key.cameraZoomIn:0
 key_key.cameraZoomOut:0
 key_key.cameraEmitRedstone:0
@@ -152,22 +159,43 @@ key_atlasextras.keybind.togglehud:0
 key_atlasextras.keybind.openatlas:50
 key_bbw.key.mode:0
 key_bbw.key.fluidmode:0
-key_key.chattweaks.switch_chat_view:0
-key_Options Gui:0
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
+key_key.dragon.breath:0
+key_key.dragon.cancelhover:0
+key_key.dragon.projectile:0
+key_key.dragon.followYaw:0
+key_key.dragon.lockY:0
+key_key.dragon.f7:0
+key_key.dragon.boost:0
+key_key.dragon.dismount:0
+key_key.dragon.down:0
 key_Open Powered Vehicle Inventory:0
 key_Open Module Manager:0
 key_Open Pre Launch Checklist GUI:0
 key_Open Portable NASA Workbench GUI:0
+key_FpsReducer.key.guiOpen:0
+key_FpsReducer.key.forceIdle:0
+key_invtweaks.key.sort:0
 key_mekanism.key.mode:0
 key_mekanism.key.armorMode:0
 key_mekanism.key.feetMode:0
 key_mekanism.key.voice:0
-key_invtweaks.key.sort:0
+key_Mo' Bends Menu:0
+key_Refresh Animations:0
+key_Open Matter Scanner GUI:0
+key_Android Ability key:0
+key_Android Switch Ability key:0
+key_key.nutrition:49
 key_key.toggleLiquids:0
 key_key.toggleVisible:0
+key_key.toolbelt.open:19:CONTROL
+key_key.toolbelt.cycle.left:0
+key_key.toolbelt.cycle.right:0
+key_key.toolbelt.slot:47
+key_WorldEdit Reference:0
 key_key.control:29
+key_Profile GUI:210
 key_keybind.railcraft.loco.reverse:0
 key_keybind.railcraft.loco.faster:0
 key_keybind.railcraft.loco.slower:0
@@ -197,13 +225,13 @@ key_enderio.keybind.fovminusfast:0
 soundCategory_master:0.8
 soundCategory_music:0.5
 soundCategory_record:1.0
-soundCategory_weather:0.056338027
-soundCategory_block:1.0
-soundCategory_hostile:0.35211268
+soundCategory_weather:0.20422535
+soundCategory_block:0.90140843
+soundCategory_hostile:0.4084507
 soundCategory_neutral:0.35211268
 soundCategory_player:0.35211268
-soundCategory_ambient:0.5
-soundCategory_voice:1.0
+soundCategory_ambient:0.6056338
+soundCategory_voice:0.80985916
 soundCategory_ds_footsteps:0.1056338
 soundCategory_ds_biome:0.70422536
 modelPart_cape:true
