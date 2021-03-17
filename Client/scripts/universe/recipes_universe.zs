@@ -19,3 +19,11 @@ import crafttweaker.liquid.ILiquidStack;
     //SAG MILL
         //ADDING
             mods.enderio.SagMill.addRecipe([<universemod:universedust>], [100], <universemod:universecrystal>);
+
+
+//UNIVERSEMOD
+    //FLINTBLOCK
+        recipes.addShaped(<universemod:flintblock>, [
+            [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>],
+            [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>],
+            [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>]]);
