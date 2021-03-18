@@ -89,6 +89,7 @@ val drinks = [
     <harvestcraft:soymilkitem>,
     <harvestcraft:coconutmilkitem>,
     <harvestcraft:chocolatemilkitem>,
+    <harvestcraft:eggnogitem>,
 
 //harvestcraft soda
     <harvestcraft:cherrysodaitem>,
