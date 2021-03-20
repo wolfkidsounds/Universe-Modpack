@@ -914,16 +914,6 @@
     "result": "deny"
   },
   {
-    "dimension": 0,
-    "mob": "avatarmod:firebender",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "avatarmod:airbender",
-    "result": "deny"
-  },
-  {
     "dimension": [0, 1, 7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
     "mod": "lycanitesmobs",
     "result": "deny"
