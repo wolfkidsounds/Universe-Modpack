@@ -21,4 +21,3 @@ mods.ltt.LootTable.removeModTable("matteroverdrive");
 mods.ltt.LootTable.removeGlobalItem("endreborn:item_shard_obsidian");
 mods.ltt.LootTable.removeGlobalItem("matteroverdrive:rogue_android_part");
 mods.ltt.LootTable.removeGlobalItem("minecraft:obsidian");
-mods.ltt.LootTable.removeGlobalItem("growthcraft_bees:bee");
