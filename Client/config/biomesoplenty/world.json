@@ -1,8 +1,8 @@
 {
 "landScheme": "vanilla",
-"tempScheme": "large_zones",
-"rainScheme": "large_zones",
-"biomeSize": "large",
+"tempScheme": "medium_zones",
+"rainScheme": "medium_zones",
+"biomeSize": "medium",
 "amplitude": 1,
 "generateBopOre": true,
 "generateBopSoils": true,
