@@ -500,23 +500,6 @@
   },
   {
     "dimension": 0,
-    "mob": "primitivemobs:traveling_merchant",
-    "seesky": true,
-    "canspawnhere":"default",
-    "maxcount": {
-      "amount": 5,      
-      "mob": "primitivemobs:traveling_merchant",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "primitivemobs:traveling_merchant",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
     "mob": "betteranimalsplus:goose",
     "seesky": true,
     "canspawnhere":"default",
