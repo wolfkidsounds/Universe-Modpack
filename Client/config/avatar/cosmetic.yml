@@ -18,8 +18,8 @@ nameConflicts: {}
 nameKeymappings: {}
 radialMenuAlpha: 0.75
 shaderSettings:
-  useCleanseShaders: false
-  usePurifyShaders: false
-  useRestoreShaders: false
-  useSlipstreamShaders: false
+  useCleanseShaders: true
+  usePurifyShaders: true
+  useRestoreShaders: true
+  useSlipstreamShaders: true
 useCustomParticles: true
