@@ -427,6 +427,23 @@ bendableBlocksNames:
 - securitycraft:reinforced_red_sandstone:2
 - securitycraft:reinforced_stairs_red_sandstone
 - securitycraft:reinforced_stone_slabs2
+- minecraft:stone
+- minecraft:sand
+- minecraft:sandstone
+- minecraft:cobblestone
+- minecraft:dirt
+- minecraft:gravel
+- minecraft:brick_block
+- minecraft:mossy_cobblestone
+- minecraft:stonebrick
+- minecraft:clay
+- minecraft:hardened_clay
+- minecraft:stained_hardened_clay
+- minecraft:coal_ore
+- minecraft:iron_ore
+- minecraft:red_sandstone
+- minecraft:grass
+- minecraft:grass_path
 boulderSettings:
   damage: 0.1
   push: 0.1
