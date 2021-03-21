@@ -866,18 +866,12 @@
   },
   {
     "dimension": 0,
-    "mob": "minecraft:pig",
-    "block": ["minecraft:grass", "biomesoplenty:grass:2", "biomesoplenty:grass:3", "biomesoplenty:grass:4", "biomesoplenty:grass:5", "biomesoplenty:grass:7"],
-    "seesky": true,
-    "maxcount": {
-      "amount": 15,      
-      "mob": "minecraft:pig"
-    },
-    "result": "allow"
+    "mob": "avatarmod:firebender",
+    "result": "deny"
   },
   {
     "dimension": 0,
-    "mob": "minecraft:pig",
+    "mob": "avatarmod:airbender",
     "result": "deny"
   },
   {
