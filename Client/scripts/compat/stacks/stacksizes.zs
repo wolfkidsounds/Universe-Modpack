@@ -15,3 +15,5 @@ val avatarScrolls = [
 for scroll in avatarScrolls {
     scroll.maxStackSize = 64;
 }
+
+<minecraft:snowball>.maxStackSize = 64;
