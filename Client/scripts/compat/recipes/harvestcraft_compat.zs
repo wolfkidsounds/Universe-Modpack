@@ -16,3 +16,10 @@ import crafttweaker.oredict.IOreDictEntry;
 
 //oil compat
         recipes.addShapeless(<harvestcraft:oliveoilitem>, [<ore:toolJuicer>, <ore:listAllseed>]);
+
+//flour compat
+    recipes.removeShapeless(<natura:materials:1>, [<ore:cropBarley>]);
+        recipes.addShapeless(<natura:overworld_seeds>, [<natura:materials:1>]);
+
+    recipes.removeShapeless(<natura:materials:2>, [<minecraft:wheat>]);
+        recipes.addShapeless(<minecraft:wheat_seeds>, [<minecraft:wheat>]);
