@@ -17,12 +17,6 @@ for scroll in avatarScrolls {
     scroll.maxStackSize = 64;
 }
 
-val minecraftPotions = [
-    <minecraft:potion>,
-    <minecraft:splash_potion>,
-    <minecraft:lingering_potion>
-] as IItemStack[];
-
-for potion in minecraftPotion {
-    potion.maxStackSize = 3;
-}
+<minecraft:potion>.maxStackSize = 3;
+<minecraft:splash_potion>.maxStackSize = 3;
+<minecraft:lingering_potion>.maxStackSize = 3;
