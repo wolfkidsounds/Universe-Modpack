@@ -1,0 +1,38 @@
+[
+  {
+    "content": "am:earth_kingdome_copper_coins",
+    "unitWorth": 1,
+    "weight": 1,
+    "amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "am:earth_kingdome_silver_coins",
+    "unitWorth": 64,
+    "weight": 2,
+    "amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "am:earth_kingdome_gold_coins",
+    "unitWorth": 4096,
+    "weight": 3,
+    "amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "harvestcraft:garliccoinitem",
+    "unitWorth": 262144,
+    "weight": 4,
+    "amount": {
+      "min": 1,
+      "max": 64
+    }
+  }
+]

@@ -1,0 +1,27 @@
+{
+    "rules": [
+      {
+        "match": {
+          "drops": {
+            "drops": [
+               "growthcraft_bees:bee"
+            ]
+          }
+        },
+        "drops": [
+          {
+            "item": {
+              "items": [
+                "harvestcraft:queenbeeitem"
+              ],
+              "matchQuantity": {
+                "drops": [
+                   "growthcraft_bees:bee"
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }

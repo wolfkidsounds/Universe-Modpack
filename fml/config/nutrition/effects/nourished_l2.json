@@ -1,0 +1,16 @@
+{
+	"name": "nourished",
+	"potion": "nutrition:nourished",
+	"amplifier": 3,
+	"minimum": 50,
+	"maximum": 70,
+	"detect": "average",
+	"nutrients": [
+        "protein",
+        "vegetable",
+        "grain"
+	],
+	"cumulative_modifier": 2,
+	"particles": "transparent",
+	"enabled": true
+}

@@ -1,0 +1,637 @@
+[
+  {
+    "dimension": -1501,
+    "mob": "lycanitesmobs:geonach",
+    "block": "extraplanets:europa",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:geonach"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -1501,
+    "mob": "lycanitesmobs:strider",
+    "block": "extraplanets:salt",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:strider"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -1501,
+    "mob": "lycanitesmobs:roa",
+    "block": "extraplanets:salt",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:roa"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -1501,
+    "mob": "lycanitesmobs:lacedon",
+    "block": "extraplanets:salt",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:lacedon"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -18,
+    "mob": "lycanitesmobs:jengu",
+    "block": "extraplanets:neptune",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:jengu"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -18,
+    "mob": "lycanitesmobs:wendigo",
+    "block": "extraplanets:neptune",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:wendigo"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -13,
+    "mob": "lycanitesmobs:wisp",
+    "block": "extraplanets:mercury",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:wisp"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -13,
+    "mob": "lycanitesmobs:tremor",
+    "block": "extraplanets:mercury",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:tremor"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -20,
+    "mob": "lycanitesmobs:maug",
+    "block": "extraplanets:ceres",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:maug"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -20,
+    "mob": "lycanitesmobs:yale",
+    "block": "extraplanets:ceres",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:yale"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:cinder",
+    "block": "minecraft:gravel",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:cinder"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:volcan",
+    "block": "minecraft:gravel",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:volcan"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:khalk",
+    "block": "minecraft:gravel",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:khalk"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:lobber",
+    "block": "minecraft:gravel",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:lobber"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:sutiramu",
+    "block": "extraplanets:orange_sand",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:sutiramu"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:joust",
+    "block": "extraplanets:orange_sand",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:joust"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:gorgomite",
+    "seesky": false,
+    "block": "extraplanets:jupiter",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:gorgomite"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -15,
+    "mob": "lycanitesmobs:crusk",
+    "block": "extraplanets:orange_sand",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:crusk"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -16,
+    "mob": "lycanitesmobs:geist",
+    "block": "extraplanets:saturn",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:geist"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -16,
+    "mob": "lycanitesmobs:chupacabra",
+    "seesky": false,
+    "block": "extraplanets:saturn",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:chupacabra"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -16,
+    "mob": "lycanitesmobs:maka",
+    "block": "extraplanets:saturn",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:maka"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -16,
+    "mob": "lycanitesmobs:morock",
+    "block": "extraplanets:saturn",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:morock"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -17,
+    "mob": "lycanitesmobs:reiver",
+    "block": "minecraft:snow",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:reiver"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -17,
+    "mob": "lycanitesmobs:djinn",
+    "block": "extraplanets:uranus",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:djinn"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -17,
+    "mob": "lycanitesmobs:frostweaver",
+    "block": "minecraft:snow",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:frostweaver"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -17,
+    "mob": "lycanitesmobs:serpix",
+    "block": "minecraft:snow",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:serpix"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -17,
+    "mob": "lycanitesmobs:sylph",
+    "block": "extraplanets:uranus",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:sylph"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -17,
+    "mob": "lycanitesmobs:aegis",
+    "block": "minecraft:packed_ice",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:aegis"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -17,
+    "mob": "lycanitesmobs:arix",
+    "block": "minecraft:snow",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:arix"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -17,
+    "mob": "lycanitesmobs:yeti",
+    "block": "minecraft:snow",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:yeti"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -17,
+    "mob": "lycanitesmobs:ventoraptor",
+    "block": "extraplanets:uranus",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "lycanitesmobs:ventoraptor"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -21,
+    "mob": "matteroverdrive:ranged_rogue_android",
+    "block": "extraplanets:eris",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "matteroverdrive:ranged_rogue_android"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -21,
+    "mob": "matteroverdrive:rogue_android",
+    "block": "extraplanets:eris",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,
+      "mob": "matteroverdrive:rogue_android"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -21,
+    "mob": "deepmoblearning:glitch",
+    "block": "extraplanets:eris",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,      
+      "mob": "deepmoblearning:glitch"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": -21,
+    "mob": "matteroverdrive:mutant_scientist",
+    "block": "extraplanets:eris",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,      
+      "mob": "matteroverdrive:mutant_scientist"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 17,
+    "mob": "lycanitesmobs:crusk",
+    "biome": ["atum:sand_plains", "atum:sand_dunes"],
+    "block": ["atum:sand", "atum:sand_layer"],
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:crusk"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 17,
+    "mob": "lycanitesmobs:vespid",
+    "biome": "atum:limestone_mountains",
+    "block": ["atum:sand", "atum:sand_layer"],
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:vespid"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 17,
+    "mob": "lycanitesmobs:sutiramu",
+    "biome": "atum:sand_plains",
+    "block": ["atum:sand", "atum:sand_layer"],
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:sutiramu"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 17,
+    "mob": "lycanitesmobs:cryptkeeper",
+    "block": ["atum:limestone_cracked", "atum:limestone_gravel", "atum:sand", "atum:sand_layer"],
+    "maxcount": {
+      "amount": 1,      
+      "mob": "lycanitesmobs:cryptkeeper"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "primitivemobs:brain_slime",
+    "canspawnhere":"default",
+    "mintime": 13000,
+    "maxcount": {
+      "amount": 3,      
+      "mob": "primitivemobs:brain_slime"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "primitivemobs:brain_slime",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:guardian",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 10,      
+      "mob": "minecraft:guardian"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:guardian",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:squid",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 50,      
+      "mob": "minecraft:squid"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:squid",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:eel_saltwater",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 2,      
+      "mob": "betteranimalsplus:eel_saltwater"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:eel_saltwater",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:eel_freshwater",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 2,      
+      "mob": "betteranimalsplus:eel_freshwater"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:eel_freshwater",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:jellyfish",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 4,      
+      "mob": "betteranimalsplus:jellyfish"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:jellyfish",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:nautilus",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 4,      
+      "mob": "betteranimalsplus:nautilus"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:nautilus",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:bobbit_worm",
+    "canspawnhere":"default",
+    "maxcount": {
+      "amount": 2,      
+      "mob": "betteranimalsplus:bobbit_worm"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "betteranimalsplus:bobbit_worm",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "avatarmod:firebender",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "avatarmod:airbender",
+    "result": "deny"
+  },
+  {
+    "dimension": [0, 1, 7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
+    "mod": "lycanitesmobs",
+    "result": "deny"
+  },
+  {
+    "dimension": -21,
+    "mod": "matteroverdrive",
+    "result": "deny"
+  },
+  {
+    "dimension": -21,
+    "mod": "deepmoblearning",
+    "result": "deny"
+  },
+  {
+    "dimension": [7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
+    "mod": "dragonmounts",
+    "result": "deny"
+  },
+  {
+    "dimension": 17,
+    "mod": "enderzoo",
+    "result": "deny"
+  },
+  {
+    "dimension": 17,
+    "mod": "netherex",
+    "result": "deny"
+  },
+  {
+    "dimension": 17,
+    "mod": "betteranimalsplus",
+    "result": "deny"
+  },
+  {
+    "dimension": 17,
+    "mod": "eyesinthedarkness",
+    "result": "deny"
+  },
+  {
+    "dimension": 17,
+    "mod": "tconstruct",
+    "result": "deny"
+  },
+  {
+    "dimension": [7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
+    "mod": "avatarmod",
+    "result": "deny"
+  }
+  ]
+
