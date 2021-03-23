@@ -50,3 +50,7 @@ Launcher Exports/Universe Modpack-R4.1.1.zip
 ./fml/*
 fml/*
 fml
+fml/logs/2021-03-08-1.log.gz
+fml/logs/debug-1.log.gz
+fml/logs/debug.log
+fml/logs/latest.log
