@@ -500,23 +500,6 @@
   },
   {
     "dimension": 0,
-    "mob": "primitivemobs:traveling_merchant",
-    "seesky": true,
-    "canspawnhere":"default",
-    "maxcount": {
-      "amount": 5,      
-      "mob": "primitivemobs:traveling_merchant",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "primitivemobs:traveling_merchant",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
     "mob": "betteranimalsplus:goose",
     "seesky": true,
     "canspawnhere":"default",
@@ -883,18 +866,12 @@
   },
   {
     "dimension": 0,
-    "mob": "minecraft:pig",
-    "block": ["minecraft:grass", "biomesoplenty:grass:2", "biomesoplenty:grass:3", "biomesoplenty:grass:4", "biomesoplenty:grass:5", "biomesoplenty:grass:7"],
-    "seesky": true,
-    "maxcount": {
-      "amount": 15,      
-      "mob": "minecraft:pig"
-    },
-    "result": "allow"
+    "mob": "avatarmod:firebender",
+    "result": "deny"
   },
   {
     "dimension": 0,
-    "mob": "minecraft:pig",
+    "mob": "avatarmod:airbender",
     "result": "deny"
   },
   {
@@ -914,7 +891,7 @@
     "result": "deny"
   },
   {
-    "dimension": [0, -1, 1, 7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
+    "dimension": [0, 1, 7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
     "mod": "lycanitesmobs",
     "result": "deny"
   },

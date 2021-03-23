@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:true
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -137,8 +137,6 @@ key_key.minions:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_keybind.railcraft.cart.bed:0
-key_keys.servertabinfo.show:0
-key_keys.servertabinfo.show2:0
 key_walljump.key.walljump:42
 key_key.cameraZoomIn:0
 key_key.cameraZoomOut:0
@@ -193,9 +191,7 @@ key_key.toolbelt.open:19:CONTROL
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_key.toolbelt.slot:47
-key_WorldEdit Reference:0
 key_key.control:29
-key_Profile GUI:210
 key_keybind.railcraft.loco.reverse:0
 key_keybind.railcraft.loco.faster:0
 key_keybind.railcraft.loco.slower:0
