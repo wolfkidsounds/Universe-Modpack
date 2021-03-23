@@ -6,8 +6,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:geonach",
-      "perplayer": true
+      "mob": "lycanitesmobs:geonach"
     },
     "result": "allow"
   },
@@ -18,8 +17,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:strider",
-      "perplayer": true
+      "mob": "lycanitesmobs:strider"
     },
     "result": "allow"
   },
@@ -31,8 +29,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:roa",
-      "perplayer": true
+      "mob": "lycanitesmobs:roa"
     },
     "result": "allow"
   },
@@ -44,8 +41,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:lacedon",
-      "perplayer": true
+      "mob": "lycanitesmobs:lacedon"
     },
     "result": "allow"
   },
@@ -55,8 +51,8 @@
     "block": "extraplanets:neptune",
     "canspawnhere":"default",
     "maxcount": {
-      "amount": 1,      "mob": "lycanitesmobs:jengu",
-      "perplayer": true
+      "amount": 1,      
+      "mob": "lycanitesmobs:jengu"
     },
     "result": "allow"
   },
@@ -67,8 +63,8 @@
     "canspawnhere":"default",
     "mintime": 13000,
     "maxcount": {
-      "amount": 1,      "mob": "lycanitesmobs:wendigo",
-      "perplayer": true
+      "amount": 1,      
+      "mob": "lycanitesmobs:wendigo"
     },
     "result": "allow"
   },
@@ -79,8 +75,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:wisp",
-      "perplayer": true
+      "mob": "lycanitesmobs:wisp"
     },
     "result": "allow"
   },
@@ -92,8 +87,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:tremor",
-      "perplayer": true
+      "mob": "lycanitesmobs:tremor"
     },
     "result": "allow"
   },
@@ -104,8 +98,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:maug",
-      "perplayer": true
+      "mob": "lycanitesmobs:maug"
     },
     "result": "allow"
   },
@@ -117,8 +110,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:yale",
-      "perplayer": true
+      "mob": "lycanitesmobs:yale"
     },
     "result": "allow"
   },
@@ -130,8 +122,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:cinder",
-      "perplayer": true
+      "mob": "lycanitesmobs:cinder"
     },
     "result": "allow"
   },
@@ -142,8 +133,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:volcan",
-      "perplayer": true
+      "mob": "lycanitesmobs:volcan"
     },
     "result": "allow"
   },
@@ -154,8 +144,8 @@
     "canspawnhere":"default",
     "mintime": 13000,
     "maxcount": {
-      "amount": 1,      "mob": "lycanitesmobs:khalk",
-      "perplayer": true
+      "amount": 1,      
+      "mob": "lycanitesmobs:khalk"
     },
     "result": "allow"
   },
@@ -167,8 +157,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:lobber",
-      "perplayer": true
+      "mob": "lycanitesmobs:lobber"
     },
     "result": "allow"
   },
@@ -179,8 +168,8 @@
     "canspawnhere":"default",
     "mintime": 13000,
     "maxcount": {
-      "amount": 1,      "mob": "lycanitesmobs:sutiramu",
-      "perplayer": true
+      "amount": 1,      
+      "mob": "lycanitesmobs:sutiramu"
     },
     "result": "allow"
   },
@@ -191,8 +180,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:joust",
-      "perplayer": true
+      "mob": "lycanitesmobs:joust"
     },
     "result": "allow"
   },
@@ -205,8 +193,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:gorgomite",
-      "perplayer": true
+      "mob": "lycanitesmobs:gorgomite"
     },
     "result": "allow"
   },
@@ -216,8 +203,8 @@
     "block": "extraplanets:orange_sand",
     "canspawnhere":"default",
     "maxcount": {
-      "amount": 1,      "mob": "lycanitesmobs:crusk",
-      "perplayer": true
+      "amount": 1,      
+      "mob": "lycanitesmobs:crusk"
     },
     "result": "allow"
   },
@@ -228,8 +215,8 @@
     "canspawnhere":"default",
     "mintime": 13000,
     "maxcount": {
-      "amount": 1,      "mob": "lycanitesmobs:geist",
-      "perplayer": true
+      "amount": 1,      
+      "mob": "lycanitesmobs:geist"
     },
     "result": "allow"
   },
@@ -242,8 +229,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:chupacabra",
-      "perplayer": true
+      "mob": "lycanitesmobs:chupacabra"
     },
     "result": "allow"
   },
@@ -254,8 +240,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:maka",
-      "perplayer": true
+      "mob": "lycanitesmobs:maka"
     },
     "result": "allow"
   },
@@ -267,8 +252,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:morock",
-      "perplayer": true
+      "mob": "lycanitesmobs:morock"
     },
     "result": "allow"
   },
@@ -280,8 +264,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:reiver",
-      "perplayer": true
+      "mob": "lycanitesmobs:reiver"
     },
     "result": "allow"
   },
@@ -293,8 +276,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:djinn",
-      "perplayer": true
+      "mob": "lycanitesmobs:djinn"
     },
     "result": "allow"
   },
@@ -306,8 +288,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:frostweaver",
-      "perplayer": true
+      "mob": "lycanitesmobs:frostweaver"
     },
     "result": "allow"
   },
@@ -317,8 +298,8 @@
     "block": "minecraft:snow",
     "canspawnhere":"default",
     "maxcount": {
-      "amount": 1,      "mob": "lycanitesmobs:serpix",
-      "perplayer": true
+      "amount": 1,      
+      "mob": "lycanitesmobs:serpix"
     },
     "result": "allow"
   },
@@ -329,8 +310,8 @@
     "canspawnhere":"default",
     "mintime": 13000,
     "maxcount": {
-      "amount": 1,      "mob": "lycanitesmobs:sylph",
-      "perplayer": true
+      "amount": 1,      
+      "mob": "lycanitesmobs:sylph"
     },
     "result": "allow"
   },
@@ -341,8 +322,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:aegis",
-      "perplayer": true
+      "mob": "lycanitesmobs:aegis"
     },
     "result": "allow"
   },
@@ -353,8 +333,8 @@
     "canspawnhere":"default",
     "mintime": 13000,
     "maxcount": {
-      "amount": 1,      "mob": "lycanitesmobs:arix",
-      "perplayer": true
+      "amount": 1,      
+      "mob": "lycanitesmobs:arix"
     },
     "result": "allow"
   },
@@ -366,8 +346,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,
-      "mob": "lycanitesmobs:yeti",
-      "perplayer": true
+      "mob": "lycanitesmobs:yeti"
     },
     "result": "allow"
   },
@@ -377,8 +356,8 @@
     "block": "extraplanets:uranus",
     "canspawnhere":"default",
     "maxcount": {
-      "amount": 1,      "mob": "lycanitesmobs:ventoraptor",
-      "perplayer": true
+      "amount": 1,
+      "mob": "lycanitesmobs:ventoraptor"
     },
     "result": "allow"
   },
@@ -389,8 +368,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,
-      "mob": "matteroverdrive:ranged_rogue_android",
-      "perplayer": true
+      "mob": "matteroverdrive:ranged_rogue_android"
     },
     "result": "allow"
   },
@@ -401,8 +379,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,
-      "mob": "matteroverdrive:rogue_android",
-      "perplayer": true
+      "mob": "matteroverdrive:rogue_android"
     },
     "result": "allow"
   },
@@ -414,8 +391,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,      
-      "mob": "deepmoblearning:glitch",
-      "perplayer": true
+      "mob": "deepmoblearning:glitch"
     },
     "result": "allow"
   },
@@ -427,8 +403,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,      
-      "mob": "matteroverdrive:mutant_scientist",
-      "perplayer": true
+      "mob": "matteroverdrive:mutant_scientist"
     },
     "result": "allow"
   },
@@ -440,8 +415,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 1,      
-      "mob": "lycanitesmobs:crusk",
-      "perplayer": true
+      "mob": "lycanitesmobs:crusk"
     },
     "result": "allow"
   },
@@ -452,8 +426,7 @@
     "block": ["atum:sand", "atum:sand_layer"],
     "maxcount": {
       "amount": 1,      
-      "mob": "lycanitesmobs:vespid",
-      "perplayer": true
+      "mob": "lycanitesmobs:vespid"
     },
     "result": "allow"
   },
@@ -465,8 +438,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 1,      
-      "mob": "lycanitesmobs:sutiramu",
-      "perplayer": true
+      "mob": "lycanitesmobs:sutiramu"
     },
     "result": "allow"
   },
@@ -476,8 +448,7 @@
     "block": ["atum:limestone_cracked", "atum:limestone_gravel", "atum:sand", "atum:sand_layer"],
     "maxcount": {
       "amount": 1,      
-      "mob": "lycanitesmobs:cryptkeeper",
-      "perplayer": true
+      "mob": "lycanitesmobs:cryptkeeper"
     },
     "result": "allow"
   },
@@ -488,8 +459,7 @@
     "mintime": 13000,
     "maxcount": {
       "amount": 3,      
-      "mob": "primitivemobs:brain_slime",
-      "perplayer": true
+      "mob": "primitivemobs:brain_slime"
     },
     "result": "allow"
   },
@@ -500,103 +470,17 @@
   },
   {
     "dimension": 0,
-    "mob": "betteranimalsplus:goose",
-    "seesky": true,
-    "canspawnhere":"default",
-    "maxcount": {
-      "amount": 14,      
-      "mob": "betteranimalsplus:goose",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "betteranimalsplus:goose",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
     "mob": "minecraft:guardian",
     "canspawnhere":"default",
     "maxcount": {
       "amount": 10,      
-      "mob": "minecraft:guardian",
-      "perplayer": true
+      "mob": "minecraft:guardian"
     },
     "result": "allow"
   },
   {
     "dimension": 0,
     "mob": "minecraft:guardian",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "minecraft:zombie",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 8,      
-      "mob": "minecraft:zombie",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "minecraft:zombie",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "minecraft:spider",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 4,      
-      "mob": "minecraft:spider",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "minecraft:spider",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "minecraft:skeleton",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 2,      
-      "mob": "minecraft:skeleton",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "minecraft:skeleton",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "minecraft:creeper",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 2,      
-      "mob": "minecraft:creeper",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "minecraft:creeper",
     "result": "deny"
   },
   {
@@ -605,8 +489,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 50,      
-      "mob": "minecraft:squid",
-      "perplayer": true
+      "mob": "minecraft:squid"
     },
     "result": "allow"
   },
@@ -617,28 +500,11 @@
   },
   {
     "dimension": 0,
-    "mob": "betteranimalsplus:whale",
-    "canspawnhere":"default",
-    "maxcount": {
-      "amount": 12,      
-      "mob": "betteranimalsplus:whale",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "betteranimalsplus:whale",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
     "mob": "betteranimalsplus:eel_saltwater",
     "canspawnhere":"default",
     "maxcount": {
       "amount": 2,      
-      "mob": "betteranimalsplus:eel_saltwater",
-      "perplayer": true
+      "mob": "betteranimalsplus:eel_saltwater"
     },
     "result": "allow"
   },
@@ -653,8 +519,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 2,      
-      "mob": "betteranimalsplus:eel_freshwater",
-      "perplayer": true
+      "mob": "betteranimalsplus:eel_freshwater"
     },
     "result": "allow"
   },
@@ -669,8 +534,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 4,      
-      "mob": "betteranimalsplus:jellyfish",
-      "perplayer": true
+      "mob": "betteranimalsplus:jellyfish"
     },
     "result": "allow"
   },
@@ -685,8 +549,7 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 4,      
-      "mob": "betteranimalsplus:nautilus",
-      "perplayer": true
+      "mob": "betteranimalsplus:nautilus"
     },
     "result": "allow"
   },
@@ -701,167 +564,13 @@
     "canspawnhere":"default",
     "maxcount": {
       "amount": 2,      
-      "mob": "betteranimalsplus:bobbit_worm",
-      "perplayer": true
+      "mob": "betteranimalsplus:bobbit_worm"
     },
     "result": "allow"
   },
   {
     "dimension": 0,
     "mob": "betteranimalsplus:bobbit_worm",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "betteranimalsplus:shark",
-    "canspawnhere":"default",
-    "maxcount": {
-      "amount": 2,      
-      "mob": "betteranimalsplus:shark",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "betteranimalsplus:shark",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "primitivemobs:support_creeper",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 2,      
-      "mob": "primitivemobs:support_creeper",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "primitivemobs:support_creeper",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "primitivemobs:treasure_slime",
-    "biome":["minecraft:swampland", "minecraft:mutated_swampland", "biomesoplenty:lush_swamp", "twilightforest:twilight_swamp"],
-    "canspawnhere":"default",
-    "seesky": false,
-    "maxcount": {
-      "amount": 1,      
-      "mob": "primitivemobs:treasure_slime",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "primitivemobs:treasure_slime",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "primitivemobs:skeleton_warrior",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 2,      
-      "mob": "primitivemobs:skeleton_warrior",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "primitivemobs:skeleton_warrior",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "primitivemobs:rocket_creeper",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 2,      
-      "mob": "primitivemobs:rocket_creeper",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "primitivemobs:rocket_creeper",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "enderzoo:concussioncreeper",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 2,      
-      "mob": "enderzoo:concussioncreeper",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "enderzoo:concussioncreeper",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "enderzoo:fallenmount",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 1,      
-      "mob": "enderzoo:fallenmount",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "enderzoo:fallenmount",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "enderzoo:fallenknight",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 1,      
-      "mob": "enderzoo:fallenknight",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "enderzoo:fallenknight",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "mekanism:babyskeleton",
-    "canspawnhere":"default",
-    "mintime": 13000,
-    "maxcount": {
-      "amount": 1,      
-      "mob": "mekanism:babyskeleton",
-      "perplayer": true
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "mekanism:babyskeleton",
     "result": "deny"
   },
   {
@@ -872,22 +581,6 @@
   {
     "dimension": 0,
     "mob": "avatarmod:airbender",
-    "result": "deny"
-  },
-  {
-    "dimension": 0,
-    "mob": "minecraft:sheep",
-    "block": ["minecraft:grass", "biomesoplenty:grass:2", "biomesoplenty:grass:3", "biomesoplenty:grass:4", "biomesoplenty:grass:5", "biomesoplenty:grass:7"],
-    "seesky": true,
-    "maxcount": {
-      "amount": 25,      
-      "mob": "minecraft:sheep"
-    },
-    "result": "allow"
-  },
-  {
-    "dimension": 0,
-    "mob": "minecraft:sheep",
     "result": "deny"
   },
   {
