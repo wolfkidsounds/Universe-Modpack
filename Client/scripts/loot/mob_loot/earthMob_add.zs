@@ -10,7 +10,6 @@ import crafttweaker.entity.IEntityDefinition;
                 <entity:primitivemobs:trollager>,
                 <entity:atum:stoneguard>,
                 <entity:minecraft:silverfish>,
-                <entity:quark:stoneling>,
                 <entity:primitivemobs:goblin>,
                 <entity:twilightforest:redcap>,
                 <entity:twilightforest:redcap_sapper>,
