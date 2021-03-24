@@ -5281,3 +5281,8 @@ fml/structures/inactive/SpawnArea.rcst
 fml/usercache.json
 fml/whitelist.json
 Launcher Exports/Universe Modpack-R4.1.2.zip
+discordintegration/config/CustomMessages.cfg
+discordintegration/config/Discord-Integration.cfg
+discordintegration/customServerMessages-3.0.1-1.12.jar
+discordintegration/mods/customServerMessages-3.0.1-1.12.jar
+discordintegration/mods/dcintegration-1.1.18-1.12.jar
