@@ -5280,3 +5280,24 @@ fml/server.properties
 fml/structures/inactive/SpawnArea.rcst
 fml/usercache.json
 fml/whitelist.json
+Launcher Exports/Universe Modpack-R4.1.2.zip
+discordintegration/config/CustomMessages.cfg
+discordintegration/config/Discord-Integration.cfg
+discordintegration/customServerMessages-3.0.1-1.12.jar
+discordintegration/mods/customServerMessages-3.0.1-1.12.jar
+discordintegration/mods/dcintegration-1.1.18-1.12.jar
+discordintegration/customServerMessages-3.0.1-1.12.jar
+discordintegration/mods/twitchspawn_1.12.2-0.8.1.jar
+discordintegration/mods/StuffASockInIt-1.12.2-1.1.32.jar
+discordintegration/mods/spark-forge.jar
+discordintegration/mods/ServerTabInfo-1.12.2-1.2.6.jar
+discordintegration/mods/LagMeter-1.0.1.jar
+discordintegration/mods/DebugServerInfo-1.12.2-1.0.5.jar
+discordintegration/mods/Chunk+Pregenerator-V1.12-2.5.0.jar
+discordintegration/mods/Caliper-1.12.2-1.1.44.jar
+discordintegration/config/TwitchSpawn/rules.xad_k.tsl
+discordintegration/config/TwitchSpawn/rules.default.tsl
+discordintegration/config/TwitchSpawn/preferences.toml
+discordintegration/config/TwitchSpawn/messages.title.json
+discordintegration/config/TwitchSpawn/messages.subtitle.json
+discordintegration/config/TwitchSpawn/credentials.toml
