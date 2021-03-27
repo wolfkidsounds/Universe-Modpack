@@ -4,6 +4,8 @@
     },  
     {
       "dimension": -1501,
+      "block": ["extraplanets:europa", "extraplanets:salt"],
+      "mintime": 13000,
       "mobs": [
         {
           "mob": "lycanitesmobs:yeti",
@@ -39,6 +41,7 @@
     },
     {
       "dimension": -18,
+      "block": "extraplanets:neptune",
       "mobs": [
         {
           "mob": "lycanitesmobs:ventoraptor",
@@ -68,6 +71,7 @@
     },
     {
       "dimension": -13,
+      "block": "extraplanets:mercury",
       "mobs": [
         {
           "mob": "lycanitesmobs:wisp",
@@ -91,6 +95,7 @@
     },
     {
       "dimension": -20,
+      "block": "extraplanets:ceres",
       "mobs": [
         {
           "mob": "lycanitesmobs:maug",
@@ -108,6 +113,7 @@
     },
     {
       "dimension": -15,
+      "mintime": 13000,
       "mobs": [
         {
           "mob": "lycanitesmobs:cinder",
@@ -161,6 +167,8 @@
     },
     {
       "dimension": -16,
+      "block": "extraplanets:saturn",
+      "mintime": 13000,
       "mobs": [
         {
           "mob": "lycanitesmobs:geonach",
@@ -296,19 +304,43 @@
     },
     {
       "dimension": 17,
+      "biome": [
+        "atum:sand_plains", 
+        "atum:sand_dunes"
+      ],
+      "block": [
+        "atum:sand", 
+        "atum:sand_layer"
+      ],
       "mobs": [
         {
           "mob": "lycanitesmobs:crusk",
           "weight": 1,
           "groupcountmin": 1,
           "groupcountmax": 1
-        },
+        }
+      ]
+    },
+    {
+      "dimension": 17,
+      "biome": "atum:limestone_mountains",
+      "mobs": [
         {
           "mob": "lycanitesmobs:vespid",
           "weight": 1,
           "groupcountmin": 1,
           "groupcountmax": 1
-        },
+        }
+      ]
+    },
+    {
+      "dimension": 17,
+      "biome": "atum:sand_plains",
+      "block": [
+        "atum:sand", 
+        "atum:sand_layer"
+      ],
+      "mobs": [
         {
           "mob": "lycanitesmobs:sutiramu",
           "weight": 1,
