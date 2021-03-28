@@ -1,7 +1,13 @@
 [
     {
-      "remove": ["avatarmod:airbender", "avatarmod:firebender", "betteranimalsplus:crab", "galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton", "galacticraftcore:evolved_enderman", "galacticraftcore:evolved_spider"]
-    },  
+      "remove": ["galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton", "galacticraftcore:evolved_enderman", "galacticraftcore:evolved_spider"]
+    },
+    {
+      "remove": ["avatarmod:airbender", "avatarmod:firebender"]
+    },
+    {
+      "remove": ["betteranimalsplus:crab"]
+    },
     {
       "dimension": -1501,
       "block": ["extraplanets:europa", "extraplanets:salt"],
