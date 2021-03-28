@@ -307,8 +307,36 @@
   { 
     "mintime": 13000,
     "mob": "lycanitesmobs:brain_slime",
+    "seesky": true,
     "mincount": {
       "amount": 3
+    },
+    "result": "deny"
+  },
+  { 
+    "mintime": 13000,
+    "mob": "lycanitesmobs:treasure_slime",
+    "seesky": true,
+    "mincount": {
+      "amount": 1
+    },
+    "result": "deny"
+  },
+  { 
+    "mintime": 13000,
+    "mob": "endreborn:chronologist",
+    "seesky": true,
+    "mincount": {
+      "amount": 2
+    },
+    "result": "deny"
+  },
+  { 
+    "mintime": 13000,
+    "mob": "primitivemobs:rocket_creeper",
+    "seesky": true,
+    "mincount": {
+      "amount": 2
     },
     "result": "deny"
   },
@@ -383,15 +411,42 @@
     "biometype": ["MOUNTAIN", "HILLS"],
     "mob": "avatarmod:skybison",
     "mincount": {
-      "amount": 15
+      "amount": 8
+    },
+    "result": "deny"
+  },
+  { 
+    "dimension": 0,
+    "biometype": ["MOUNTAIN", "HILLS", "PLAINS"],
+    "seesky": true,
+    "mob": "minecraft:horse",
+    "mincount": {
+      "amount": 20
     },
     "result": "deny"
   },
   { 
     "biometype": ["PLAINS"],
     "mob": "primitivemobs:traveling_merchant",
+    "seesky": true,
     "mincount": {
       "amount": 1
+    },
+    "result": "deny"
+  },
+  { 
+    "mob": "minecraft:cow",
+    "seesky": true,
+    "mincount": {
+      "amount": 20
+    },
+    "result": "deny"
+  },
+  { 
+    "mob": "minecraft:pig",
+    "seesky": true,
+    "mincount": {
+      "amount": 20
     },
     "result": "deny"
   },
@@ -402,7 +457,34 @@
     },
     "result": "deny"
   },
+  { 
+    "biometype": ["SANDY"],
+    "mob": "betteranimalsplus:coyote",
+    "seesky": true,
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  { 
+    "mob": "minecraft:chicken",
+    "seesky": true,
+    "mincount": {
+      "amount": 20
+    },
+    "result": "deny"
+  },
+  { 
+    "mob": "primitivemobs:support_creeper",
+    "mintime": 13000,
+    "seesky": true,
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
   {
+    "dimension": -21,
     "mob": ["avatarmod:airbender", "avatarmod:firebender"],
     "result": "deny"
   },
@@ -454,6 +536,14 @@
   {
     "dimension": [7, 17, -30, -20, -21, -15, -29, -13, -18, -19, -16, -17, -31, -1505, -1503, -1506, -1511, -1500, -28, -1509, -1502, -1507, -1508, -1510, -1504],
     "mod": "avatarmod",
+    "result": "deny"
+  },
+  {
+    "mod": "eyesinthedarkness",
+    "mincount": {
+        "amount": 5,
+        "mod": "eyesinthedarkness"
+    },
     "result": "deny"
   }
   ]
