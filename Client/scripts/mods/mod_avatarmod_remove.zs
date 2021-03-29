@@ -28,9 +28,7 @@ val removeAndHide = [
         <am:throwable_knife>,
         <am:metal_axe>,
         <am:water_tribe_wolf_general_chestplate>,
-        <am:water_tribe_wolf_sergent_chestplate>,
-        <avatarmod:scroll:1>,
-        <avatarmod:scroll:2>
+        <am:water_tribe_wolf_sergent_chestplate>
 ] as IItemStack[];
 
     for item in removeAndHide {mods.jei.JEI.removeAndHide(item);}
@@ -48,7 +46,9 @@ val removeRecipe = [
         <am:red_metal_plate>,
         <am:blue_metal_plate>,
         <am:green_metal_plate>,
-        <am:yellow_metal_plate>
+        <am:yellow_metal_plate>,
+        <avatarmod:scroll:1>,
+        <avatarmod:scroll:2>
 ] as IItemStack[];
 
     for item in removeRecipe {recipes.remove(item);}
