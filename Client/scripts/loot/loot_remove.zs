@@ -11,8 +11,6 @@ mods.ltt.LootTable.removeModItem("enderio");
 
 mods.ltt.LootTable.removeModItem("simpledifficulty");
 
-mods.ltt.LootTable.removeModItem("matteroverdrive");
-
 
 //remove specific item from all lists
 mods.ltt.LootTable.removeGlobalItem("endreborn:item_shard_obsidian");
