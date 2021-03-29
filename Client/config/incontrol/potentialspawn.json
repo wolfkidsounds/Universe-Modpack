@@ -1,9 +1,6 @@
 [
     {
-      "remove": ["galacticraftcore:evolved_zombie", "galacticraftcore:evolved_creeper", "galacticraftcore:evolved_skeleton", "galacticraftcore:evolved_enderman", "galacticraftcore:evolved_spider"]
-    },
-    {
-      "remove": ["betteranimalsplus:crab"]
+      "remove": ["avatarmod:firebender", "avatarmod:airbender", "betteranimalsplus:crab", "minecraft:bat"]
     },
     {
       "dimension": -1501,
