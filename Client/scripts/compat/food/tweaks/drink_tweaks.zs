@@ -1,5 +1,11 @@
 import crafttweaker.item.IItemStack;
 import mods.hungertweaker.FoodValues;
+import foodtweaker.FoodInfo;
+import mods.foodtweaker.Tweaker;
+
+
+//foodInfo //int healAmount, float saturationAmount, boolean isMeat, boolean alwaysEdible
+    var drinkStats = FoodInfo(0, 0.0, false, true);
 
 //food-array
 val drinks = [
@@ -137,4 +143,5 @@ val drinks = [
 for drink in drinks {
     drink.foodValues.hunger = 0;
     drink.foodValues.saturationModifier = 0;
+    Tweaker.changeFoodStats(drink, drinkStats);
 }
