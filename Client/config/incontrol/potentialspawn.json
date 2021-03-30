@@ -1,5 +1,12 @@
 [
     {
-      "remove": ["prmitivemobs:grovesprite", "avatarmod:firebender", "avatarmod:airbender", "betteranimalsplus:crab", "minecraft:bat"]
+      "remove": [
+        "prmitivemobs:grovesprite", 
+        "avatarmod:firebender", 
+        "avatarmod:airbender", 
+        "betteranimalsplus:crab", 
+        "minecraft:bat",
+        "mowziesmobs:lantern"
+      ]
     }
 ]
