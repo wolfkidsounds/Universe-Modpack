@@ -107,6 +107,20 @@ val drinks = [
     <harvestcraft:grapefruitsodaitem>,
 
 
+//teaitems
+    <harvestcraft:teaitem>,
+    <harvestcraft:raspberryicedteaitem>,
+    <harvestcraft:chaiteaitem>,
+    <harvestcraft:greenteaitem>,
+    <harvestcraft:earlgreyteaitem>,
+    <harvestcraft:bubbleteaitem>,
+    <harvestcraft:sweetteaitem>,
+    <harvestcraft:rosepetalteaitem>,
+    <harvestcraft:sundayhighteaitem>,
+    <harvestcraft:lycheeteaitem>,
+    <harvestcraft:dandelionteaitem>,
+
+
 //brewcraft,
     <brewcraft:beachrumitem>,
     <brewcraft:cherryvodkaitem>,
