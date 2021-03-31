@@ -13,6 +13,7 @@ import crafttweaker.oredict.IOreDictEntry;
 
     //simple shapeless recipe
         recipes.addShapeless(<harvestcraft:freshwateritem>, [<ore:listAllwater>]);
+        recipes.addShapeless(<harvestcraft:freshwateritem> * 8, [<minecraft:water_bucket>]);
 
 //oil compat
         recipes.addShapeless(<harvestcraft:oliveoilitem>, [<ore:toolJuicer>, <ore:listAllseed>]);
