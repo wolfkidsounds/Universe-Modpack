@@ -5,7 +5,6 @@ import crafttweaker.entity.IEntityDefinition;
 //version 4.0.4
 
 //Air
-
         val airMobLow = [
                 <entity:minecraft:shulker>,
                 <entity:endreborn:endguard>,
