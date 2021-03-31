@@ -17,6 +17,13 @@ mods.ltt.LootTable.removeModItem("simpledifficulty");
 mods.ltt.LootTable.removeGlobalItem("endreborn:item_shard_obsidian");
 mods.ltt.LootTable.removeGlobalItem("minecraft:obsidian");
 
+//remove bender-drops (even harder!)
+mods.ltt.LootTable.removeGlobalItem("avatarmod:scroll");
+mods.ltt.LootTable.removeGlobalItem("avatarmod:scroll:1");
+mods.ltt.LootTable.removeGlobalItem("avatarmod:scroll:2");
+mods.ltt.LootTable.removeGlobalItem("avatarmod:scroll:3");
+mods.ltt.LootTable.removeGlobalItem("avatarmod:scroll:4");
+
 
 //customRemoval
 <entity:avatarmod:airbender>.removeDrop(<avatarmod:scroll:4>);
