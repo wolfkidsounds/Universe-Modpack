@@ -19,7 +19,6 @@ mods.ltt.LootTable.removeGlobalItem("minecraft:obsidian");
 
 
 //customRemoval
-<entity:avatarmod:airbender>.removeDrop(<avatarmod:scroll:2>);
 <entity:avatarmod:airbender>.removeDrop(<avatarmod:scroll:4>);
 <entity:avatarmod:airbender>.removeDrop(<avatarmod:scroll>);
 
