@@ -107,7 +107,7 @@ val drinks = [
     <harvestcraft:grapefruitsodaitem>,
 
 
-//teaitems
+//harvestcraft tea
     <harvestcraft:teaitem>,
     <harvestcraft:raspberryicedteaitem>,
     <harvestcraft:chaiteaitem>,
