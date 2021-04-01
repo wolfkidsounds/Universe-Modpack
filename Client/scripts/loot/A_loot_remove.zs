@@ -23,9 +23,3 @@ mods.ltt.LootTable.removeGlobalItem("avatarmod:scroll:1");
 mods.ltt.LootTable.removeGlobalItem("avatarmod:scroll:2");
 mods.ltt.LootTable.removeGlobalItem("avatarmod:scroll:3");
 mods.ltt.LootTable.removeGlobalItem("avatarmod:scroll:4");
-
-
-//customRemoval
-<entity:avatarmod:firebender>.removeDrop(<avatarmod:scroll:2>);
-<entity:avatarmod:firebender>.removeDrop(<avatarmod:scroll:4>);
-<entity:avatarmod:firebender>.removeDrop(<avatarmod:scroll>);
