@@ -1,6 +1,6 @@
 import crafttweaker.item.IItemStack;
 
-val avatarScrolls = [
+val stackSizeMax = [
     <avatarmod:scroll:0>,
     <avatarmod:scroll:1>,
     <avatarmod:scroll:2>,
@@ -13,7 +13,7 @@ val avatarScrolls = [
     <minecraft:snowball>
 ] as IItemStack[];
 
-for scroll in avatarScrolls {
+for scroll in stackSizeMax {
     scroll.maxStackSize = 64;
 }
 
