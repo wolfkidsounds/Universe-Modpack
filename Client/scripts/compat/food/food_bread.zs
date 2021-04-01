@@ -8,6 +8,6 @@ import crafttweaker.oredict.IOreDictEntry;
 
 
 recipes.remove(<minecraft:bread>);
-furnace.remove(<minecraft:bread>);
 
+furnace.remove(<minecraft:bread>);
 furnace.addRecipe(<minecraft:bread>, <harvestcraft:doughitem>);
