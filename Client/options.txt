@@ -5,7 +5,7 @@ fov:0.25
 gamma:1.0
 saturation:0.0
 renderDistance:10
-guiScale:3
+guiScale:2
 particles:0
 bobView:true
 anaglyph3d:false
@@ -103,7 +103,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -111,6 +110,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:0
 key_avatar.Bend:56
 key_avatar.BendingCycleLeft:0
 key_avatar.BendingCycleRight:0
@@ -128,6 +128,8 @@ key_key.ironbackpacks.open:48
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_keybind.railcraft.cart.bed:0
+key_keys.servertabinfo.show:29
+key_keys.servertabinfo.show2:157
 key_walljump.key.walljump:42
 key_key.cameraZoomIn:0
 key_key.cameraZoomOut:0

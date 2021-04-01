@@ -42,6 +42,7 @@ val removeAndHide = [
     recipes.addShapeless(<minecraft:stone>, [<minecraft:stone_slab>,<minecraft:stone_slab>]); //Shapeless Stone
     recipes.addShapeless(<minecraft:mushroom_stew>, [<harvestcraft:potitem>, <ore:mushroomAny>, <ore:mushroomAny>]); //Shapeless Stew #213
     recipes.addShapeless(<minecraft:mushroom_stew>, [<harvestcraft:potitem>, <ore:mushroomAny>, <ore:mushroomAny>]); //Shapeless Stew #213
+    recipes.addShapeless(<minecraft:beetroot_seeds>, [<minecraft:beetroot>]); //Shapeless Beetroot Seeds
 //-------------------------------------------------------------------   
 
 
