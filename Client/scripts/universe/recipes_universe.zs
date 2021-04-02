@@ -33,9 +33,9 @@ import crafttweaker.liquid.ILiquidStack;
     //COMPRESSED
         //SINGLE
             recipes.addShaped(<universemod:singlecompressedstone>, [
-            [<minecraf:stone>, <minecraf:stone>, <minecraf:stone>],
-            [<minecraf:stone>, <minecraf:stone>, <minecraf:stone>],
-            [<minecraf:stone>, <minecraf:stone>, <minecraf:stone>]]);
+            [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>],
+            [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>],
+            [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
 
         //DOUBLE
             recipes.addShaped(<universemod:doublecompressedstone>, [
