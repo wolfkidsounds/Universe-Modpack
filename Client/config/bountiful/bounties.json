@@ -396,15 +396,6 @@
     "weight": 100
   },
   {
-    "content": "entity:minecraft:enderdragon",
-    "amount": {
-      "min": 1,
-      "max": 1
-    },
-    "unitWorth": 524288,
-    "weight": 5
-  },
-  {
     "content": "atum:desert_helmet_diamond",
     "amount": {
       "min": 1,
