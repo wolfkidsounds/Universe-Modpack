@@ -27,3 +27,30 @@ import crafttweaker.liquid.ILiquidStack;
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>],
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>],
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>]]);
+
+
+//UNIVERSEMOD
+    //COMPRESSED
+        //SINGLE
+            recipes.addShaped(<universemod:singlecompressedstone>, [
+            [<minecraf:stone>, <minecraf:stone>, <minecraf:stone>],
+            [<minecraf:stone>, <minecraf:stone>, <minecraf:stone>],
+            [<minecraf:stone>, <minecraf:stone>, <minecraf:stone>]]);
+
+        //DOUBLE
+            recipes.addShaped(<universemod:doublecompressedstone>, [
+            [<universemod:singlecompressedstone>, <universemod:singlecompressedstone>, <universemod:singlecompressedstone>],
+            [<universemod:singlecompressedstone>, <universemod:singlecompressedstone>, <universemod:singlecompressedstone>],
+            [<universemod:singlecompressedstone>, <universemod:singlecompressedstone>, <universemod:singlecompressedstone>]]);
+
+        //TRIPLE
+            recipes.addShaped(<universemod:triplecompressedstone>, [
+            [<universemod:doublecompressedstone>, <universemod:doublecompressedstone>, <universemod:doublecompressedstone>],
+            [<universemod:doublecompressedstone>, <universemod:doublecompressedstone>, <universemod:doublecompressedstone>],
+            [<universemod:doublecompressedstone>, <universemod:doublecompressedstone>, <universemod:doublecompressedstone>]]);
+
+        //QUADRUPLE
+            recipes.addShaped(<universemod:quadruplecompressedstone>, [
+            [<universemod:triplecompressedstone>, <universemod:triplecompressedstone>, <universemod:triplecompressedstone>],
+            [<universemod:triplecompressedstone>, <universemod:triplecompressedstone>, <universemod:triplecompressedstone>],
+            [<universemod:triplecompressedstone>, <universemod:triplecompressedstone>, <universemod:triplecompressedstone>]]);
