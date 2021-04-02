@@ -8,11 +8,11 @@ import crafttweaker.liquid.ILiquidStack;
 //MEKANISM
     //Enrichment Chamber
         //InputStack, OutputStack
-        mods.mekanism.enrichment.addRecipe(<universemod:universecrystal>, <universemod:universedust> * 2);
+            mods.mekanism.enrichment.addRecipe(<universemod:universecrystal>, <universemod:universedust>);
 
     //Crusher
         //InputStack, OutputStack
-        mods.mekanism.crusher.addRecipe(<universemod:universecrystal>, <universemod:universedust>);
+            mods.mekanism.crusher.addRecipe(<universemod:universecrystal>, <universemod:universedust> * 2);
 
 
 //ENDERIO
