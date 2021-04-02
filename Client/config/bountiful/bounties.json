@@ -159,16 +159,7 @@
       "max": 1
     },
     "unitWorth": 81920,
-    "weight": 100
-  },
-  {
-    "content": "entity:mowziesmobs:frostmaw",
-    "amount": {
-      "min": 1,
-      "max": 1
-    },
-    "unitWorth": 20480,
-    "weight": 100
+    "weight": 50
   },
   {
     "content": "entity:galacticraftcore:alien_villager",
@@ -177,6 +168,294 @@
       "max": 10
     },
     "unitWorth": 2048,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:red_nether_brick",
+    "amount": {
+      "min": 54,
+      "max": 110
+    },
+    "unitWorth": 5,
+    "weight": 200
+  },
+  {
+    "content": "universemod:quadruplecompressedstone",
+    "amount": {
+      "min": 2,
+      "max": 32
+    },
+    "unitWorth": 1536,
+    "weight": 100
+  },
+  {
+    "content": "harvestcraft:honeyitem",
+    "amount": {
+      "min": 2,
+      "max": 52
+    },
+    "unitWorth": 3,
+    "weight": 200
+  },
+  {
+    "content": "atum:crystal_glass",
+    "amount": {
+      "min": 54,
+      "max": 110
+    },
+    "unitWorth": 3,
+    "weight": 200
+  },
+  {
+    "content": "enderio:item_material:14",
+    "amount": {
+      "min": 10,
+      "max": 24
+    },
+    "unitWorth": 60,
+    "weight": 200
+  },
+  {
+    "content": "minecraft:ghast_tear",
+    "amount": {
+      "min": 2,
+      "max": 4
+    },
+    "unitWorth": 22,
+    "weight": 200
+  },
+  {
+    "content": "universemod:universedust",
+    "amount": {
+      "min": 16,
+      "max": 48
+    },
+    "unitWorth": 6144,
+    "weight": 50
+  },
+  {
+    "content": "dragonmounts:dragonarmor_iron",
+    "amount": {
+      "min": 6,
+      "max": 24
+    },
+    "unitWorth": 30,
+    "weight": 100
+  },
+  {
+    "content": "am:katana",
+    "amount": {
+      "min": 6,
+      "max": 24
+    },
+    "unitWorth": 42,
+    "weight": 100
+  },
+  {
+    "content": "natura:nether_logs",
+    "amount": {
+      "min": 54,
+      "max": 110
+    },
+    "unitWorth": 6,
+    "weight": 200
+  },
+  {
+    "content": "natura:nether_logs:1",
+    "amount": {
+      "min": 54,
+      "max": 110
+    },
+    "unitWorth": 6,
+    "weight": 200
+  },
+  {
+    "content": "entity:avatarmod:airbender",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 2,
+    "weight": 100
+  },
+  {
+    "content": "entity:avatarmod:firebender",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 2,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:blaze",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 4,
+    "weight": 100
+  },
+  {
+    "content": "entity:primitivemobs:goblin",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 6,
+    "weight": 100
+  },
+  {
+    "content": "entity:netherex:spinout",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 6,
+    "weight": 100
+  },
+  {
+    "content": "entity:twilightforest:fire_beetle",
+    "amount": {
+      "min": 12,
+      "max": 36
+    },
+    "unitWorth": 2,
+    "weight": 100
+  },
+  {
+    "content": "twilightforest:trophy:1",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 45056,
+    "weight": 100
+  },
+  {
+    "content": "twilightforest:trophy:2",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 96256,
+    "weight": 100
+  },
+  {
+    "content": "twilightforest:trophy:3",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 100352,
+    "weight": 100
+  },
+  {
+    "content": "twilightforest:trophy:4",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 57344,
+    "weight": 100
+  },
+  {
+    "content": "twilightforest:trophy:5",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 106496,
+    "weight": 100
+  },
+  {
+    "content": "twilightforest:trophy:8",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 8192,
+    "weight": 100
+  },
+  {
+    "content": "atum:pharaoh",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 36864,
+    "weight": 100
+  },
+  {
+    "content": "betteranimalsplus:hirschgeist",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 1024,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:enderdragon",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 524288,
+    "weight": 5
+  },
+  {
+    "content": "atum:desert_helmet_diamond",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 232,
+    "weight": 100
+  },
+  {
+    "content": "atum:desert_chest_diamond",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 364,
+    "weight": 100
+  },
+  {
+    "content": "atum:desert_legs_diamond",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 320,
+    "weight": 100
+  },
+  {
+    "content": "atum:desert_boots_diamond",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 188,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:bone",
+    "amount": {
+      "min": 16,
+      "max": 48
+    },
+    "unitWorth": 8,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:squid",
+    "amount": {
+      "min": 16,
+      "max": 48
+    },
+    "unitWorth": 8,
     "weight": 100
   }
 ]

@@ -211,6 +211,9 @@ bendableBlocksNames:
 - magicalcrops:essenceorenether
 - mekanism:oreblock
 - minecraft:stone
+- minecraft:cobblestone
+- minecraft:gravel
+- minecraft:hardened_clay
 - minecraft:sand
 - minecraft:sandstone
 - minecraft:coal_ore

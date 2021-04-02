@@ -8,11 +8,11 @@ import crafttweaker.liquid.ILiquidStack;
 //MEKANISM
     //Enrichment Chamber
         //InputStack, OutputStack
-        mods.mekanism.enrichment.addRecipe(<universemod:universecrystal>, <universemod:universedust> * 2);
+            mods.mekanism.enrichment.addRecipe(<universemod:universecrystal>, <universemod:universedust>);
 
     //Crusher
         //InputStack, OutputStack
-        mods.mekanism.crusher.addRecipe(<universemod:universecrystal>, <universemod:universedust>);
+            mods.mekanism.crusher.addRecipe(<universemod:universecrystal>, <universemod:universedust> * 2);
 
 
 //ENDERIO
@@ -27,3 +27,30 @@ import crafttweaker.liquid.ILiquidStack;
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>],
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>],
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>]]);
+
+
+//UNIVERSEMOD
+    //COMPRESSED
+        //SINGLE
+            recipes.addShaped(<universemod:singlecompressedstone>, [
+            [<minecraf:stone>, <minecraf:stone>, <minecraf:stone>],
+            [<minecraf:stone>, <minecraf:stone>, <minecraf:stone>],
+            [<minecraf:stone>, <minecraf:stone>, <minecraf:stone>]]);
+
+        //DOUBLE
+            recipes.addShaped(<universemod:doublecompressedstone>, [
+            [<universemod:singlecompressedstone>, <universemod:singlecompressedstone>, <universemod:singlecompressedstone>],
+            [<universemod:singlecompressedstone>, <universemod:singlecompressedstone>, <universemod:singlecompressedstone>],
+            [<universemod:singlecompressedstone>, <universemod:singlecompressedstone>, <universemod:singlecompressedstone>]]);
+
+        //TRIPLE
+            recipes.addShaped(<universemod:triplecompressedstone>, [
+            [<universemod:doublecompressedstone>, <universemod:doublecompressedstone>, <universemod:doublecompressedstone>],
+            [<universemod:doublecompressedstone>, <universemod:doublecompressedstone>, <universemod:doublecompressedstone>],
+            [<universemod:doublecompressedstone>, <universemod:doublecompressedstone>, <universemod:doublecompressedstone>]]);
+
+        //QUADRUPLE
+            recipes.addShaped(<universemod:quadruplecompressedstone>, [
+            [<universemod:triplecompressedstone>, <universemod:triplecompressedstone>, <universemod:triplecompressedstone>],
+            [<universemod:triplecompressedstone>, <universemod:triplecompressedstone>, <universemod:triplecompressedstone>],
+            [<universemod:triplecompressedstone>, <universemod:triplecompressedstone>, <universemod:triplecompressedstone>]]);
