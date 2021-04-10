@@ -1,6 +1,6 @@
 import crafttweaker.item.IItemStack;
 
-val stackSizeMax = [
+val stackSizeScrolls = [
     <avatarmod:scroll:0>,
     <avatarmod:scroll:1>,
     <avatarmod:scroll:2>,
@@ -13,10 +13,23 @@ val stackSizeMax = [
     <minecraft:snowball>
 ] as IItemStack[];
 
-for scroll in stackSizeMax {
-    scroll.maxStackSize = 64;
+for item in stackSizeScrolls {
+    item.maxStackSize = 64;
+}
+
+val stackSizeDragonArmor = [
+    <dragonmounts:dragonarmor_iron>,
+    <dragonmounts:dragonarmor_gold>,
+    <dragonmounts:dragonarmor_diamond>,
+    <dragonmounts:dragonarmor_emerald>
+] as IItemStack[];
+
+for item in stackSizeDragonArmor {
+    item.maxStackSize = 32;
 }
 
 <minecraft:potion>.maxStackSize = 3;
 <minecraft:splash_potion>.maxStackSize = 3;
 <minecraft:lingering_potion>.maxStackSize = 3;
+
+
