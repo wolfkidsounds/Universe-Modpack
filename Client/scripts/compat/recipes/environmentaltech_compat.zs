@@ -8,4 +8,4 @@ import crafttweaker.oredict.IOreDictEntry;
 
 //InfusionString, InputInfusion, InputStack, OutputStack 
     //InfusionString = CARBON;TIN;DIAMOND;REDSTONE;FUNGI;BIO;OBSIDIAN
-        mods.mekanism.infuser.addRecipe("OBSIDIAN", 20, <enderio:item_alloy_ball:2>, <environmentaltech:litherite_crystal>);s
+        mods.mekanism.infuser.addRecipe("OBSIDIAN", 20, <enderio:item_alloy_ball:2>, <environmentaltech:litherite_crystal>);
