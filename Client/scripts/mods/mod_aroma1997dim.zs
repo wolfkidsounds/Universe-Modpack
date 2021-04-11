@@ -8,7 +8,7 @@ import crafttweaker.item.IItemStack;
 //changeDimensionChanger Recipe
     recipes.remove(<aroma1997sdimension:miningmultitool>);
     recipes.addShaped(<aroma1997sdimension:miningmultitool>, [
-        [null, <mowziesmobs:ice_crystal>, null],
+        [null, <netherex:rime_crystal>, null],
         [<ore:stickWood>, <tconstruct:materials:10>, <ore:stickWood>],
         [null, <ore:stickWood>, null]]);
 
