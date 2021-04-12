@@ -28,6 +28,13 @@ import crafttweaker.liquid.ILiquidStack;
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>],
             [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>]]);
 
+//MEKANISM
+    //INFINITYDUST
+        //InputStack, InputGas, OutputStack
+            //InputGas only accepts "<gas:sulfuricAcid>", "<gas:water>" or "<gas:hydrogenChloride>"
+                mods.mekanism.chemical.injection.addRecipe(<universemod:flintblock>, <gas:hydrogenChloride>, <enderio:item_material:20> * 64);
+                mods.mekanism.chemical.injection.addRecipe(<minecraft:flint>, <gas:hydrogenChloride>, <enderio:item_material:20> * 8);
+
 
 //UNIVERSEMOD
     //COMPRESSED
