@@ -6,12 +6,12 @@ gamma:1.0
 saturation:0.0
 renderDistance:10
 guiScale:2
-particles:0
+particles:2
 bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:true
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -111,7 +111,7 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.lockBuilding:0
-key_avatar.Bend:56
+key_avatar.Bend:0
 key_avatar.BendingCycleLeft:0
 key_avatar.BendingCycleRight:0
 key_avatar.Skills:0
@@ -127,6 +127,8 @@ key_key.ironbackpacks.equip:0
 key_key.ironbackpacks.open:48
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
+key_oreexcavation.key.excavate:56
+key_oreexcavation.key.shape:47
 key_keybind.railcraft.cart.bed:0
 key_keys.servertabinfo.show:29
 key_keys.servertabinfo.show2:157
@@ -154,6 +156,15 @@ key_Options Gui:23
 key_key.toggleCleanView:0
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
+key_key.dragon.breath:19
+key_key.dragon.cancelhover:48
+key_key.dragon.projectile:45
+key_key.dragon.followYaw:49
+key_key.dragon.lockY:50
+key_key.dragon.f7:65
+key_key.dragon.boost:29
+key_key.dragon.dismount:45
+key_key.dragon.down:56
 key_Open Powered Vehicle Inventory:0
 key_Open Module Manager:0
 key_Open Pre Launch Checklist GUI:0
